@@ -2,4 +2,5 @@ collections:
   primary-info-hub:
     output: true
     order:
+      - Forms.md
       - SN Home Based Learning Infosite.md
