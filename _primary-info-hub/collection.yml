@@ -2,6 +2,7 @@ collections:
   primary-info-hub:
     output: true
     order:
+      - Bus Services.md
       - Uniform and Books.md
       - Pupil Services.md
       - School Fees.md
