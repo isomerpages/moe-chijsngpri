@@ -1,0 +1,4 @@
+collections:
+  primary-info-hub:
+    output: true
+    order: []
