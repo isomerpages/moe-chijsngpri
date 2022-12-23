@@ -2,5 +2,6 @@ collections:
   primary-info-hub:
     output: true
     order:
+      - Calendar.md
       - Forms.md
       - SN Home Based Learning Infosite.md
