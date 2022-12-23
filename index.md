@@ -4,14 +4,10 @@ title: CHIJ St Nicholas Girls' School (Primary)
 description: Brief site description here
 image: /images/logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: SNGS Main
           description: ""
