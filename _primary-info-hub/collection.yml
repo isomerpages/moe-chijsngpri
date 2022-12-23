@@ -2,6 +2,7 @@ collections:
   primary-info-hub:
     output: true
     order:
+      - Pupil Services.md
       - School Fees.md
       - Circulars.md
       - Calendar.md
