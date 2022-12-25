@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Department Staff/ICT & MRL.md
       - Department Staff/.keep
       - Form & Co – Form Teachers (2022).md
