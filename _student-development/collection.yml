@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Citizenship Education/Citizenship Education.md
       - Citizenship Education/.keep
       - Values in Action.md
       - Cyber Wellness.md
