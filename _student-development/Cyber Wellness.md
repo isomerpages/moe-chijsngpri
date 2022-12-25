@@ -32,3 +32,4 @@ description: ""
 <p><strong>Cyber Wellness Fair (Term 2)</strong>&nbsp;- The school will organise a week of cyber wellness fair for pupils to play and learn more about cyber wellness. They can learn through games and quizzes created by the Cyber Wellness and Media Representatives from Primary 3 to Primary 6.</p>
 <p><strong>CW Ambassador Training</strong> - Every year, the school will select 4 Primary 4 pupils to go through a series of Cyber Wellness Training organised by MOE. These pupils will continue to serve as our school's cyber wellness ambassador until they graduate in Primary 6. They will help to promote Cyber Wellness within school.</p>
 <img src="/images/cw3.jpg">
+<p>To help support Parents on the later Cyber Wellness matters, we have also included a link below for you to read up more about the current trends about the cyber world.&nbsp;</p>
