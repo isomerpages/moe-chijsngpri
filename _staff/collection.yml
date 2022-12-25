@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Department Staff/English, Social Studies and Project Work.md
       - Department Staff/Mathematics.md
       - Department Staff/Science.md
       - Department Staff/Chinese.md
