@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Student Development
+    collection: student-development
   - title: Staff
     collection: staff
   - title: Admissions
