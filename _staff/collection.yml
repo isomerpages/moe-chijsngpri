@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - School Exco.md
       - Department Staff/English, Social Studies and Project Work.md
       - Department Staff/Mathematics.md
       - Department Staff/Science.md
