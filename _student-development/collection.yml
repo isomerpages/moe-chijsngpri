@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE Framework/CCE Guidance Module & Sexuality Education.md
       - CCE Framework/Programme for Active Learning (PAL).md
       - CCE Framework/CCE Lessons.md
       - CCE Framework/Values Education.md
