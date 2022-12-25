@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE Framework/CCE Framework.md
       - CCE Framework/.keep
       - Student Leadership.md
       - Citizenship Education/.keep
