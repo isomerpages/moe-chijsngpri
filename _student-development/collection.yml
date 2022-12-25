@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE Framework/CCE Lessons.md
       - CCE Framework/Values Education.md
       - CCE Framework/CCE Framework.md
       - CCE Framework/.keep
