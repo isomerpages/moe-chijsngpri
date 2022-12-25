@@ -2,6 +2,7 @@ collections:
   staff:
     output: true
     order:
+      - Department Staff/PE & Aesthetics.md
       - Department Staff/Pupil Development Team.md
       - Department Staff/ICT & MRL.md
       - Department Staff/.keep
