@@ -2,5 +2,6 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
+      - Science.md
       - Chinese.md
       - PE and Aesthetics.md
