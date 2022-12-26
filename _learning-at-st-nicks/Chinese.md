@@ -51,7 +51,11 @@ description: ""
 <td style="width: 80%;"><img src="/images/chi3.jpg"></td>
 <td style="width: 20%;">&nbsp;</td>
 </tr>
-	<tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
 <td style="width: 80%;"><img src="/images/chi4.jpg"></td>
 <td style="width: 20%;">&nbsp;</td>
 </tr>
