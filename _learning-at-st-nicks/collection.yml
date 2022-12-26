@@ -2,6 +2,7 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
+      - English.md
       - Maths.md
       - Science.md
       - Chinese.md
