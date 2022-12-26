@@ -35,3 +35,48 @@ third_nav_title: Performing Arts
 </tr>
 </tbody>
 </table>
+<h4><strong>Teachers-in-charge</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="113"><strong>Level</strong></td>
+<td style="text-align: center;" width="198"><strong>Teacher-in-charge</strong></td>
+<td style="text-align: center;" width="293"><strong>Email</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="113">P3</td>
+<td style="text-align: center;" width="198">Mrs Jane Teo</td>
+<td style="text-align: center;" width="293">cheong_fong_teng@schools.gov.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="113">P4</td>
+<td style="text-align: center;" width="198">Mrs Chay Jiawei</td>
+<td style="text-align: center;" width="293">guo_jiawei@schools.gov.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="113">P5 &ndash; P6</td>
+<td style="text-align: center;" width="198">Ms Koh Yi Min Geraldine</td>
+<td style="text-align: center;" width="293">koh_yi_min_geraldine@schools.gov.sg</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Schedule</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="184"><strong>Day</strong></td>
+<td style="text-align: center;" width="184"><strong>Time</strong></td>
+<td style="text-align: center;" width="184"><strong>Venue</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="184">Wednesday</td>
+<td style="text-align: center;" width="184">2 p.m. &ndash; 4 p.m.</td>
+<td style="text-align: center;" width="184">Music Room 1</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="184">Friday</td>
+<td style="text-align: center;" width="184">2 p.m. &ndash; 4 p.m.</td>
+<td style="text-align: center;" width="184">Music Room 1</td>
+</tr>
+</tbody>
+</table>
