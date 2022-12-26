@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Physical Sports/Modular CCA.md
       - Physical Sports/Netball.md
       - Physical Sports/Rhythmic Gymnastics.md
       - Physical Sports/Table Tennis.md
