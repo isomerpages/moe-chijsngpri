@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/CLCC – Mass Communication.md
       - Clubs & Societies/Library.md
       - Clubs & Societies/Makers Club.md
       - Clubs & Societies/Media Club.md
