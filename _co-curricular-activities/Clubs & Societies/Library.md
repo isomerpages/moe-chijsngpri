@@ -51,3 +51,7 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
+<img src="/images/l1.jpg">
+<img src="/images/l2.jpg">
+<img src="/images/l3.jpg">
+<img src="/images/l4.jpg">
