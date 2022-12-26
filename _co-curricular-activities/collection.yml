@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/ELDDS.md
       - Performing Arts/Guzheng.md
       - Performing Arts/.keep
