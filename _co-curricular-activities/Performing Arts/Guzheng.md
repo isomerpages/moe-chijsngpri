@@ -89,3 +89,4 @@ third_nav_title: Performing Arts
 </tr>
 </tbody>
 </table>
+<p style="text-align: right;"><em>Last updated: 12 Mar 2020</em></p>
