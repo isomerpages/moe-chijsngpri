@@ -4,3 +4,48 @@ permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<table class="iveo_table ives_tab_simple3">
+<tbody>
+<tr>
+<th style="text-align: center;">CCA</th>
+<th style="text-align: center;">Wednesday<br />2.15 - 4 p.m.</th>
+<th style="text-align: center;">Friday<br />2.15 - 4 p.m.</th>
+<th style="text-align: center;">Teachers in charge</th>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/clcc-performing-arts" target="">CHINESE CULTURE AND LANGUAGE CLUB</a></td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Library (Level 4)<br />PAL Room (Level 5)</td>
+<td style="text-align: center;">
+<div>Mdm Chan Hui Ming (OIC)</div>
+<div>Mr Chua Keng Wah (2IC)&nbsp;</div>
+<div>Mdm Li Yan Zhen</div>
+<div>Ms Dong Yuyi</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/library" target="">MEDIA RESOURCE LIBRARY</a></td>
+<td style="text-align: center;">Library&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<div>Mdm Li Qi Ning (CL)</div>
+<div>Mrs Laura Lim (EL)</div>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/makers-club" target="">MAKERS CLUB</a></td>
+<td style="text-align: center;">Computer Lab 1</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">Ms Pung Chuan Ting (OIC)<br />Mrs Carolyn Tan (2IC)<br />Mrs Joaquim Chan</td>
+</tr>
+<tr>
+<td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/media-club" target="">MEDIA CLUB</a></td>
+<td style="text-align: center;">Computer Lab 3&nbsp;</td>
+<td style="text-align: center;">&nbsp;</td>
+<td style="text-align: center;">
+<div>Mr Muhd Azahar (OIC)</div>
+<div>Mdm Tan Choon Pei (2IC)</div>
+</td>
+</tr>
+</tbody>
+</table>
