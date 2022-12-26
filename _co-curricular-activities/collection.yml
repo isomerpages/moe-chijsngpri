@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Physical Sports/Track and Field.md
       - Physical Sports/.keep
       - Uniformed Groups.md
       - Performing Arts/Performing Arts.md
