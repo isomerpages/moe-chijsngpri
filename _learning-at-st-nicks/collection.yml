@@ -1,4 +1,5 @@
 collections:
   learning-at-st-nicks:
     output: true
-    order: []
+    order:
+      - PE and Aesthetics.md
