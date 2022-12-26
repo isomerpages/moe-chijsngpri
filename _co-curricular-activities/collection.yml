@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs & Societies/.keep
       - Physical Sports/Physical Sports.md
       - Physical Sports/Artistic Gymnastics.md
       - Physical Sports/Badminton.md
