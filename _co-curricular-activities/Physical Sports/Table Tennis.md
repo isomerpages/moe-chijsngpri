@@ -37,3 +37,54 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
+<h4><strong>Teachers-in-charge</strong></h4>
+<table>
+<tbody>
+<tr>
+<th style="text-align: center;">Level</th>
+<th style="text-align: center;">Teacher-in-charge</th>
+<th style="text-align: center;">Email</th>
+</tr>
+<tr>
+<td style="text-align: center;">P3 - P6</td>
+<td style="text-align: center;">Mr Phoon Chee Weng</td>
+<td style="text-align: center;">phoon_chee_weng@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">P3 - P6</td>
+<td style="text-align: center;">Mdm Toh Poh Yen</td>
+<td style="text-align: center;">toh_poh_yen@moe.edu.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;">P3 - P6</td>
+<td style="text-align: center;">Mrs Justine Hum</td>
+<td style="text-align: center;">choo_hui_kian@moe.edu.sg</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>CCA Schedule</strong></h4>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" width="184"><strong>Day</strong></td>
+<td style="text-align: center;" width="184"><strong>Time</strong></td>
+<td style="text-align: center;" width="184"><strong>Venue</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="184">Wednesday&nbsp;(for P3 and P4 Development Team)</td>
+<td style="text-align: center;" width="184">2 p.m. to 4 p.m.</td>
+<td style="text-align: center;" width="184">ISH Primary</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="184">Friday&nbsp;(for P5 and P6 Development Team)</td>
+<td style="text-align: center;" width="184">2 p.m. to 4 p.m.</td>
+<td style="text-align: center;" width="184">ISH Primary</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="184">Wed and Friday&nbsp;(for P3 to P6 School Team members)</td>
+<td style="text-align: center;" width="184">2 p.m. to 4 p.m.</td>
+<td style="text-align: center;" width="184">ISH Primary</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: right;"><em>Last updated: 15 Apr 2020</em></p>
