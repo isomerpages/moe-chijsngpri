@@ -110,3 +110,4 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
+<p style="text-align: right;"><em>Last updated on: 27 Feb 2020</em></p>
