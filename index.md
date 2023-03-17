@@ -15,9 +15,6 @@ sections:
         - title: SNGS Secondary
           description: ""
           url: https://chijstnicholasgirls.moe.edu.sg/secondary
-        - title: Useful Links
-          description: ""
-          url: /others/useful-links
   - resources:
       title: News & Announcements
       button: View All
