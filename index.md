@@ -16,6 +16,5 @@ sections:
           description: ""
           url: https://chijstnicholasgirls.moe.edu.sg/secondary
   - resources:
-      title: News & Announcements
       button: View All
 ---
