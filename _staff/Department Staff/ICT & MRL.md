@@ -47,8 +47,8 @@ third_nav_title: Department Staff
 <td><a href="mailto:chang_hiang_heng@schools.gov.sg">chang_hiang_heng@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td>Mr Javier Chua (DE)</td>
-<td><a href="mailto:chua.jia.jun.javier@ncs.com.sg" target="">chua.jia.jun.javier@ncs.com.sg</a></td>
+<td>Mr Choo Han Yang (DE)</td>
+<td><a href="mailto:chua.jia.jun.javier@ncs.com.sg" target="">choo.han.yang@ncs.com.sg</a></td>
 </tr>
 <tr>
 <td>Ms Yuvannesha Raj (DE)&nbsp;</td>
