@@ -2,7 +2,6 @@ collections:
   info-hub:
     output: true
     order:
-      - Admissions.md
       - Bus Services.md
       - Uniform and Books.md
       - Pupil Services.md
