@@ -354,3 +354,13 @@ a) To help students make wise, responsible and informed decisions through the pr
 <p>9.Parents who wish to opt their children out of the&nbsp;Sexuality Education Lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway and is also downloadable&nbsp;<a rel="noopener" target="_blank" href="/files/Annex%20A_Opt%20Out%20Form_2022.pdf">here</a>.&nbsp;The duly completed opt-out form is to be submitted by 28 January 2022.</p>
 <p>10.&nbsp;Parents can contact the school at&nbsp;+65&nbsp;6454 9698&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
 <p>11. Parents, who wish to attend the school sexuality education programmes, should&nbsp;contact the school to make the necessary arrangements.</p>
+
+
+
+| CCE(FTGP) Theme | Lesson Title / Duration | Lesson Overview| Time Period |
+| -------- | -------- | -------- |-------- |
+| Text     | Text     | Text     |Text     |
+| -------- | -------- | -------- |-------- |
+| Text     | Text     | Text     |Text     |
+| -------- | -------- | -------- |-------- |
+| Text     | Text     | Text     |Text     |
