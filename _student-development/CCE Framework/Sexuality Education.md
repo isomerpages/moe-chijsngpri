@@ -30,8 +30,8 @@ a) To help students make wise, responsible and informed decisions through the pr
 </ol>
 <p><strong><u>Sexuality Education Lessons</u></strong><strong>:</strong>&nbsp;</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
-<p>7. The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, “Curious Minds(2nd Edition)”, aims to meet students’ developmental needs, give emphasis to theteaching of skills and values, and focus on helping students navigate <em>changes</em>, build&nbsp;healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise</p>
-<h4><strong>At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons&nbsp;will be taught in 2022:</strong></h4>
+<p>7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.</p>
+<h4><strong>At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons&nbsp;will be taught in 2023:</strong></h4>
 <h4 style="text-align: center;"><strong>Primary 5</strong></h4>
 <table>
 <tbody>
