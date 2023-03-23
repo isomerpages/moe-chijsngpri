@@ -37,13 +37,13 @@ a) To help students make wise, responsible and informed decisions through the pr
 <tbody>
 <tr>
 <th style="text-align: center;">
-<p>Unit</p>
+<p>CCE(FTGP) Theme</p>
 </th>
 <th style="text-align: center;">
-<p>Lesson / Duration</p>
+<p>Lesson Title / Duration</p>
 </th>
 <th style="text-align: center;">
-<p>Lesson Objectives At the end of the lesson, pupils will be able to:</p>
+<p>Lesson Overview</p>
 </th>
 <th style="text-align: center;">
 <p>Time Period<br>(e.g. Term 1 Week 2)</p>
