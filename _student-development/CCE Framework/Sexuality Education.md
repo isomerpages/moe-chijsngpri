@@ -25,10 +25,10 @@ a) To help students make wise, responsible and informed decisions through the pr
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>Science</li>
-<li>Form Teacher Guidance Period (FTGP)</li>
 <li>Character and Citizenship Education (CCE)</li>
+
 </ol>
-<p><strong><u>Sexuality Education</u></strong><strong>:</strong>&nbsp;“Curious Minds” (2nd Edition)” (Primary 5 &amp; 6)&nbsp;Teaching &amp; Learning resource package.</p>
+<p><strong><u>Sexuality Education Lessons</u></strong><strong>:</strong>&nbsp;“Curious Minds” (2nd Edition)” (Primary 5 &amp; 6)&nbsp;Teaching &amp; Learning resource package.</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition andimproved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves.The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.</p>
 <p>7. The Primary 5 &amp; 6 Sexuality Education Teaching and Learning resource package, “Curious Minds(2nd Edition)”, aims to meet students’ developmental needs, give emphasis to theteaching of skills and values, and focus on helping students navigate <em>changes</em>, build&nbsp;healthy&nbsp;<em>relationships</em>, especially online relationships, and exercise</p>
 <h4><strong>At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons&nbsp;will be taught in 2022:</strong></h4>
