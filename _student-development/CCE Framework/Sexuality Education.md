@@ -349,12 +349,6 @@ a) To help students make wise, responsible and informed decisions through the pr
 </tr>
 </tbody>
 </table>
-<h4><strong>Information For Parents</strong></h4>
-<p>8. Parents may opt their children out of Sexuality Education Lessons,&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9.Parents who wish to opt their children out of the&nbsp;Sexuality Education Lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway and is also downloadable&nbsp;<a rel="noopener" target="_blank" href="/files/Annex%20A_Opt%20Out%20Form_2022.pdf">here</a>.&nbsp;The duly completed opt-out form is to be submitted by 28 January 2022.</p>
-<p>10.&nbsp;Parents can contact the school at&nbsp;+65&nbsp;6454 9698&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
-<p>11. Parents, who wish to attend the school sexuality education programmes, should&nbsp;contact the school to make the necessary arrangements.</p>
-
 
 
 | CCE(FTGP) Theme | Lesson Title / Duration | Lesson Overview| Time Period |
@@ -362,3 +356,11 @@ a) To help students make wise, responsible and informed decisions through the pr
 | Growing Years | The Changes in Me<br>(60 min) | This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. |Term 1 Week 8 |
 |  | Did You Know<br>(60 min) | This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 3 Week 8 |
 | Text     |  Keeping Myself Safe<br>60mins   | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions. | Term 3 Week 9  |
+
+
+
+<h4><strong>Information For Parents</strong></h4>
+<p>8. Parents may opt their children out of Sexuality Education Lessons,&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>9.Parents who wish to opt their children out of the&nbsp;Sexuality Education Lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway and is also downloadable&nbsp;<a rel="noopener" target="_blank" href="/files/Annex%20A_Opt%20Out%20Form_2022.pdf">here</a>.&nbsp;The duly completed opt-out form is to be submitted by 28 January 2022.</p>
+<p>10.&nbsp;Parents can contact the school at&nbsp;+65&nbsp;6454 9698&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
+<p>11. Parents, who wish to attend the school sexuality education programmes, should&nbsp;contact the school to make the necessary arrangements.</p>
