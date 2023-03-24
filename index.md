@@ -11,8 +11,8 @@ sections:
       key_highlights:
         - title: SNGS Main
           description: ""
-          url: https://chijstnicholasgirls.moe.edu.sg/
+          url: https://staging.d22e87qphr3ylf.amplifyapp.com/
         - title: SNGS Secondary
           description: ""
-          url: https://chijstnicholasgirls.moe.edu.sg/secondary
+          url: https://staging.d2kyho38yqhcge.amplifyapp.com/
 ---
