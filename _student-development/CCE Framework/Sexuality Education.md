@@ -57,9 +57,13 @@ a) To help students make wise, responsible and informed decisions through the pr
 | Text     | Did You Know?\*  (60 min) | This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.|Term 4 Week 7|	
 
 Please Note:
-\*For 2023, the Primary 5 lesson “Did You Know?”will also be conducted for the Primary 6 cohort.
-<h4><strong>Information For Parents</strong></h4>
-<p>8. Parents may opt their children out of Sexuality Education Lessons,&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p>9.Parents who wish to opt their children out of the&nbsp;Sexuality Education Lessons&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year via Parents Gateway and is also downloadable&nbsp;<a rel="noopener" target="_blank" href="/files/Annex%20A_Opt%20Out%20Form_2022.pdf">here</a>.&nbsp;The duly completed opt-out form is to be submitted by 28 January 2022.</p>
-<p>10.&nbsp;Parents can contact the school at&nbsp;+65&nbsp;6454 9698&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.</p>
-<p>11. Parents, who wish to attend the school sexuality education programmes, should&nbsp;contact the school to make the necessary arrangements.</p>
+\*For 2023, the Primary 5 lesson “Did You Know?”will also be conducted for the Primary 6 cohort. 
+
+  
+**Information for Parents**  
+  
+8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.  
+
+9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/2023/2023%20Opt-Out%20Form%20for%20SEd.pdf). The completed opt-out form is to be submitted by 10 February 2023.
+
+10.       Parents can contact the school at +65 6454 9698 for discussion or to seek clarification about the school’s Sexuality Education programme.
