@@ -2,20 +2,20 @@ title: CHIJ St Nicholas Girls' School (Primary)
 url: https://chijstnicholasgirls.moe.edu.sg
 favicon: /images/logo.png
 colors:
-  primary-color: "#2c007f"
-  secondary-color: "#2c007f"
+  primary-color: "#064f93"
+  secondary-color: "#b93737"
   media-colors:
     - title: media-color-one
-      color: "#ccac89"
+      color: "#71b4f3"
     - title: media-color-two
-      color: "#000000"
+      color: "#f49090"
     - title: media-color-three
-      color: "#00838f"
+      color: "#a4ccf1"
     - title: media-color-four
-      color: "#00838f"
+      color: "#f3c6c6"
     - title: media-color-five
-      color: "#00838f"
-description: ""
+      color: "#a6afef"
+description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
 exclude:
