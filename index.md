@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: CHIJ St Nicholas Girls' School (Primary)
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/logo.png
 permalink: /
 notification: ""
@@ -16,3 +16,4 @@ sections:
           description: ""
           url: https://staging.d2kyho38yqhcge.amplifyapp.com/
 ---
+
