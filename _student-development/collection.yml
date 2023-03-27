@@ -2,13 +2,13 @@ collections:
   student-development:
     output: true
     order:
-      - CCE Framework/.keep
-      - CCE Framework/Character and Values Education.md
-      - CCE Framework/Form Teacher Guidance Period (FTGP).md
-      - CCE Framework/Sexuality Education.md
-      - CCE Framework/Programme for Active Learning (PAL).md
-      - CCE Framework/CCE Lessons.md
-      - CCE Framework/Values Education.md
+      - Character and Values Education/.keep
+      - Character and Values Education/Character and Values Education.md
+      - Character and Values Education/Form Teacher Guidance Period (FTGP).md
+      - Character and Values Education/Sexuality Education.md
+      - Character and Values Education/Programme for Active Learning (PAL).md
+      - Character and Values Education/CCE Lessons.md
+      - Character and Values Education/Values Education.md
       - Student Leadership.md
       - Citizenship Education/.keep
       - Citizenship Education/Citizenship Education.md
