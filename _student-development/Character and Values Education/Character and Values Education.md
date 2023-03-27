@@ -53,4 +53,4 @@ Appreciating Diversity: Social Mixing / Cultural Intelligence (CQ)
 | --- | --- |
 
 Commitment to the common good:  
-Gratitude notes written to external agencies 
+Gratitude notes written to external agencies
