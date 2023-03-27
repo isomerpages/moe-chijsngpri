@@ -4,23 +4,21 @@ permalink: /primary/student-development/cce-framework/programme-for-active-learn
 description: ""
 third_nav_title: Character and Values Education
 ---
+  
+![Pal 1.JPG](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCE%20Programmes/Components%20in%20cce/PAL/Pal%201.JPG)
 
-<img src="/images/pal1.jpg">
-<p>In 2009, the Primary Education Review and Implementation (PERI) committee recommended ways to raise the quality of primary education. A key aim of the recommendation is to achieve greater balance between the acquisition of knowledge and the development of skills and values to better prepare our children to thrive in a fast-changing and globalised future.</p>
-<p>PAL @ St Nicks is a 2-year programme for all Primary 1 and 2 pupils. It provides our pupils with broad exposure and experiences through fun and varied activities in:</p>
-<p>i) Sports and Games &amp; Outdoor Education,<br />ii) Performing Arts (Music and Dance) &amp; Visual Arts</p>
-<p>Through these modules, our pupils develop social and emotional competencies in the five learning domains (cognitive, moral, social, aesthetics and physical).</p>
-<p>PAL is taught through the theme &lsquo;The Wonder of Nature&rsquo;. Pupils learn to appreciate and conserve the environment through hands-on exploratory activities. The experiential activities incorporate learning in a creative, fun and enjoyable way. Through the modules, pupils learn more about themselves and gain greater awareness of the environment around them. Opportunities are created to allow our pupils to work in pairs and groups and this promotes greater cooperation and communication amongst the pupils.</p>
-<p>The motto for PAL is FUN &ndash; making new Friends, Understand self and others and learn New things. Pupils are given the space within PAL to explore and apply the skills, concepts and ideas to a new situation. This lets the pupils deepen their learning, make new connections to the previous skills and knowledge and make new self-discovery.</p>
-<table style="border-collapse: collapse; width: 80%;" border="1">
-<tbody>
-<tr>
-<td style="width: 50%;"><img src="/images/pal2.jpg"></td>
-<td style="width: 50%;"><img src="/images/pal3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/pal4.jpg"></td>
-<td style="width: 50%;"><img src="/images/pal5.jpg"></td>
-</tr>
-</tbody>
-</table>
+PAL @ St Nicks is a 2-year programme for all Primary 1 and 2 pupils. Pupils are exposed to PAL modules in four domains – Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The aim of PAL is to develop well-rounded pupils in the five learning domains and help pupils develop social-emotional competencies.&nbsp; This year, the motto for PAL is FUN – making new Friends, Understand self and others and learn New things. Pupils are given the space within PAL to explore and apply the skills, concepts and ideas to a new situation. This lets the pupils deepen their learning, make new connections to the previous skills and knowledge and make new self-discovery.&nbsp;
+
+  
+
+PAL modules are experiential in nature and incorporate learning in a creative, fun and enjoyable way. Through the modules, pupils learn more about themselves and gain greater awareness of the environment around them. They were given many opportunities to work in pairs and groups and this gave rise to greater cooperation and communication amongst the pupils.
+
+  
+
+In Primary 1, pupils learn about their new school environment through orienteering and map reading. They also learn to explore trails and work together in teams. They have the chance to create games in the Sports and Games module and discover the importance of working together in the parachute games. Through this process, they learn more about themselves and their friends.&nbsp;
+
+  
+
+In Primary 2, the pupils get behind the camera in the Outdoor Education module to explore the Science Garden. They learn to see nature through the camera lens and have the opportunity to learn about conservation. The pupils also learn self-expression through performing arts in Dance. They have a lot of fun learning new dance moves like Jazz, Indian dance and performing for one another. Through this module, the pupils have more stage awareness and learn how to behave as a member of the audience.&nbsp;  
+
+<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px dotted rgb(204, 204, 204); table-layout: fixed; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; border: 1px dotted rgb(204, 204, 204);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 299px; height: 384px;" class="ive_eobj_center" alt="Pal 3.jpg" width="100%" src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCE%20Programmes/Components%20in%20cce/PAL/Pal%203.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; border: 1px dotted rgb(204, 204, 204);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 298px; height: 383px;" class="ive_eobj_center" alt="Pal 2.JPG" width="100%" src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCE%20Programmes/Components%20in%20cce/PAL/Pal%202.JPG"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; border: 1px dotted rgb(204, 204, 204);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 297px; height: 382px;" class="ive_eobj_center" alt="Pal 4.JPG" width="100%" src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCE%20Programmes/Components%20in%20cce/PAL/Pal%204.JPG"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; border: 1px dotted rgb(204, 204, 204);"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 296px; height: 380px;" class="ive_eobj_center" alt="Pal 5.JPG" width="100%" src="https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCE%20Programmes/Components%20in%20cce/PAL/Pal%205.JPG"></td></tr></tbody></table>
