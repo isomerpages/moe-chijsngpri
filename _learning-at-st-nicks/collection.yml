@@ -2,9 +2,9 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
-      - STEM Programme.md
       - English.md
       - Maths.md
       - Science.md
       - Chinese.md
       - PE and Aesthetics.md
+      - STEM Programme.md
