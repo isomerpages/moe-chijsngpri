@@ -4,8 +4,7 @@ permalink: /primary/student-development/cce-framework/
 description: ""
 third_nav_title: Character and Values Education
 ---
-
-### CCE-FTGP Overview
+##### **CCE-FTGP Overview**
 The school believes that character building is the heart of our SNGS education. While academic achievements and outcomes provide pupils with the passport to progress in life, a strong and upright character with the right positive attitudes is fundamental for our pupils to flourish and live fulfilling lives. 
 
 In our school, the CCE lessons provide the time for teachers to engage and build relationship with our pupils through discussions and effective classroom strategies. CCE lessons are used for :  
@@ -14,37 +13,27 @@ In our school, the CCE lessons provide the time for teachers to engage and build
     
 *   equipping pupils with knowledge and skills to better understand real-world contexts
     
-*   discussions on contemporary issues to enable our pupils to grasp current realities in our national, regional, and global contexts 
-    
+*   discussions on contemporary issues to enable our pupils to grasp current realities in our national, regional, and global contexts
 
 Character and Citizenship Education (CCE-FTGP) plays a key and critical role in the holistic development of our pupils.
 
-**Approach**  
+##### **Approach**  
 
 In St Nicholas Girls’ School (Primary), our character education is anchored on a 3-E process: Equip, Expose and Enact. Our CCE programme focuses on equipping our pupils with skills and knowledge, exposing them to different experiences. In doing so, we also seek to provide meaningful platforms and opportunities for our pupils to enact their learning.
  
 Being a Catholic school, our approach is aligned with the School Mission, Values and Motto. They provide the guiding principles for our school as we develop a well-balanced curriculum incorporating the 3-E tiered approach to support the delivery of its Mission and realization of its Vision.
 
-**Programme Highlights**
-
-  
-  
+##### **Programme Highlights**
 
 | ![1 ECG LJ  Changi Airport_1.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/1%20ECG%20LJ%20%20Changi%20Airport_1.jpg) | ![2 ECG LJ  Changi Airport_2.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/2%20ECG%20LJ%20%20Changi%20Airport_2.jpg) |
 | --- | --- |
-| Be future-ready: P6 ECG Learning Journey to Changi Airport |
 
+Be future-ready: P6 ECG Learning Journey to Changi Airport
   
-  
-
-| ![3 Character Comes Alive Pic 1.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/3%20Character%20Comes%20Alive%20Pic%201.jpg)  
- | ![4 Character Comes Alive Pic 2.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/4%20Character%20Comes%20Alive%20Pic%202.jpeg)  
- | ![5 Character Comes Alive Pic 3.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/5%20Character%20Comes%20Alive%20Pic%203.jpeg)  
- |
+| ![3 Character Comes Alive Pic 1.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/3%20Character%20Comes%20Alive%20Pic%201.jpg) | ![4 Character Comes Alive Pic 2.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/4%20Character%20Comes%20Alive%20Pic%202.jpeg) | ![5 Character Comes Alive Pic 3.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/5%20Character%20Comes%20Alive%20Pic%203.jpeg) |
 | --- | --- | --- |
-| Developing a caring disposition through perspective-taking: Character Comes Alive   
- |
 
+Developing a caring disposition through perspective-taking: Character Comes Alive
   
   
 
