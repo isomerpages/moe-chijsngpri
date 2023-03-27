@@ -34,8 +34,6 @@ It aims to inculcate moral values, emphasising on, filial piety, discipline and 
 
 Lessons and narratives on the CHIJ schools and St Nicks’ history and ethos are infused in the School Quality Lessons, Bible Time & Values Education, as well as during assemblies and school events.
 
-  
-
 4.         Bible Time & Values Education
 
 Pupils who are Catholic attend Bible Time lessons.  It aims to nurture pupils' love for God through encounters with His word.  These sessions also help the pupils learn more about the Catholic faith.  For non-Catholic pupils, they will attend Values Education lessons which consist of stories from the Bible as well as fables and other stories with moral values. The life stories of Father Barré, our Founder, as well as the IJ mission will also be shared during these lessons.
