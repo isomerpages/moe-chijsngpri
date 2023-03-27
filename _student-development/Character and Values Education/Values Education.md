@@ -20,7 +20,7 @@ These five qualities are aligned to the six CCE qualities in MOE’s 21st Centur
 
 It aims to inculcate moral values, emphasising on, filial piety, discipline and respect for others.  Besides learning and reciting this text in the classrooms, pupils also recite them during our twice-weekly assemblies. Through reciting the text, pupils are reminded of the importance of respect, discipline, empathy and filial piety.  Pupils are also encouraged to assess their understanding of the “Di Zi Gui” verses using the self-evaluation form in their school diaries.
 
-** 3.         IJ and Schools’ History and Ethos**
+**3.         IJ and Schools’ History and Ethos**
 
 Lessons and narratives on the CHIJ schools and St Nicks’ history and ethos are infused in the School Quality Lessons, Bible Time & Values Education, as well as during assemblies and school events.
 
