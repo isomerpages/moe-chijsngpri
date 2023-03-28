@@ -3,6 +3,8 @@ title: Uniformed Groups
 permalink: /primary/co-curricular-activities-ccas/uniformed-groups/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
+
 <h4><strong>AIMS &amp; OBJECTIVES</strong></h4>
 <p>As a Brownie in Guiding, she will&hellip;</p>
 <ul>
