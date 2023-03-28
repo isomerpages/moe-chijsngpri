@@ -32,7 +32,7 @@ Part of the ALP also involves implementing **Visible Thinking Routines** to ex
 
 By categorising these thinking routines, students can quickly learn to apply to different context on a daily basis.
 
-| ![P3 Learning Centres Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%201.jpg)<br>![P3 Learning Centres Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![P3 Learning Centres Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%203.jpg)<br>P3 Learning Centres |
+| ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg) |![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%203.jpg)<br>P3 Learning Centres |
 | --- | --- |
 
 **WOW- Week of Wonder**  
@@ -43,7 +43,7 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 3. It supports the development of other skills and attributes.
 4. Science allows young children to develop life skills.
 
-| ![WOW Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%201.jpg)<br>![WOW Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%202.jpg) | ![WOW Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%203.jpg)<br>A sample of the projects presented at Week of Wonder|
+|![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%203.jpg)<br>A sample of the projects presented at Week of Wonder|
 | --- | --- |
 
 **Inquiry-based Learning using SPARKLE Science Kits**  
