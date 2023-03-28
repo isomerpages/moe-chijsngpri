@@ -45,9 +45,8 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 3. It supports the development of other skills and attributes.
 4. Science allows young children to develop life skills.
 
-| ![WOW Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%201.jpg) | ![WOW Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%203.jpg) |
+| ![WOW Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%201.jpg)<br>![WOW Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%202.jpg) | ![WOW Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%203.jpg)<br>A sample of the projects presented at Week of Wonder|
 | --- | --- |
-| ![WOW Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/WOW%20Picture%202.jpg)  | A sample of the projects presented at Week of Wonder |
 
 **Inquiry-based Learning using SPARKLE Science Kits**  
 
