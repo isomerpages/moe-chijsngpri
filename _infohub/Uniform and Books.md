@@ -4,7 +4,7 @@ permalink: /primary/primary-info-hub/uniform-and-books/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
-### **Books and Uniform**&nbsp;
+### **Uniform and Books**&nbsp;
 <h4><strong>School Uniform / PE Attire Sale in School</strong></h4>
 <p><strong>2023 Sales Date (SNGS)</strong></p>
 <p><strong>Month Dates</strong></p>
