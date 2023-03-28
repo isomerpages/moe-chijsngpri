@@ -32,12 +32,10 @@ Part of the ALP also involves implementing **Visible Thinking Routines** to ex
 
 By categorising these thinking routines, students can quickly learn to apply to different context on a daily basis.
 
-| ![P3 Learning Centres Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%201.jpg) | ![P3 Learning Centres Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![P3 Learning Centres Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%203.jpg) |
-| --- | --- | --- |
-| P3 Learning Centres |
+| ![P3 Learning Centres Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%201.jpg)<br>![P3 Learning Centres Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![P3 Learning Centres Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%203.jpg)<br>P3 Learning Centres |
+| --- | --- |
 
 **WOW- Week of Wonder**  
-
 At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense of wonder and passion to understand the world around them. During lessons, pupils instinctively ask questions, observe, and try out solutions - all important parts of thinking scientifically. Pupils are taught to wonder, discover and explore through play and making scientific discoveries. Learning Science through discovery and play help pupils in the following ways:  
 
 1. It can foster a lifelong love of science.
@@ -49,7 +47,6 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 | --- | --- |
 
 **Inquiry-based Learning using SPARKLE Science Kits**  
-
 Developed by the Ministry of Education (MOE) and Science Centre Singapore, the kits encourage pupils to explore and test their Science ideas through lots of “hands-on, minds-on” activities accompanied with questions and discussion.  
 
 The use of SPARKLE Science Kits in the Science classroom changes teacher and pupil roles. It alters the learning environment by moving instructions away from didactic, teacher-centered forms to more hands-on, pupil-centred forms. These kits serve as effective classroom tools to support hands-on curriculum supplements. The main objective is to engage all pupils in active, meaningful learning where learning is associated with hands-on instructional strategies, to encourage thinking and cultivate joy in learning.
