@@ -46,3 +46,7 @@ A series of activities are planned for Primary Three and Four pupils. Through th
 
 *ALP - sharing of P4 project work during Week of Wonder*
 
+| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%208.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%209.jpg) |
+| -------- | -------- |
+
+*P3 Passion pursuit programmes*
