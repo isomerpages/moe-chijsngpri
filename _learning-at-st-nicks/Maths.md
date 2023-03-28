@@ -50,5 +50,3 @@ A series of activities are planned for Primary Three and Four pupils. Through th
 | -------- | -------- |
 
 *P3 Passion pursuit programmes*
-
-<img src="/images/02%20About%20Us/Father%20Nicholas.jpeg" style= "width: 30%; margin-right:15px;
