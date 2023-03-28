@@ -46,6 +46,6 @@ description: ""
 <h4><strong>Textbooks</strong></h4>
 <p><strong>Pacific Book Stores Pte Ltd</strong><strong><br></strong><a>Website: </a><a data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.pacificbookstores.com/&amp;source=gmail&amp;ust=1515224444621000&amp;usg=AFQjCNHewsSeYVYwjFyenUQ-8Zl3vA4LIA" rel="noopener" target="_blank" href="https://www.pacificbookstores.com/">https://www.<wbr>pacificbookstores.com</a><br>Email:&nbsp;<a rel="noopener" target="_blank" href="mailto:sales@pacificbookstores.com">sales@<wbr>pacificbookstores.com</a></p>
 <p><strong>(Online Order Facility, Payment by Credit Card)</strong></p>
-<p><strong>School bookshop (canteen)</strong><br>Ms Fanny (Primary) / Ms May (Secondary)<br>Tel: 64599860</p>
+<p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
 <p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays</strong>)</p>
 <p><strong>For 2023 Book lists, please click below<br></strong><a rel="noopener" target="_blank" href="/files/P1.pdf">Primary 1</a>&nbsp;||&nbsp;<a rel="noopener" target="_blank" href="/files/P2.pdf">Primary 2</a>&nbsp;||&nbsp;<a rel="noopener" target="_blank" href="/files/P3.pdf">Primary 3</a>&nbsp;||&nbsp;<a rel="noopener" target="_blank" href="/files/P4%2010.10.2022.pdf">Primary 4</a>&nbsp;||&nbsp;<a rel="noopener" target="_blank" href="/files/P5%20CL%20%20Booklist%202023.pdf">Primary 5</a>&nbsp;||&nbsp;<a rel="noopener" target="_blank" href="/files/P6%2010.10.2022.pdf">Primary 6</a></p>
