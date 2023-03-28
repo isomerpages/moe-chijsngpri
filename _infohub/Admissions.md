@@ -3,7 +3,6 @@ title: Admissions
 permalink: /primary/admissions/
 description: ""
 ---
-
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
@@ -56,6 +55,78 @@ description: ""
 <p>Remarks</p>
 </td>
 </tr>
+<tr>
+<td style="text-align: center;" rowspan="3" width="50">
+<p>2022</p>
+</td>
+<td style="text-align: center;" width="61">
+<p>2A</p>
+</td>
+<td style="text-align: center;" width="62">
+<p>90</p>
+</td>
+<td style="text-align: center;" width="83">
+<p>112</p>
+</td>
+<td style="text-align: center;" width="81">
+<p>54</p>
+</td>
+<td style="text-align: center;" width="77">
+<p>21</p>
+</td>
+<td style="text-align: center;" width="67">
+<p>37</p>
+</td>
+<td style="text-align: center;" width="217">
+<p>37 applicants outside 2km balloting for 15 vacancies</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="61">
+<p>2B</p>
+</td>
+<td style="text-align: center;" width="62">
+<p>20</p>
+</td>
+<td style="text-align: center;" width="83">
+<p>44</p>
+</td>
+<td style="text-align: center;" width="81">
+<p>32</p>
+</td>
+<td style="text-align: center;" width="77">
+<p>6</p>
+</td>
+<td style="text-align: center;" width="67">
+<p>6</p>
+</td>
+<td style="text-align: center;" width="217">
+<p>32 applicants within 1km balloting for 20 vacancies</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="61">
+<p>2C</p>
+</td>
+<td style="text-align: center;" width="62">
+<p>40</p>
+</td>
+<td style="text-align: center;" width="83">
+<p>62</p>
+</td>
+<td style="text-align: center;" width="81">
+<p>53</p>
+</td>
+<td style="text-align: center;" width="77">
+<p>7</p>
+</td>
+<td style="text-align: center;" width="67">
+<p>2</p>
+</td>
+<td style="text-align: center;" width="217">
+<p>53 applicants within 1km balloting for 40 vacancies</p>
+</td>
+</tr>	
 <tr>
 <td style="text-align: center;" rowspan="3" width="50">
 <p>2021</p>
@@ -198,55 +269,6 @@ description: ""
 </td>
 <td style="text-align: center;" width="217">
 <p>40 applicants within 1km balloting for 21 vacancies</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="2" width="50">
-<p>2019</p>
-</td>
-<td style="text-align: center;" width="61">
-<p>2B</p>
-</td>
-<td style="text-align: center;" width="62">
-<p>20</p>
-</td>
-<td style="text-align: center;" width="83">
-<p>40</p>
-</td>
-<td style="text-align: center;" width="81">
-<p>32</p>
-</td>
-<td style="text-align: center;" width="77">
-<p>3</p>
-</td>
-<td style="text-align: center;" width="67">
-<p>5</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>32 applicants within 1km balloting for 20 vacancies</p>
-</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="61">
-<p>2C</p>
-</td>
-<td style="text-align: center;" width="62">
-<p>22</p>
-</td>
-<td style="text-align: center;" width="83">
-<p>44</p>
-</td>
-<td style="text-align: center;" width="81">
-<p>43</p>
-</td>
-<td style="text-align: center;" width="77">
-<p>1</p>
-</td>
-<td style="text-align: center;" width="67">
-<p>0</p>
-</td>
-<td style="text-align: center;" width="217">
-<p>43 applicants within 1km balloting for 22 vacancies</p>
 </td>
 </tr>
 </tbody>
