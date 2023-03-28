@@ -4,6 +4,8 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/
 description: ""
 third_nav_title: Physical Sports
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
+
 <table class="iveo_table ives_tab_simple3">
 <tbody>
 <tr>
