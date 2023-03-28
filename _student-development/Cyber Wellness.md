@@ -67,3 +67,4 @@ Annually, we bring our P3-6 MCW representatives through a series of Cyber Wellne
 
 The school organises a week of cyber wellness fair for pupils to explore and discover more about cyber wellness. They will have the opportunity to learn through games and quizzes created by the Media and Cyber Wellness (MCW) Representatives from Primary 3 to Primary 6.
 
+![CW Fair.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/Cyber%20Wellness/CW%20Fair.jpeg)
