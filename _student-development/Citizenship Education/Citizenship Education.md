@@ -4,14 +4,29 @@ permalink: /primary/student-development/citizenship-education/
 description: ""
 third_nav_title: Citizenship Education
 ---
-<p>The National Education and Social Studies (NESS) Committee comprises two sections, namely, the National Education and Social Studies. NESS offers an integrated curriculum with the aim of developing our pupils in becoming active and committed as a citizen. Comprising of teachers from each Instructional Programme (IP) department, NESS is committed to work together to customizing curriculums to suit the needs of the pupils</p>
-<h4><strong>The National Education (NE) curriculum</strong></h4>
-<p>The NE curriculum is designed to engage the&nbsp;<strong>&ldquo;Head, Heart and Hands&rdquo;</strong>&nbsp;of our pupils (Click at the hyperlink to find out more about the NE framework for the school).</p>
-<p>In engaging the&nbsp;<strong>&ldquo;Head&rdquo;</strong>, pupils are given the opportunity to be actively involved in their own learning, in exploring current affairs and social issues in the Academic Curriculum as well as in the commemoration of the NE days such as Total Defence Day, Racial Harmony Day, to help them internalize the challenges facing Singapore and what it means to be a Singaporean.&nbsp;</p>
-<p>In engaging the&nbsp;<strong>&ldquo;Heart&rdquo;</strong>, pupils connect emotionally with the Singapore story. By being exposed to an array of enrichment programmes such as Learning Journeys to the Changi Museum, NE show, NeWater Visitor Centre, our pupils have an increased awareness of Singapore&rsquo;s unique history and feel a deeper sense of belonging to this place we call home.</p>
-<p>In engaging the&nbsp;<strong>&ldquo;Hands&rdquo;</strong>, pupils are actively involved in reaching out to the communities in need.&nbsp;</p>
-<p>The SNGS Gives Back&rdquo; initiative is a school-wide imitative to encourage our primary and secondary students to give to meaningful causes. In addition, partnerships with external organizations such as food drive for IJHCC, 3R campaign are platforms are regular features where pupils give back to society.&nbsp;</p>
-<h4><strong>The Social Studies curriculum</strong></h4>
-<p>In line with the Ministry of Education (MOE) guidelines, the Primary Social Studies syllabus seeks to develop&nbsp;<strong>civic competencies</strong>&nbsp;of our pupils. At the heart of Social Studies (SS) is the preparation of our pupils to be citizens of tomorrow.&nbsp;</p>
-<p>SS seeks to develop in pupils an understanding of the interconnected world they live in. It seeks to evoke pupils&rsquo; curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences e.g. Learning Journeys to Asian Civilisation Museum, Neighbourhood walk etc, SS helps pupils to attain relevant knowledge and understandings about these issues, develop critical and reflective thinking skills, and appreciate multiple perspectives.&nbsp;</p>
-<p>SS also seeks to inculcate in pupils a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in. The curriculum is designed to develop pupils in becoming informed, concerned and participative citizens with a global outlook.&nbsp;</p>
+### Citizenship Education
+The National Education and Social Studies (NESS) Committee aims to develop our pupils to become active and committed citizens.  Comprising teachers from each Instructional Programme (IP) department, NESS is committed to offer an integrated curriculum to suit the needs of the pupils.
+
+### The National Education (NE) curriculum
+The NE curriculum is designed to engage our pupils to develop citizenship dispositions:  
+*   A Sense of Belonging
+*   A Sense of Reality
+    
+*   A Sense of Hope
+    
+*   The Will to Act
+    
+In engaging the “Head”, pupils are given the opportunity to be actively involved in their own learning, in exploring current affairs and social issues as well as commemorating the 4 NE events namely, Total Defence Day, Racial Harmony Day, International Friendship Day and National Day, pupils develop a deep sense of belonging to Singapore and learn what it means to be a Singaporean. 
+
+In engaging the “Heart”, pupils connect emotionally with the Singapore story. By being exposed to an array of enrichment programmes such as Learning Journeys to the Kampong Glam, NE Show and Chingay, our pupils have an increased awareness of Singapore’s unique history, culture and resource centres to imbue a deeper sense of belonging to this place we call home.  
+ 
+In engaging the “Hands”, pupils are actively involved in reaching out to the communities in need. 
+ 
+“SNGS Gives Back” is a school-wide initiative to encourage our pupils to contribute to meaningful causes. In addition, partnership with external organisations such as Food Bank, IJHCC and Caritas Singapore Community Council are platforms where pupils volunteer to give back to society.
+
+### The Social Studies curriculum
+In line with the Ministry of Education (MOE) guidelines, the Primary Social Studies syllabus seeks to develop the civic competence of our pupils. At the heart of SS is the preparation of our pupils to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in and appreciate the complexities of the human experience.
+
+SS aims to develop in pupils an understanding of the interconnected world they live in and evoke pupils’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences e.g. Learning Journeys to Asian Civilisation Museum, Indian Heritage Centre, Neighbourhood walk and NEWater Visitor Centre, SS helps pupils to attain relevant knowledge and understanding about Singapore’s own identity and characteristics, develop critical and reflective thinking skills, as well as appreciate and celebrate Singapore’s strengths. 
+ 
+SS also seeks to inculcate in pupils a deeper understanding of the values that define the Singaporean society and nurture dispositions to show concern for the world they live in. The curriculum is designed to develop pupils in becoming informed, concerned and participative citizens with a global outlook.
