@@ -27,18 +27,6 @@ third_nav_title: Clubs & Societies
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;"><strong>LEVEL</strong></th>
-<th style="text-align: center;"><strong>TEACHERS-IN-CHARGE</strong></th>
-<th style="text-align: center;"><strong>EMAIL</strong></th>
-</tr>
-<tr>
-<td style="text-align: center;" width="71">P3 to P6</td>
-<td style="text-align: center;" width="250">Mr Muhammad Azahar Bin Rosli</td>
-<td style="text-align: center;" width="295"><a href="mailto:muhammad_azahar_rosli@moe.edu.sg">muhammad_azahar_rosli@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
-
 
 | TEACHER-IN-CHARGE | EMAIL | 
 | -------- | -------- | 
