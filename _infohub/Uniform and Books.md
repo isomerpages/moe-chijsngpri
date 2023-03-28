@@ -3,14 +3,16 @@ title: Uniform and Books
 permalink: /primary/primary-info-hub/uniform-and-books/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/info-hub.jpg)
+### **Books and Uniform** 
 <h4><strong>School Uniform / PE Attire Sale in School</strong></h4>
-<p><strong>2023 Sales Date (SNIJ)</strong></p>
+<p><strong>2023 Sales Date (SNGS)</strong></p>
 <p><strong>Month Dates</strong></p>
 <table width="693">
 <tbody>
 <tr>
 <td style="text-align: center;" width="205">Jan</td>
-<td style="text-align: center;" width="488">03, 16</td>
+<td style="text-align: center;" width="488">03, 09 **only for 9Jan Sales date 9am to 3pm**</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="205">Feb</td>
@@ -33,17 +35,10 @@ description: ""
 <p><strong>Operating Hours: </strong><strong>9.00am to 2.30pm</strong></p>
 <p><strong>Sale Location: School Canteen Area</strong></p>
 <p><strong>Updated: 12 Dec&nbsp;</strong><strong>2022</strong></p>
-<h4><strong><u>Our Ubi Outlet (Tel 6747 8037)</u></strong></h4>
-<p><strong>Time: 10:00am-1:00pm, 2:00pm-5:45pm (Mon-Sat)</strong><br /><strong>LUNCH TIME 1pm-2pm</strong><br /><strong>Closed on Sunday and Public Holiday</strong></p>
+<h4><strong><u>Ubi Outlet (Tel 6747 8037)</u></strong></h4>
+<p><strong>Mon-Sat: 10:00am-6:00pm</strong><br /><strong>Lunch Break : 1pm to 2pm</strong><br /><strong>Sunday, Public Holiday & Eve of Public Holiday :Closed </strong></p><br><strong>Online Shop:</strong><br /><a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
 <table border="0" width="693" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td width="205">
-<p><strong>PE Attire/Uniform Supplier:</strong></p>
-<p><u><strong>Shanghai Uniform</strong></u><br />Tel:&nbsp;<strong>6747 8037</strong><br /><strong>Online Shop:</strong><br /><a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a></p>
-</td>
-</tr>
-</tbody>
+
 </table>
 <h4><strong>Hoodie and Cardigan:</strong></h4>
 <p>Click <a href="https://www.ourlittleredbridge.com/" target="_blank" rel="noopener"><u>here</u></a> for more information</p>
