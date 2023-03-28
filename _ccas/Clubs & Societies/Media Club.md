@@ -38,6 +38,21 @@ third_nav_title: Clubs & Societies
 </tr>
 </tbody>
 </table>
+
+
+| TEACHER-IN-CHARGE | EMAIL | 
+| -------- | -------- | 
+| Mr Muhammad Azahar Bin Rosli <BR>(Overall Teacher in-charge)    | [muhammad\_azahar\_rosli@moe.edu.sg](mailto:muhammad_azahar_rosli@moe.edu.sg) | 
+| Mdm Tan Choon Pei |  [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) | 
+
+
+
+
+
+
+
+
+
 <h4><strong>CCA SCHEDULE</strong></h4>
 <table>
 <tbody>
