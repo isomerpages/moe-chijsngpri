@@ -3,33 +3,67 @@ title: Cyber Wellness
 permalink: /primary/student-development/cyber-wellness/
 description: ""
 ---
-<p>Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. Please click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" target="_blank" rel="noopener">here</a>&nbsp;to find out more about the MOE's approach on Singapore's Cyber Wellness.</p>
-<img src="/images/cw1.jpg">
-<h4><strong>Cyber Wellness Visions</strong></h4>
-<p>The school's aim of the Cyber Wellness programme is to develop St Nicholas Girls into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in the cyberspace.</p>
-<h4><strong>St Nicholas Girls' School unique Cyber Wellness Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 25%;"><img src="/images/cw2.jpg"></td>
-<td style="width: 75%;">
-<p>The following are our Cyber Wellness programme that we have in place to help your daughter to cope with the fast moving cyber world.</p>
-<p>Classroom Lessons (FTGP) - Form Teachers will go through &nbsp;pre designed Cyber Wellness lessons with their class. Below is a quick summary of what individual levels will be learning:</p>
-<ul>
-<li>Primary 1: Surf Safe</li>
-<li>Primary 2: Basic Netiquette</li>
-<li>Primary 3: Stay Safe In The Cyber world</li>
-<li>Primary 4: Handling Inappropriate Content and copyrights issues</li>
-<li>Primary 5: Netiquette and Cyberbullying</li>
-<li>Primary 6: Disclosing Personal Data and negative digital footprints</li>
-</ul>
-<p>Cohort ICT training&nbsp;- We also conduct ICT trainings for you daughters to learn more about cyber wellness issues.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Assembly Talks (Term 1)</strong> - We conduct assembly talks to introduce about the Safer Internet Day for pupils to be more aware of the basic netiquette.</p>
-<p><strong>Cyber Wellness Fair (Term 2)</strong>&nbsp;- The school will organise a week of cyber wellness fair for pupils to play and learn more about cyber wellness. They can learn through games and quizzes created by the Cyber Wellness and Media Representatives from Primary 3 to Primary 6.</p>
-<p><strong>CW Ambassador Training</strong> - Every year, the school will select 4 Primary 4 pupils to go through a series of Cyber Wellness Training organised by MOE. These pupils will continue to serve as our school's cyber wellness ambassador until they graduate in Primary 6. They will help to promote Cyber Wellness within school.</p>
-<img src="/images/cw3.jpg">
-<p>To help support Parents on the later Cyber Wellness matters, we have also included a link below for you to read up more about the current trends about the cyber world.&nbsp;</p>
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. Please click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) to learn more about the MOE's approach on Singapore's Cyber Wellness Education in schools.
+
+  
+
+To develop St Nicholas girls into discerning and responsible ICT users who are able to protect themselves and be responsible for their well-being in the cyberspace.
+
+  
+
+At SNGS, we take a holistic approach towards Cyber Wellness based on the following framework:
+
+  
+  
+![Cyber Wellness Framework.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/Cyber%20Wellness/Cyber%20Wellness%20Framework.jpeg)  
+  
+### Programmes  
+
+*   Form Teacher Guidance Period (FTGP) CW Lessons
+    
+
+Form and Co-Form Teachers will go through targeted Cyber Wellness lessons with their form class. Below is a summary of what each level will be learning:
+
+Primary 1 - Surf Safe 
+
+Primary 2 - Basic Netiquette 
+
+Primary 3 - Stay Safe in The Cyber world 
+
+Primary 4 - Handling Inappropriate Content and Copyright Issues  
+
+Primary 5 - Netiquette and Cyberbullying 
+
+Primary 6 - Disclosing Personal Data and Negative Digital Footprints 
+
+*   Cohort IT Training at The Lower Primary Level
+    
+
+We conduct IT trainings for our pupils starting from the lower primary levels to build an early awareness about Cyber Wellness issues. 
+
+.  
+
+![P123 IT Training.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/Cyber%20Wellness/P123%20IT%20Training.jpeg)
+
+*     
+    Assembly Talks (Term 1)
+    
+
+We conduct assembly talks to introduce the Safer Internet Day as well as raise awareness of the basic netiquette and current safety issues on the Internet.
+
+  
+
+*   Trainings for Media and Cyber Wellness (MCW) Reps. (Term 2-3)
+    
+
+Annually, we bring our P3-6 MCW representatives through a series of Cyber Wellness Training to build and upgrade their learning in areas related to CW. These representatives will be equipped with the relevant and necessary skills and competencies in order to serve as our school's CW advocate at both the class and school level in addition to their current role in supporting the teachers in areas of ICT in the classroom.
+
+  
+
+![MCW Reps Training.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/Cyber%20Wellness/MCW%20Reps%20Training.jpeg)  
+
+*   Cyber Wellness Fair (Term 3)
+    
+
+The school organises a week of cyber wellness fair for pupils to explore and discover more about cyber wellness. They will have the opportunity to learn through games and quizzes created by the Media and Cyber Wellness (MCW) Representatives from Primary 3 to Primary 6.
+
