@@ -3,6 +3,8 @@ title: Forms
 permalink: /primary/primary-info-hub/forms/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/info-hub.jpg)
+### **Forms**&nbsp;
 <table>
 <tbody>
 <tr>
@@ -52,12 +54,12 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">9</td>
-<td style="text-align: center;">ECHA Online Nomination Form<br />(for Nomination by&nbsp;<strong>P1 &ndash;P3 Pupils</strong>)&nbsp;</td>
+<td style="text-align: center;">ECHA Online Nomination Form<br>(for Nomination by&nbsp;<strong>P1 –P3 Pupils</strong>)&nbsp;</td>
 <td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/eDW5Bo">Link</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">10</td>
-<td style="text-align: center;">ECHA Online Nomination Form (for Nomination by&nbsp;<strong>P4 &ndash;P6 Pupils</strong>)&nbsp;</td>
+<td style="text-align: center;">ECHA Online Nomination Form (for Nomination by&nbsp;<strong>P4 –P6 Pupils</strong>)&nbsp;</td>
 <td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/vKNR5e">Link</a>&nbsp;</td>
 </tr>
 <tr>
