@@ -3,6 +3,8 @@ title: Maths
 permalink: /primary/learning-at-st-nicks/maths/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
+
 ##### **Vision**
   
 A reflective learner, An effective problem solver, A skilful communicator  
