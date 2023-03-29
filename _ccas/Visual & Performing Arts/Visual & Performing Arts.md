@@ -45,12 +45,11 @@ third_nav_title: Visual & Performing Arts
 </tr>
 <tr>
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/performing-arts/eldds" target="">English Drama</a></td>
-<td style="text-align: center;">PAL Room&nbsp;</td>
+<td style="text-align: center;">MPR 1&nbsp;</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">
 <div>Mdm Suelsa Zainuddin (OIC)</div>
 <div>Mrs Balinda Salleh (2IC)</div>
-<div>Mdm Chia Yi Ling&nbsp;</div>
 </td>
 </tr>
 <tr>
@@ -59,7 +58,7 @@ third_nav_title: Visual & Performing Arts
 <td style="text-align: center;"></td>
 <td style="text-align: center;">
 <div>Ms Lee Hui Yi (OIC)</div>
-<div>Mr Chia Eng Lee (2IC)</div>
+<div>Ms Jane Lee</div>
 <div>Ms Siti Nurfaizah</div>
 </td>
 </tr>
