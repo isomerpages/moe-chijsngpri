@@ -4,7 +4,6 @@ permalink: /primary/primary-info-hub/pupil-services/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
-### **Pupil Services** 
 <h4><strong>STUDENT SMART CARD (SSC)</strong></h4>
 <p>(Replacement of lost damaged SSC)</p>
 <p>Online replacement: 
