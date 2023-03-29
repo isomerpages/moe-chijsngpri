@@ -34,7 +34,7 @@ Part of the ALP also involves implementing **Visible Thinking Routines** to ex
 
 By categorising these thinking routines, students can quickly learn to apply to different context on a daily basis.
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg) |![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%203.jpg)<br>P3 Learning Centres |
+| ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%203.jpg)<br>P3 Learning Centres |
 | --- | --- |
 
 **WOW- Week of Wonder**  
