@@ -7,9 +7,9 @@ description: ""
 
 ### **Bus Services**
 
-<h5><strong>J-Link Service</strong></h5>
+<h4><strong>J-Link Service</strong></h4>
 <p>Contact Person : Mdm Anna Lye<br />Tel : +65 9455 0531&nbsp;<br />Fax: +65 6241 2725</p>
-<h5><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE 2022</strong></h5>
+<h4><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE 2022</strong></h4>
 <table width="654">
 <tbody>
 <tr>
@@ -287,14 +287,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h3><strong>Note</strong></h3>
+<h4><strong>Note</strong></h4>
 <p>Monday and Thursday</p>
 <p style="padding-left: 40px;">- Normal school hours; dismissal at 1.40pm or late trip home at 4pm.<br />- Class level Supplementary or Enrichment lessons will be scheduled on these days.</p>
 <p>Tuesday</p>
 <p style="padding-left: 40px;">- Normal school hours; dismissal at 1.40pm</p>
 <p>Wednesday &amp; Friday</p>
 <p style="padding-left: 40px;">- Normal school hours; dismissal at 1.40pm or late trip home at 4pm.</p>
-<h5><strong>FAQ</strong></h5>
+<h4><strong>FAQ</strong></h4>
 <h5><strong>Q1: What are bus fares for return and one way trips?</strong></h5>
 <p>Answer: The school bus fare structure for return and one-way trips are for normal schooling hours (7.30am &ndash; 1.30pm/1.40pm). The fare will be calculated based on distance from school to home obtained from the website: www.onemonitoring.com.sg in which the shortest distance apply. The bus fare will also be based on sufficient students (economy of scale) taking the bus service for that particular routing or area covered. If there is insufficient student taking that bus service, additional charges may be imposed by the bus operator.</p>
 <h5><strong>Q2: Do I have to pay for full 12 month fares even though there is no school during the holidays?</strong></h5>
