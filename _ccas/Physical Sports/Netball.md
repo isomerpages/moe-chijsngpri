@@ -4,6 +4,8 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
+
 ### Aims and Objectives
 
 Netball is a fast-paced sport that fosters teamwork and trains agility, balance, endurance, speed, and perseverance. In SNGS, we aim to develop every player to the best of her potential through active participation and good strong foundation of Netball basic skills – and have fun in the process! &nbsp;&nbsp;
