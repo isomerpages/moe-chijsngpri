@@ -23,7 +23,7 @@ description: ""
 
 ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/01%20.jpg)
 
-<div style="text-align:center"><a><b>弟子规竞赛</b></a></div><br>
+<div style="text-align:center"><b>弟子规竞赛</b></div><br>
 
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/02%20.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/03.jpg) |
