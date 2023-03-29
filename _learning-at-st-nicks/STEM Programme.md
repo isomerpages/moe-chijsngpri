@@ -30,6 +30,7 @@ Examples of the activities include:
 *   P3 My Dream Room (Maths)
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%203%20P3%20Project%20Work-%20Animal%20Diorama.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%203%20Yay%20Great%20teamwork.jpg) | 
-| -------- | -------- | 
+| -------- | -------- |
 
+P3 Science Project: Animal Diorama using recycables
 
