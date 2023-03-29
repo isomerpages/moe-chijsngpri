@@ -4,6 +4,8 @@ permalink: /primary/student-development/cce-framework/
 description: ""
 third_nav_title: Character and Values Education
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ##### **CCE-FTGP Overview**
 The school believes that character building is the heart of our SNGS education. While academic achievements and outcomes provide pupils with the passport to progress in life, a strong and upright character with the right positive attitudes is fundamental for our pupils to flourish and live fulfilling lives. 
 
