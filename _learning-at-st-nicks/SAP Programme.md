@@ -32,11 +32,10 @@ Love for Chinese Culture, Love for Chinese Language 
 
 **Celebrating Chinese Festivals 普庆华文传统节日**
 
-身为特选学校的学生，应对于华人的主要传统节日有所认识。因此，我们在不同的节日，进行一些活动，让学生通过参加活动的当儿，除了知道节日的来源，也能学习到传统文化所承载的正确道德观。
+身为特选学校的学生，应对于华人的主要传统节日有所认识。因此，我们在不同的节日，进行一些活动，让学生通过参加活动的当儿，除了知道节日的来源，也能学习到传统文化所承载的正确道德。<br>
 
+<div style="text-align:center"><b>Dumpling Festival 端午节</b></div><br>
 
-<div style="text-align:center"><a><u>Dumpling Festival 端午节</u></a></div>
-<br>
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png) |
 | --- | --- | --- | --- |
