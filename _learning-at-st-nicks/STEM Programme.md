@@ -30,12 +30,18 @@ Examples of the activities include:
 *   P3 My Dream Room (Maths)
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%203%20P3%20Project%20Work-%20Animal%20Diorama.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%203%20Yay%20Great%20teamwork.jpg) | 
-| -------- | -------- |
+| --- | --- |
 
-<div style="text-align:center"><a>P3 Science Project: Animal Diorama using recyclables</a></div><br>
+<div style="text-align:center"><a><b>P3 Science Project: Animal Diorama using recyclables</a></div><br>
 
-|![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20DIY%20Science%20Toys%20Try%20it.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20We%20are%20amazed%20by%20the%20Maze%20game.jpg)<br><div style="text-align:center"><a>Toy-making project using recyclables</a></div> | 
-| -------- | -------- |
+|![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20DIY%20Science%20Toys%20Try%20it.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20We%20are%20amazed%20by%20the%20Maze%20game.jpg) | 
+| --- | --- |
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20P4%20Project%20on%20Black%20Soldier%20Fly.jpg)<br>Waste Management & Food Sustainability | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20Lets%20take%20a%20look%20at%20the%20life%20cycle%20of%20the%20Black%20Soldier%20Fly.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20Taking%20a%20closer%20look%20at%20food%20waste%20management.jpg)<br>(Study of Black Soldier Fly) | 
-| -------- | -------- |
+<div style="text-align:center"><a><b>Toy-making project using recyclables</a></div><br>
+
+| ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20P4%20Project%20on%20Black%20Soldier%20Fly.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20Lets%20take%20a%20look%20at%20the%20life%20cycle%20of%20the%20Black%20Soldier%20Fly.jpg)<br> | 
+| --- | --- |
+
+
+| ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20Taking%20a%20closer%20look%20at%20food%20waste%20management.jpg) | Waste Management & Food Sustainability (Study of Black Soldier Fly) | 
+| --- | --- | 
