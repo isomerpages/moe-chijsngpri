@@ -20,11 +20,10 @@ The SNGS Writing Curriculum equips pupils with a writing toolkit and provides pl
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/01%20English/01%20Prize%20Winners%20of%20The%20Queen_s%20Commonwealth%20Essay%20Competition.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/01%20English/02%20Showcase%20of%20Poems.jpeg) |
 | --- | --- |
-|   |   |
+
 
 **The SNGS Oracy Curriculum**<br>
 We want all our pupils, regardless of whether they are chatty or more reserved, to speak up. The SNGS Oracy Curriculum promotes purposeful talk amongst our pupils as they explore, critique, discuss, and present ideas and views and, simply to bond! The rule during oracy programmes such as Show and Tell, Readers’ Theatre and P1&P2 Interaction Time is to talk and talk!
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/01%20English/03%20P1_P2%20Interaction%20Time.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/01%20English/04%20Lower%20Primary%20Poetry%20Recitation.jpg) |
 | --- | --- |
-|   |   |
