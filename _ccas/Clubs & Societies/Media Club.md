@@ -57,6 +57,9 @@ third_nav_title: Clubs & Societies
 </tbody>
 </table>
 <table style="border-collapse: collapse; width: 100%;" border="1">
+	
+	
+	
 <tbody>
 <tr>
 <td style="width: 50%;"><img src="/images/mc1.jpg"></td>
