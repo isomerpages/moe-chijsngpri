@@ -50,7 +50,7 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 
 <img src="/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%201.jpg" style= "width: 75%" align = "center"><br>
 <img src="/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%202.jpg" style= "width: 75%" align = "center"><br> 
-<img src="/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%203.jpg" style= "width: 75%" align = "center"><br> 
+<img src="/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%203.jpg" style= "width: 50%" align = "center"><br> 
 <div style="text-align:center"><b>A sample of the projects presented at Week of Wonder</b></div>
 
 **Inquiry-based Learning using SPARKLE Science Kits**  
