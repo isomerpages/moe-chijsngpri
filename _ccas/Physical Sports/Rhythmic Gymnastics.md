@@ -4,10 +4,11 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/rhythmic-gymna
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong>Aims and Objectives</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>Aims and Objectives</strong></h5>
 <p>Rhythmic Gymnastics as a CCA aims to develop good body control, flexibility and coordination as well as enhances the cognitive aspects of the gymnast. As a gymnast grows, she will continue to develop, extend and refine agility, balance, coordination and flexibility which are required for higher level skills. Progressively, she will learn and develop the fundamental and higher level gymnastics skills needed for competition. Also, she will be required to handle hand apparatus, which ensures progressive participation in competitive gymnastics.</p>
 <p>Gymnastics is a sport of learning a skill and then practising it to perfection. With intentional and dedicated practice of the sport, the values of self-discipline and perseverance are developed.&nbsp;</p>
-<h4><strong>Programmes/Activities</strong></h4>
+<h5><strong>Programmes/Activities</strong></h5>
 <p><strong>1. Selection and trial training module at Primary One</strong></p>
 <p>How Do I Qualify for the CCA Programme?&nbsp;</p>
 <ol>
@@ -16,7 +17,7 @@ third_nav_title: Physical Sports
 <li>&nbsp;Upon confirmation, the pupil will officially join the gymnastics team as a CCA and has to be committed to the sports.</li>
 </ol>
 <p><em>Note: Short-listed pupils will receive consent forms issued by the school.</em></p>
-<h4><strong>Benefits</strong></h4>
+<h5><strong>Benefits</strong></h5>
 <ul>
 <li>Reduced risks of injuries as exercises are varied and can be adapted to fit the age&nbsp;</li>
 <li>The sport does not depend upon weather, hence can be practised both indoors and outdoors (with proper mat in use)&nbsp;</li>
@@ -24,7 +25,7 @@ third_nav_title: Physical Sports
 <li>Cognitive and psycho/socio development&nbsp;</li>
 <li>Contributes to the expansion of an individual&rsquo;s basic sport culture</li>
 </ul>
-<h4><strong>Teachers-in-charge</strong></h4>
+<h5><strong>Teachers-in-charge</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -59,7 +60,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Schedule</strong></h4>
+<h5><strong>CCA Schedule</strong></h5>
 <table>
 <tbody>
 <tr>
