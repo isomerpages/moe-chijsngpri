@@ -25,10 +25,12 @@ The AC<sup>2</sup>E<sup>2</sup> Teaching and Learning Approach
 
 In the PE and HE curriculum, lesson design follows a spiral progression. The content is enhanced and deepened as the pupil progresses from Primary 1 to Primary 6. The use of iPads and apps such as video recording, Kahoot, Plickers and Padlet aids collaborative learning. PAM Fusion is an integrated programme taught across the Primary 2 PE, Art and Music lessons. Through this programme, learning is synthesised across traditional subject areas and learning is deepened.&nbsp;&nbsp;PE lessons in the Outdoor Education domain include Boulder Wall activities which promote overall motor development as well as hone spatial and directional awareness. It also boosts physical skills such as balance, hand and foot coordination and agility.&nbsp;
 
-Promotion of healthy living extends beyond the classroom as pupils engage in Health Education Projects to demonstrate their understanding. During the Health Awareness Week (Week of Wonder), pupils challenge each other through the participation of health quizzes, games, and sports challenges. To encourage pupils to eat more fruits and vegetables, pupils consume fruits and vegetables during snack time on Fruiti Friday.&nbsp;
+Promotion of healthy living extends beyond the classroom as pupils engage in Health Education Projects to demonstrate their understanding. During the Health Awareness Week (Week of Wonder), pupils challenge each other through the participation of health quizzes, games, and sports challenges. To encourage pupils to eat more fruits and vegetables, pupils consume fruits and vegetables during snack time on Fruiti Friday.
+
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%203.jpg) |
-| --- | --- | --- |
+| -------- | -------- | -------- |
+
 
 **Aesthetics**
 
