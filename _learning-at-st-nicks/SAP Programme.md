@@ -36,15 +36,17 @@ Love for Chinese Culture, Love for Chinese Language 
 
 <div style="text-align:center"><a><b>Dumpling Festival 端午节</a></div>
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png) |  
+| ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png) |
 | --- | --- | --- | --- |
 | Dragon Boat Race | Making of Potpurri | Dumping Wrapping |  What's in Dumplings |
 <br>
+
 <div style="text-align:center"><a><b>Mid-Autumn Festival 中秋节</a></div>
 	
 | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png) |
 | --- | --- | --- | --- |
 | Lantern Designing | Pomelo Peeling Competition | Making Mooncake |  Solving Riddles |
+
 
 **Reading Programmes**
 
