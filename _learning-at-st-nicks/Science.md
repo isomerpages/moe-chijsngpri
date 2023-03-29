@@ -34,7 +34,9 @@ Part of the ALP also involves implementing **Visible Thinking Routines** to ex
 
 By categorising these thinking routines, students can quickly learn to apply to different context on a daily basis.
 
-![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg)
+<img src="/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg" style= "width: 75%" align = "center"> 
+
+
 
 ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg)
 
