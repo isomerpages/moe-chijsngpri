@@ -32,5 +32,3 @@ We want all our pupils, regardless of whether they are chatty or more reserved, 
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/01%20English/03%20P1_P2%20Interaction%20Time.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/01%20English/04%20Lower%20Primary%20Poetry%20Recitation.jpg) |
 | -------- | -------- |
-
-
