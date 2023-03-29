@@ -24,7 +24,7 @@ description: ""
 ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/01%20.jpg)
 <div style="text-align:center"><a>弟子规竞赛</a></div><br>
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/02%20.jpg)<br>弟子规书签制作 | ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/03.jpg) |
+| ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/02%20.jpg)<br><div style="text-align:center"><a>弟子规书签制作</a></div> | ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/03.jpg) |
 | --- | --- |
 
 **特选项目旗舰课程**
