@@ -23,9 +23,9 @@ Love for Chinese Culture, Love for Chinese Language 
 
 学生在完成八堂课后, 对中华历史有一些了解，同时从中思考中华历史如何影响我们现在的生活。  
 
-| ![Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%201.jpg) | ![Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%203.jpg) |
+| ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%201.jpg) |![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%203.jpg) |
 | --- | --- |
-| ![Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%202.jpg) | ![Picture 4.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%204.png) |
+| ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%204.png) |
 
 **Cultural Arts & Language Arts Programmes 文化艺术和语言艺术课程**<br>
 文化艺术和语言艺术课程除了让学生更能自信地用华语、欣赏和鉴赏中华文化外，也能让学生掌握21世纪的技能。
@@ -69,3 +69,4 @@ Love for Chinese Culture, Love for Chinese Language 
 **母语双周**
 
 圣尼各拉的母语双周定于每年第一学段的第十周和第二学段的第一周。今年也不例外。由于今年三月还处于冠病措施还未开放周期，因此部门就安排了一系列网上的活动其中有：一、二年级同学的“动物园上线咯”之熊猫宝宝饲养员；三、四年级的“动物园上线咯”之到脆弱森林去和五、六年级的兴趣课如棒偶、香囊、团扇画、中国结及泥塑制作课。除此，华文科代表也在课堂上和同学玩她们准备的语文游戏，希望和班上同学一起从玩游戏中加强华文、华语的学习。
+
