@@ -4,95 +4,59 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
-![](/images/01%20Banner%20Photos/cca.jpg)
-<h5><strong>Aims &amp; Objectives</strong></h5>
-<ul>
-<li>To instil resilience and confidence in our players</li>
-<li>To promote sportsmanship and teamwork</li>
-<li>To groom potential and promising young players</li>
-</ul>
-<h5><strong>Character Development&nbsp;</strong></h5>
-<ul>
-<li><strong>Values:</strong></li>
-</ul>
-<p>Pupils will learn to develop self-discipline, resilience and commitment through their trainings and competitions. Through these interactions, our pupils will be able to develop in their social-emotional competences as they learn to respect their peers and competitors.</p>
-<ul>
-<li><strong>Leadership training:</strong></li>
-</ul>
-<p>Through the practices and matches, our pupils will</p>
-<ul style="list-style-type: disc;">
-<li>build confidence</li>
-<li>develop problem solving skills and communication skills</li>
-<li>develop cooperative skills to promote harmony and inclusiveness in the group</li>
-<li>develop good sportsmanship</li>
-</ul>
-<h5><strong>Programmes /Activities</strong></h5>
-<ul>
-<li>Warming-up exercises: such as footwork, stretching and running.</li>
-<li>Drills and skill practices to improve the players&rsquo; strength and abilities.<br />e.g. Backhand, forehand, pair-practice shots etc.</li>
-<li>Sparring matches during trainings to increase the players&rsquo; cooperation, competiveness and readiness.</li>
-<li>Friendly matches, cooling down exercises and games help to promote the love for the sport and camaraderie among our players.</li>
-</ul>
-<h5><strong>Benefits</strong></h5>
-<ul>
-<li>Train pupils to be resilient</li>
-<li>Foster team spirit</li>
-<li>Improve health and fitness</li>
-</ul>
-<h5><strong>Teachers-in-charge</strong></h5>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="187"><strong>Teacher-in-charge</strong></td>
-<td style="text-align: center;" width="256"><strong>Email</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="187">Ms He Fang</td>
-<td style="text-align: center;" width="256"><a href="mailto:he_fang@schools.gov.sg">he_fang@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="187">Ms Juay Chiew Joo</td>
-<td style="text-align: center;" width="256"><a href="mailto:juay_chiew_joo@schools.gov.sg">juay_chiew_joo@schools.gov.sg</a></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="187">Mr Chen Guan</td>
-<td style="text-align: center;" width="256"><a href="mailto:chen_guan@schools.gov.sg">chen_guan@schools.gov.sg</a></td>
-</tr>
-</tbody>
-</table>
-<h5><strong>CCA Schedule</strong></h5>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="205"><strong>Day</strong></td>
-<td style="text-align: center;" width="205"><strong>Time</strong></td>
-<td style="text-align: center;" width="205"><strong>Venue</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Wednesday</td>
-<td style="text-align: center;" width="205">2 pm &ndash; pm</td>
-<td style="text-align: center;" width="205">School Hall / Primary ISH</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Friday</td>
-<td style="text-align: center;" width="205">2 pm &ndash; 4 pm</td>
-<td style="text-align: center;" width="205">School Hall / Primary ISH</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 70%;"><img src="/images/bad1.jpg"><p>(Badminton Junior Team)</p></td>
-<td style="width: 30%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 70%;"><img src="/images/bad2.jpg"><p>(Badminton Senior Team)</p></td>
-<td style="width: 30%;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
+### Aims &amp; Objectives  
+
+· To instil resilience and confidence in our players  
+· To promote sportsmanship and teamwork  
+· To groom potential and promising young players
+
+### **Character Development**&nbsp;&nbsp;
+
+#### 
+
+●&nbsp;&nbsp;&nbsp;&nbsp;Pupils&nbsp;will learn to develop&nbsp;self-discipline, resilience and commitment through their trainings and competitions. Through these interactions, our pupils will be able to develop in their social-emotional competences as they learn to respect their peers and competitors.
+
+●&nbsp;&nbsp;&nbsp;&nbsp;Through the practices and matches, our pupils will:
+
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build confidence
+
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop problem solving and communication skills
+
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop cooperative skills to promote harmony and inclusiveness in the group
+
+\-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;develop good sportsmanship&nbsp;
+
+### Programmes /Activities
+
+●&nbsp;&nbsp; Warm-up exercises such as footwork, stretching and running.  
+●&nbsp;&nbsp; Drills and skill practices to improve the players’ strength and abilities. e.g. Backhand, forehand, pair-practice shots ●&nbsp;&nbsp; Sparring matches during trainings to increase the players’ cooperation, competiveness and readiness.&nbsp;  
+●&nbsp;&nbsp; Friendly matches, cooling down exercises and games help to promote the love for the sport and camaraderie&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; among our players.· Warming-up exercises: such as footwork, stretching and running.  
+  
+
+### Benefits
+
+· Train pupils to be resilient  
+· Foster team spirit  
+· Improve health and fitness  
+  
+
+### Teachers-in-charge  
+
+<table style="margin: 0px; outline: 0px; padding: 0px; border: 1px solid rgb(234, 234, 234); border-collapse: collapse; width: 814px; height: 250px;" width="601" class="iveo_table ives_tab_1"><tbody style="margin: 0px; outline: 0px; padding: 0px;" class=""><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(249, 251, 255); color: rgb(34, 34, 34); width: 376px;" class="" width="277"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><b style="margin: 0px; outline: 0px; padding: 0px; text-align: center; background-color: rgb(255, 255, 255);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Teacher-in-charge</span></b><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(249, 251, 255); color: rgb(34, 34, 34); width: 437px;" class="" width="324"><b style="margin: 0px; outline: 0px; padding: 0px; color: rgb(0, 18, 45); text-align: center; background-color: rgb(255, 255, 255);"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Email</span></b><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(251, 249, 246); color: rgb(34, 34, 34);">&nbsp;Ms He Fang<p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">(Overall teacher in-charge)</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(251, 249, 246); color: rgb(34, 34, 34);">&nbsp;<a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(178, 151, 109); text-decoration: underline; background-color: rgb(249, 251, 255);" class="" href="mailto:he_fang@schools.gov.sg"><span style="margin: 0px; outline: 0px; padding: 0px;" class="">he_fang@schools.gov.sg</span></a></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(249, 251, 255); color: rgb(34, 34, 34);" class="" width="277"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Miss Juay Chiew Joo</span><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"></span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(249, 251, 255); color: rgb(34, 34, 34);" class="" width="324"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(178, 151, 109); text-decoration: underline;" class="" href="mailto:juay_chiew_joo@schools.gov.sg"><span style="margin: 0px; outline: 0px; padding: 0px;" class="">juay_chiew_joo@schools.gov.sg</span></a></span><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(251, 249, 246); color: rgb(34, 34, 34);" class="" width="277"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Mr Ng Junyuan</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(251, 249, 246); color: rgb(34, 34, 34);" class="" width="324"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(178, 151, 109); text-decoration: underline;" class="" href="mailto:ng_junyuan@schools.gov.sg"><span style="margin: 0px; outline: 0px; padding: 0px;" class="">ng_junyuan@schools.gov.sg</span></a></span><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"></span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;" class=""><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(249, 251, 255); color: rgb(34, 34, 34);" class="" width="277"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG">Mdm Wong Pih Foung</span></p></td><td style="margin: 0px; outline: 0px; padding: 5px; text-align: left; background: rgb(249, 251, 255); color: rgb(34, 34, 34);" class="" width="324"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class=""><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"><a style="margin: 0px; outline: 0px; padding: 0px; color: rgb(178, 151, 109); text-decoration: underline;" class="" href="mailto:wong_pih_foung@schools.gov.sg"><span style="margin: 0px; outline: 0px; padding: 0px;" class="">wong_pih_foung@schools.gov.sg</span></a></span><span style="margin: 0px; outline: 0px; padding: 0px;" class="" lang="EN-SG"></span></p></td></tr></tbody></table>
+
+  
+
+  
+
+### CCA Schedule
+
+<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: none; width: 814px; height: 90px;" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 271px; border: 1pt solid windowtext;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Day</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 271px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Time</span></b></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 271px; border-top: 1pt solid windowtext; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-image: initial; border-left: none;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><b style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Venue</span></b></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 154pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Wednesday</span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG"></span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 154.05pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">2 pm –&nbsp; pm</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 154.05pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">School Hall / Sec ISH</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 154pt; border-right: 1pt solid windowtext; border-bottom: 1pt solid windowtext; border-left: 1pt solid windowtext; border-image: initial; border-top: none;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">Friday</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 154.05pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">2 pm – 4 pm</span></p></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 154.05pt; border-top: none; border-left: none; border-bottom: 1pt solid windowtext; border-right: 1pt solid windowtext;" valign="top" width="205"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: center;" align="center" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif;" lang="EN-SG">School Hall / Sec ISH</span></p></td></tr></tbody></table>
+
+\*eCCA (if applicable) is from 3 to 4 pm
+
+### CCA Highlights
+
+![Badminton_2023_Pic01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Sports%20&amp;%20Games/Badminton/Badminton_2023_Pic01.jpg)
+
+![Badminton_2023_Pic02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Sports%20&amp;%20Games/Badminton/Badminton_2023_Pic02.jpg)
+
