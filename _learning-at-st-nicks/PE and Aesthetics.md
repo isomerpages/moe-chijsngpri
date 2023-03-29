@@ -29,35 +29,23 @@ Promotion of healthy living extends beyond the classroom as pupils engage in Hea
 
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 745px;" class="ive_eobj_center ives_tab_kosong"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 394px;"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block;" class="ive_eobj_center" alt="Picture 4.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%204.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="Picture 2.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%202.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 351px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left; width: 350px; height: 620px;" class="ive_eobj_left" alt="Picture 3.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%203.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;" colspan="2"></td></tr></tbody></table>
 
-  
-
-**Aesthetics  
-  
-**
+**Aesthetics**
 
 Creativity and self-expression through different creative art forms are introduced to pupils. This enables them to express themselves confidently and make meaningful connections with different culture and the world around us.&nbsp;
 
-  
-
-Primary 1 and 2
+<u>Primary 1 and 2</u>
 
 Pupils learn more about the Chinese culture through playing the Guzheng. Modular Aesthetics modules such as Needlework and Floral Arrangement are also introduced to provide pupils with opportunities to engage in a wider variety of activities.&nbsp;
 
-  
+<u>Primary 3 and 4</u>
 
-Primary 3 and 4&nbsp;
+Pupils learn Chinese Calligraphy, Chinese Painting and Bian Gu;
 
-Pupils learn Chinese Calligraphy, Chinese Painting and Bian Gu.&nbsp;
-
-  
-
-Primary 5 and 6&nbsp;
+<u>Primary 5 and 6</u>
 
 Pupils learn Ceramics, Digital Art and Seal Carving. Passion Pursuit is a talent exploration programme that encourages all pupils to pick up a new skill that caters to their interest.&nbsp;
 
-  
-
-To extend the pupils’ experiences, Artsation Week (Week of Wonder) encourages pupils to participate in new activities and engage in performances in class and during recess.&nbsp;
+To extend the pupils’ experiences, Artsation Week (Week of Wonder) encourages pupils to participate in new activities and engage in performances in class and during recess.
 
   
 
