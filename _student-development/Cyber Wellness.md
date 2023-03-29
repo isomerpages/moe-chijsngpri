@@ -3,6 +3,8 @@ title: Cyber Wellness
 permalink: /primary/student-development/cyber-wellness/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behaviour and awareness of how to protect oneself in cyberspace. Please click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) to learn more about the MOE's approach on Singapore's Cyber Wellness Education in schools.
 
   
