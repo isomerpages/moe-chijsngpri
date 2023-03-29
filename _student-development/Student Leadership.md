@@ -3,6 +3,8 @@ title: Student Leadership
 permalink: /primary/student-development/student-leadership/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ##### **Overview**
 
 The leadership development programme in CHIJ St Nicholas Girls’ School (SNGS) is a vehicle which the school implements for the benefit of its pupils. It is founded on the spirit of the school’s motto, mission and vision.  
