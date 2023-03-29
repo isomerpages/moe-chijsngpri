@@ -33,11 +33,13 @@ A series of activities are planned for Primary Three and Four pupils. Through th
 
 <div style="text-align:center"><a><b>Exploring through inquiry-based activities</b></a></div><br>
 
+
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%203.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%204.jpg) |
 | --- | --- |
 
 <div style="text-align:center"><a><b>Enriching and engaging activities with the use of technology</b></a></div>
 <br>
+
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%205.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%206.jpg) |
 | --- | --- |
