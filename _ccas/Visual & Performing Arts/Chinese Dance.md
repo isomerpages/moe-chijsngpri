@@ -4,83 +4,67 @@ permalink: /primary/co-curricular-activities-ccas/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/01%20Banner%20Photos/cca.jpg)
-<h5><strong>Aims and objectives</strong></h5>
-<p>In Chinese Dance, pupils learn Chinese Dance techniques to develop flexibility and stamina. This CCA also allows pupils to cultivate an understanding and appreciation for Chinese Dance through exposure to stage performances.</p>
-<p>Through the weekly trainings, pupils learn the importance of team work. With their demanding school work and rigorous trainings, they will also develop greater self-discipline and perseverance.</p>
-<p>Finally, with performance opportunities, pupils will build up confidence and showmanship.</p>
-<h5><strong>Character Development</strong></h5>
-<p>This CCA inculcates pupils&rsquo; interest for Chinese Dance and culture through the teaching of dance moves. Pupils will develop the dance skills and put their artistic skills into practice. Through this CCA, pupils learn self-management, teamwork spirit, sportsmanship and perseverance.</p>
-<h5><strong>Teachers-in-charge</strong></h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">TEACHER IN-CHARGE</th>
-<th style="text-align: center;">EMAIL</th>
-</tr>
-<tr>
-<td style="text-align: center;">Ms Catherine Boswell (OIC)</td>
-<td style="text-align: center;">boswell_catherine@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Mdm Lai Siew Lian</td>
-<td style="text-align: center;" width="205">lai_siew_lian@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Mrs Chew (Tan) Lee Ching</td>
-<td style="text-align: center;" width="205">tan_lee_ching@schools.gov.sg</td>
-</tr>
-</tbody>
-</table>
-<h5><strong>CCA Schedule</strong></h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Team</th>
-<th style="text-align: center;">Day</th>
-<th style="text-align: center;">Time</th>
-<th style="text-align: center;">Venue</th>
-</tr>
-<tr>
-<td style="text-align: center;">Development Team</td>
-<td style="text-align: center;">Wednesday</td>
-<td style="text-align: center;">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;">Primary Dance Studio</td>
-</tr>
-<tr>
-<td style="text-align: center;">School Team</td>
-<td style="text-align: center;">Wednesday &amp; Friday</td>
-<td style="text-align: center;">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;">Secondary Dance Studio</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Additional information&nbsp;</strong></p>
-<p>Students who join Chinese Dance will need to purchase a set of training leotards, tights and dance shoes. Students who have long hair are required to bun their hair up neatly.</p>
-<h5><strong>CCA Highlights</strong></h5>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 30%; text-align: center;">
-<p>Performance at Kebun Baru Community Centre for 重阳节</p>
-<p>Our development team performed《孔雀开屏》and the school team performed《青青竹儿》</p>
-</td>
-<td style="width: 70%;"><img src="/images/cd1.jpg"><br><img src="/images/cd2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">
-<p>Performance at Chinese New Year Celebration</p>
-<p>Our school team performed 《和谐的阳光》and the development team performed《快乐的新疆少女》at Chinese New Year Celebration.</p>
-</td>
-<td style="width: 70%;"><img src="/images/cd3.jpg"><br><img src="/images/cd4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">
-<p>Farewell Party for P6s</p>
-<p>The Primary 5 EXCO planned a wonderful farewell party for the Primary 6 姐姐. All girls enjoyed themselves at the party.</p>
-</td>
-<td style="width: 70%;"><img src="/images/cd5.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: right;"><em>Last updated: 10 Mar 2020</em></p>
+### Aims and objectives  
+
+In Chinese Dance, pupils learn Chinese Dance techniques to develop flexibility and stamina. This CCA also allows pupils to cultivate an understanding and appreciation for Chinese Dance through exposure to stage performances.   
+
+Through the weekly training, pupils learn the importance of teamwork. With their demanding schoolwork and rigorous training, they will also develop greater self-discipline and perseverance. 
+  
+Finally, with performance opportunities, pupils will build up confidence and showmansh
+
+### Character Development
+This CCA cultivates pupils’ interest for Chinese Dance and culture through the teaching of dance moves. Pupils will develop the dance skills and put their artistic skills into practice. Through this CCA, pupils learn self-management, teamwork spirit, sportsmanship, and perseverance. 
+
+  
+Selected members will be given the opportunity to undergo leadership training. After the training, they will be given the platform to apply the skills learnt such as leading the team to plan for team bonding activities and farewell parties.
+  
+PROGRAMME & ACTIVITIES
+
+*   Weekly practices
+    
+*   Performance at school events
+    
+*   SYF Arts Presentation
+    
+*   Performance at public events (VIA)
+  
+BENEFITS 
+
+*   To learn skills and techniques of Chinese Dance
+    
+*   To develop better motor skills through dance moves
+    
+*   To appreciate the art and grace of Chinese Dance
+    
+*   To learn the importance of teamwork and perseverance
+
+### Teachers-in-charge
+  
+
+| TEACHER IN-CHARGE | EMAIL |
+| --- | --- |
+| Ms Catherine Boswell (OIC) | boswell\_catherine@schools.gov.sg |
+| Mdm Lai Siew Lian | lai\_siew\_lian@schools.gov.sg |
+| Mrs Chew (Tan) Lee Ching | tan\_lee\_ching@schools.gov.sg  
+ |
+| Mdm Jia Yangyang  |                                                       [jia\_yangyang@schools.gov.sg](mailto:jia_yangyang@schools.gov.sg) |
+
+### CCA Schedule
+
+| eam | Day | Time | Venue |
+| --- | --- | --- | --- |
+| Development Team | Wednesday | 2 p.m. to 4 p.m. | PAL Room |
+| School Team | Wednesday & Friday | 2 p.m. to 4 p.m. | Secondary Dance Studio |
+
+\*eCCA (if applicable) is from 3 to 4 pm
+
+
+
+
+
+### CCA Highlights
+
+
+![ChinesePic01.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Chinese%20Dance/ChinesePic01.png)
+
+![ChinesePic02.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Chinese%20Dance/ChinesePic02.png)
