@@ -36,30 +36,30 @@ Love for Chinese Culture, Love for Chinese Language 
 
 <div style="text-align:center"><b>Dumpling Festival 端午节</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Dragon Boat Race</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Making of Potpurri</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Dumping Wrapping</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>What's in Dumplings</b></div><br><br>
 
 <div style="text-align:center"><b>Mid-Autumn Festival 中秋节</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Lantern Designing</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Pomelo Peeling Competition</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Making Mooncake</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png" style= "width: 50%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Solving Riddles</b></div><br><br>
 
 **Reading Programmes**
