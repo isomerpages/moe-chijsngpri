@@ -28,8 +28,9 @@ Through our ALP, we seek to nurture in our pupils:
 
 A series of activities are planned for Primary Three and Four pupils. Through the hands-on activities, pupils learn to design their dream gardens and dream bedrooms, making use of the mathematical concepts and skills which they have learnt. The skills are further enhanced during the P3 Passion Pursuit programmes where pupils learn to work collaboratively and think critically and creatively to solve a given scenario. The P4 pupils also learn about the importance of sustainability when they make use of recycled materials to build their dream gardens. Through discussions and experimentation, pupils develop a mindset of growth and learn to constantly seek improvement in their work.  
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%202.jpg)<br>*Exploring through inquiry-based activities* |
-| --- | --- |
+| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%202.jpg) |
+
+Exploring through inquiry-based activities
 
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%203.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%204.jpg)<br>*Enriching and engaging activities with the use of technology* |
