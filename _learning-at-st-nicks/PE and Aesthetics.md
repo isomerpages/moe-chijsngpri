@@ -61,5 +61,5 @@ Outdoor school programmes such as the P5 Adventure Camp and CCA Camp build resil
 
 In addition to annual programmes, the department organises several school-wide events. The Sports Carnival is a full-school sports event where the Primary 1 to Secondary 4 students represent their House colours in both track and field events. It is a day to commemorate the history of the house colours and create the awareness of sporting excellence, friendship, and respect. The St Nicks Fiesta is a fun-filled carnival organised every 3 years to bring the St Nicks community together through food and games. Jubilate is a biennial concert that displays the showmanship of the performing arts groups.  
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%208.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%209.jpg) |
-| -------- | -------- |
+<img src="/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%208.jpg" style= "width: 90%" align = "center"><br>
+<img src="/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%209.jpg" style= "width: 50%" align = "center">
