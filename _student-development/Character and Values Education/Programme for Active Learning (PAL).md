@@ -4,7 +4,8 @@ permalink: /primary/student-development/cce-framework/programme-for-active-learn
 description: ""
 third_nav_title: Character and Values Education
 ---
-  
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ![Pal 1.JPG](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCE%20Programmes/Components%20in%20cce/PAL/Pal%201.JPG)
 
 PAL @ St Nicks is a 2-year programme for all Primary 1 and 2 pupils. Pupils are exposed to PAL modules in four domains – Sports and Games, Outdoor Education, Performing Arts and Visual Arts. The aim of PAL is to develop well-rounded pupils in the five learning domains and help pupils develop social-emotional competencies.&nbsp; This year, the motto for PAL is FUN – making new Friends, Understand self and others and learn New things. Pupils are given the space within PAL to explore and apply the skills, concepts and ideas to a new situation. This lets the pupils deepen their learning, make new connections to the previous skills and knowledge and make new self-discovery.&nbsp;
