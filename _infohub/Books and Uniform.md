@@ -4,7 +4,6 @@ permalink: /primary/primary-info-hub/uniform-and-books/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
-### **Books and Uniform**&nbsp;
 <h4><strong>School Uniform / PE Attire Sale in School</strong></h4>
 <p><strong>2023 Sales Date (SNGS)</strong></p>
 <p><strong>Month Dates</strong></p>
@@ -35,7 +34,7 @@ description: ""
 <p><strong>Operating Hours: </strong><strong>9.00am to 2.30pm</strong></p>
 <p><strong>Sale Location: School Canteen Area</strong></p>
 <p><strong>Updated: 12 Dec&nbsp;</strong><strong>2022</strong></p>
-<h4><strong><u>Ubi Outlet (Tel 6747 8037)</u></strong></h4>
+<p><strong><u>Retail shop at Ubi  (Tel 6747 8037)</u></strong></po>
 <p><strong>Mon-Sat: 10:00am-6:00pm</strong><br><strong>Lunch Break : 1pm to 2pm</strong><br><strong>Sunday, Public Holiday &amp; Eve of Public Holiday :Closed </strong></p><br><strong>Online Shop:</strong><br><a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
 <table cellpadding="0" cellspacing="0" width="693" border="0">
 
