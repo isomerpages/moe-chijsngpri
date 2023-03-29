@@ -3,6 +3,8 @@ title: English
 permalink: /primary/learning-at-st-nicks/english/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
+
 ##### **Vision**
 
 The EL Department strive to nurture girls who are empathetic communicators, discerning readers and creative inquirers.</p>
