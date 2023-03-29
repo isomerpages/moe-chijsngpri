@@ -4,7 +4,7 @@ permalink: /primary/primary-info-hub/school-fees/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
-### **School Fee** 
+
 <table>
 <tbody>
 <tr>
