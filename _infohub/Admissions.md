@@ -4,9 +4,6 @@ permalink: /primary/admissions/
 description: ""
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
-
-### **Admissions** 
-
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin-left: auto; margin-right: auto;">
 <tbody>
 <tr>
