@@ -57,7 +57,7 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 | --- | --- |
 
   
-<div style="text-align:center"><a><b>A sample of the projects presented at Week of Wonder</b></a></div>
+<div style="text-align:center"><b>A sample of the projects presented at Week of Wonder</b></div>
 
 **Inquiry-based Learning using SPARKLE Science Kits**  
 Developed by the Ministry of Education (MOE) and Science Centre Singapore, the kits encourage pupils to explore and test their Science ideas through lots of “hands-on, minds-on” activities accompanied with questions and discussion.  
