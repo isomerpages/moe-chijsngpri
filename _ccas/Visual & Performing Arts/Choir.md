@@ -43,8 +43,6 @@ Choral singing builds confidence in the girls and strengthens their ability to f
 \*eCCA (if applicable) is from 3 to 4 pm  
 
 ### **CCA Highlights** 
-  
+![](/images/04%20CCAs/Choir2023_01.jpg)
 
-![Choir2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Choir/Choir2023_01.jpg)  
-
-![Choir2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Choir/Choir2023_02.jpg)
+![](/images/04%20CCAs/Choir2023_02.jpg)
