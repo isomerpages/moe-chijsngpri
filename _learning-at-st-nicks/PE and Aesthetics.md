@@ -47,21 +47,13 @@ Pupils learn Ceramics, Digital Art and Seal Carving. Passion Pursuit is a talent
 
 To extend the pupils’ experiences, Artsation Week (Week of Wonder) encourages pupils to participate in new activities and engage in performances in class and during recess.
 
-  
-
 <table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; width: 795px;" class="ives_tab_kosong ive_eobj_center"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 399px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="Picture 6.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%206.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 396px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="Picture 5.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%205.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="Picture 7.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%207.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top; width: 60px;"><img style="margin: 0px 10px 0px 0px; outline: 0px; padding: 0px; border: none; max-width: 100%; float: left;" class="ive_eobj_left" alt="Picture 8.jpg" src="https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%208.jpg"><br style="margin: 0px; outline: 0px; padding: 0px;"></td></tr></tbody></table>
-
-  
 
 **Enrichment Curriculum**  
 
 Outdoor school programmes such as the P5 Adventure Camp and CCA Camp build resilience and character through problem-solving and team bonding activities. The Cohort Games Day from Primary 1 to 6 provide pupils with opportunities to display leadership, teamwork, and communication skills through purposeful play. As the pupils interact and face new challenges, team spirit, and team bonding are also forged.
 
-  
-
 In addition to annual programmes, the department organises several school-wide events. The Sports Carnival is a full-school sports event where the Primary 1 to Secondary 4 students represent their House colours in both track and field events. It is a day to commemorate the history of the house colours and create the awareness of sporting excellence, friendship, and respect. The St Nicks Fiesta is a fun-filled carnival organised every 3 years to bring the St Nicks community together through food and games. Jubilate is a biennial concert that displays the showmanship of the performing arts groups.  
-
-  
 
 | ![Picture 9.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%209.jpg) | ![Picture 10.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/PE%20and%20Aesthetics/Picture%2010.jpg) |
 | --- | --- |
