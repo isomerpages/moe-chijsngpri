@@ -4,14 +4,14 @@ permalink: /primary/co-curricular-activities-ccas/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-
-<h4><strong>Aims and objectives</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>Aims and objectives</strong></h5>
 <p>In Chinese Dance, pupils learn Chinese Dance techniques to develop flexibility and stamina. This CCA also allows pupils to cultivate an understanding and appreciation for Chinese Dance through exposure to stage performances.</p>
 <p>Through the weekly trainings, pupils learn the importance of team work. With their demanding school work and rigorous trainings, they will also develop greater self-discipline and perseverance.</p>
 <p>Finally, with performance opportunities, pupils will build up confidence and showmanship.</p>
-<h4><strong>Character Development</strong></h4>
+<h5><strong>Character Development</strong></h5>
 <p>This CCA inculcates pupils&rsquo; interest for Chinese Dance and culture through the teaching of dance moves. Pupils will develop the dance skills and put their artistic skills into practice. Through this CCA, pupils learn self-management, teamwork spirit, sportsmanship and perseverance.</p>
-<h4><strong>Teachers-in-charge</strong></h4>
+<h5><strong>Teachers-in-charge</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -32,7 +32,7 @@ third_nav_title: Visual & Performing Arts
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Schedule</strong></h4>
+<h5><strong>CCA Schedule</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -57,7 +57,7 @@ third_nav_title: Visual & Performing Arts
 </table>
 <p><strong>Additional information&nbsp;</strong></p>
 <p>Students who join Chinese Dance will need to purchase a set of training leotards, tights and dance shoes. Students who have long hair are required to bun their hair up neatly.</p>
-<h4><strong>CCA Highlights</strong></h4>
+<h5><strong>CCA Highlights</strong></h5>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
