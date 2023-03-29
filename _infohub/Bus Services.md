@@ -5,8 +5,6 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
 
-### **Bus Services**
-
 <h4><strong>J-Link Service</strong></h4>
 <p>Contact Person : Mdm Anna Lye<br />Tel : +65 9455 0531&nbsp;<br />Fax: +65 6241 2725</p>
 <h4><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE 2022</strong></h4>
