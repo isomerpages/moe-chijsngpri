@@ -56,20 +56,13 @@ third_nav_title: Clubs & Societies
 	
 <tbody>
 <tr>
-<td style="width: 50%;"><img src="/images/mc1.jpg"></td>
+<td style="width: 100%;"><img src="/images/mc1.jpg"></td>
+</tr>
+
+<tr>
 <td style="width: 50%;"><img src="/images/mc2.jpg"></td>
 </tr>
-<tr>
-<td style="width: 50%;"><img src="/images/mc3.jpg"></td>
-<td style="width: 50%;"><img src="/images/mc4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/mc5.jpg"></td>
-<td style="width: 50%;"><img src="/images/mc6.jpg"></td>
-</tr>
-<tr>
-<td style="width: 50%;"><img src="/images/mc7.jpg"></td>
-<td style="width: 50%;"><img src="/images/mc8.jpg"></td>
+
 </tr>
 </tbody>
 </table>
