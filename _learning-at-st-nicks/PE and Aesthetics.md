@@ -30,9 +30,6 @@ Promotion of healthy living extends beyond the classroom as pupils engage in Hea
 | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%203.jpg) |
 | -------- | -------- |
 
-
-
-
 **Aesthetics**
 
 Creativity and self-expression through different creative art forms are introduced to pupils. This enables them to express themselves confidently and make meaningful connections with different culture and the world around us.&nbsp;
