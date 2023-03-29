@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
-<h4><strong>AIMS &amp; OBJECTIVES</strong></h4>
+<h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
 <p>As a Brownie in Guiding, she will&hellip;</p>
 <ul>
 <li>find happiness in helping others through upholding the Brownie Motto &ldquo;Lend A Hand&rdquo;</li>
@@ -17,9 +17,9 @@ description: ""
 <li>wear a smart uniform</li>
 <li>sing Brownies songs</li>
 </ul>
-<h4><strong>The Brownie Promise</strong></h4>
+<h5><strong>The Brownie Promise</strong></h5>
 <p>I promise to do my best;<br />To do my duty to God,<br />To serve my country<br />And help other people; and<br />To keep the Brownie Law.</p>
-<h4><strong>The Brownie Law</strong></h4>
+<h5><strong>The Brownie Law</strong></h5>
 <ul>
 <li>A Brownie obeys and respects her elders</li>
 <li>A Brownie thinks of others before herself</li>
@@ -28,7 +28,7 @@ description: ""
 <li>A Brownie is thrifty</li>
 <li>A Brownie plays and works cheerfully</li>
 </ul>
-<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<h5><strong>TEACHERS IN-CHARGE</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -48,7 +48,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA SCHEDULE</strong></h4>
+<h5><strong>CCA SCHEDULE</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -64,7 +64,7 @@ description: ""
 </tbody>
 </table>
 <p><strong>Additional Information<br /></strong>All brownies will need to purchase a set of uniform (subsidised by the school), enrolment and proficiency badges. Brownies can also sign up for additional workshops organised by Girl Guides Singapore and workshop fees are payable by students.</p>
-<h4><strong>Brownies</strong></h4>
+<h5><strong>Brownies</strong></h5>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
