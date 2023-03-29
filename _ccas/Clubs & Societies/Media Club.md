@@ -22,6 +22,8 @@ third_nav_title: Clubs & Societies
 <p>Members will be taught to safely and properly handle digital cameras (i.e. DSLR), video cameras, etc. Following key school events, members will have the opportunity to edit, compile and showcase their photos via the school broadcasting platforms.</p>
 <p><strong>Stop-motion Animation</strong>:</p>
 <p>Members will have the opportunity to learn basic stop-motion animation skills. Using simple craft tools and materials, members will acquire the skills needed to produce a simple stop-motion animation video via the iPad.</p>
+<p><strong>Coding</strong>:</p>
+<p>Members will be able to gain exposure in basic coding and develop computational thinking skills. Using apps like Thunkable, members will learn to code simple and useful programs via iPad / laptop.</p>
 <h5><strong>BENEFITS</strong></h5>
 <p>Members will have the opportunity to develop both hard and soft skills. They will get a chance to hone their technical skills and at the same time interact and develop bonds with members from other classes or levels.</p>
 <h5><strong>TEACHERS IN-CHARGE</strong></h5>
@@ -45,7 +47,7 @@ third_nav_title: Clubs & Societies
 <tr>
 <td style="text-align: center;" width="205">Wednesday</td>
 <td style="text-align: center;" width="205">2.00 to 4.00 p.m.</td>
-<td style="text-align: center;" width="205">Media Development Room / Computer Lab 3</td>
+<td style="text-align: center;" width="205">Primary Computer Lab 3</td>
 </tr>
 </tbody>
 </table>
