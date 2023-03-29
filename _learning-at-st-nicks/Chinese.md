@@ -38,4 +38,4 @@ description: ""
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/04%20.jpg) |![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/05%20.jpg) |
 | --- | --- |
-| 悦读大使讲故事活动| 中秋节活动 |
+| **悦读大使讲故事活动** | **中秋节活动** |
