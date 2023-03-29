@@ -31,5 +31,5 @@ description: ""
 
 作为特选小学，我们通过旗舰课程“化语同行•乐在圣尼各拉”培养学生对中华文化及语言的兴趣，加强她们对中华文化、语言的认识。学生将有机会学习中华历史、参加语言艺术及文化艺术课程、通过各种活动感受学习华文的乐趣、了解中华传统节日、培养阅读兴趣。对华文有浓厚兴趣的同学还有机会加入我们的精英课程，成为华文才艺俱乐部的一员或受训成为“悦读大使”，为推广阅读尽一份力。
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/04%20.jpg)<br><div style="text-align:center"><a>悦读大使讲故事活动</a></div><br> |![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/05%20.jpg)<br><div style="text-align:center"><a>中秋节活动</a></div><br> |
+| ![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/04%20.jpg)<br><div style="text-align:center"><a>悦读大使讲故事活动</a></div> |![](/images/02%20Learning%20@%20St%20Nicks/04%20Chinese/05%20.jpg)<br><div style="text-align:center"><a>中秋节活动</a></div> |
 | --- | --- |
