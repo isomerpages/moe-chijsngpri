@@ -36,7 +36,7 @@ By categorising these thinking routines, students can quickly learn to apply to 
 
   
 
-| ![P3 Learning Centres Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%201.jpg) | ![P3 Learning Centres Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![P3 Learning Centres Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%203.jpg) |
+| ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%203.jpg) |
 | --- | --- | --- |
 
 
