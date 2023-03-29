@@ -86,3 +86,6 @@ their trainings and competitions. Through these interactions, our pupils will be
 </table>
 *eCCA (if applicable) is from 3 to 4 pm
 
+![](/images/04%20CCAs/Badminton_2023_Pic01.jpg)
+
+![](/images/04%20CCAs/Badminton_2023_Pic02.jpg)
