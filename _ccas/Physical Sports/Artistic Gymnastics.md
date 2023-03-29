@@ -38,79 +38,40 @@ How Do I Qualify for the CCA Programme?
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;">LEVEL</th>
 <th style="text-align: center;">TEACHER IN-CHARGE</th>
 <th style="text-align: center;">EMAIL</th>
-</tr>
-<tr>
-<td style="text-align: center;" rowspan="4" width="124">P1 to P6</td>
-<td style="text-align: center;" width="223">Mrs Angie Choong</td>
-<td style="text-align: right;" width="269">chong_sou_foong@moe.edu.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="223">Ms Lee Hwee Ing</td>
 <td style="text-align: right;" width="269">lee_hwee_ing@moe.edu.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;" width="223">Miss Sylvia Seah</td>
-<td style="text-align: right;" width="269">seah_jia_ying_sylvia@schools.gov.sg</td>
+<td style="text-align: center;" width="223">Ms Brenda Wong</td>
+<td style="text-align: right;" width="269">wong_pek_chin_brenda@schools.gov.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="223">Mrs Gomathi Chakz</td>
 <td style="text-align: right;" width="269">gomathi_a@schools.gov.sg</td>
 </tr>
+	<tr>
+<td style="text-align: center;" width="223">Mdm Lee Pei Ting</td>
+<td style="text-align: right;" width="269">lee_pei_ting@schools.gov.sg</td>
+</tr>
 </tbody>
 </table>
 <h5><strong>CCA SCHEDULE</strong></h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">DAY</th>
-<th style="text-align: center;">TIME</th>
-<th style="text-align: center;">VENUE</th>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Monday</td>
-<td style="text-align: center;" width="205">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;" width="205">School Gymnasium</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Wednesday</td>
-<td style="text-align: center;" width="205">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;" width="205">School Gymnasium</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Friday</td>
-<td style="text-align: center;" width="205">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;" width="205">School Gymnasium</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Additional Information</strong></p>
-<p>All students are required to wear gym leotards and girls who have long hair will need to tie up their hair neatly. Students who are selected to join the school team and participate in competitions will be able to purchase the school team leotard. Students who are selected to participate in competitions will be required to attend extended training near competition dates.</p>
+
+| DAY | TIME | VENUE |
+| --- | --- | --- |
+| Monday (For P2, P3, P4 and school team) | 2 p.m. to 4 p.m. | School Gymnasium |
+| Wednesday (P3, P5, P6, school team) | 2 p.m. to 4 p.m.  | School Gymnasium |
+| Friday (P4, P5, P6, school team) | 2 p.m. to 4 p.m.  | School Gymnasium |
+
+\*eCCA (if applicable) is from 3 to 4 pm
+
+
 <h4><strong>CCA Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 30%; text-align: center;">National Primary School Games Artistic Gymnastics Championships 2019</td>
-<td style="width: 70%;"><img src="/images/ag1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">National Primary Schools Games Artistic Gymnastics Championships 2019</td>
-<td style="width: 70%;"><img src="/images/ag2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">Warm-up</td>
-<td style="width: 70%;"><img src="/images/ag3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">Usual Training</td>
-<td style="width: 70%;"><img src="/images/ag4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">Usual Training</td>
-<td style="width: 70%;"><img src="/images/ag5.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: right;"><em>Last updated on: 27 Feb 2020</em></p>
+
+![](/images/04%20CCAs/Agym2023_01.png)
+
+![](/images/04%20CCAs/Agym2023_02.png)
