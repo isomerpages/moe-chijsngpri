@@ -7,9 +7,9 @@ description: ""
 
 ### **Bus Services**
 
-<h4><strong>J-Link Service</strong></h4>
+<h5><strong>J-Link Service</strong></h5>
 <p>Contact Person : Mdm Anna Lye<br />Tel : +65 9455 0531&nbsp;<br />Fax: +65 6241 2725</p>
-<h4><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE 2022</strong></h4>
+<h5><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE 2022</strong></h5>
 <table width="654">
 <tbody>
 <tr>
@@ -287,17 +287,17 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Note</strong></h4>
+<h3><strong>Note</strong></h3>
 <p>Monday and Thursday</p>
 <p style="padding-left: 40px;">- Normal school hours; dismissal at 1.40pm or late trip home at 4pm.<br />- Class level Supplementary or Enrichment lessons will be scheduled on these days.</p>
 <p>Tuesday</p>
 <p style="padding-left: 40px;">- Normal school hours; dismissal at 1.40pm</p>
 <p>Wednesday &amp; Friday</p>
 <p style="padding-left: 40px;">- Normal school hours; dismissal at 1.40pm or late trip home at 4pm.</p>
-<h4><strong>FAQ</strong></h4>
-<h4><strong>Q1: What are bus fares for return and one way trips?</strong></h4>
+<h5><strong>FAQ</strong></h5>
+<h5><strong>Q1: What are bus fares for return and one way trips?</strong></h5>
 <p>Answer: The school bus fare structure for return and one-way trips are for normal schooling hours (7.30am &ndash; 1.30pm/1.40pm). The fare will be calculated based on distance from school to home obtained from the website: www.onemonitoring.com.sg in which the shortest distance apply. The bus fare will also be based on sufficient students (economy of scale) taking the bus service for that particular routing or area covered. If there is insufficient student taking that bus service, additional charges may be imposed by the bus operator.</p>
-<h4><strong>Q2: Do I have to pay for full 12 month fares even though there is no school during the holidays?</strong></h4>
+<h5><strong>Q2: Do I have to pay for full 12 month fares even though there is no school during the holidays?</strong></h5>
 <p>Answer: The Singapore School Bus Association rule requires the payment for the 12 months. The structure for payment will be as per table below. Proof of payment will be recorded on the Student&rsquo;s Bus Card.</p>
 <table>
 <tbody>
@@ -365,14 +365,14 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong>Q3: If my daughter takes the bus for less than one month, must I still pay for the full month?</strong></h4>
+<h5><strong>Q3: If my daughter takes the bus for less than one month, must I still pay for the full month?</strong></h5>
 <p>Answer: Yes.</p>
-<h4><strong>Q4: How long is the advance notice I have to give the bus operator if my daughter decides to stop taking the bus?</strong></h4>
+<h5><strong>Q4: How long is the advance notice I have to give the bus operator if my daughter decides to stop taking the bus?</strong></h5>
 <p>Answer: Usually at least one month. However, do check with the bus operator when you first sign up for his service.</p>
-<h4><strong>Q5: How do the parents of new Primary 1 pupils register their daughters to take the school bus</strong></h4>
+<h5><strong>Q5: How do the parents of new Primary 1 pupils register their daughters to take the school bus</strong></h5>
 <p>Answer: At the Primary 1 Orientation Day, the bus operators will set up a counter at the school canteen for parents to register for their daughters. The bus operator who will fetch your daughter will contact you by mid Dec on the arrangements.</p>
 <p>Answer: You may register for the school bus service using this link -&nbsp;<a href="https://forms.gle/Q49pko8EbWEis7dU8">https://forms.gle/Q49pko8EbWEis7dU8</a></p>
-<h4><strong>Q6: What is the arrangement for the bus drivers to fetch new Primary 1 students home when school reopens in January?</strong></h4>
+<h5><strong>Q6: What is the arrangement for the bus drivers to fetch new Primary 1 students home when school reopens in January?</strong></h5>
 <p>Answer: The primary students will be dismissed from class and guided by teachers to the Students&rsquo; Waiting Area (Family Lounge). At the waiting area, signage will be placed for students to identify the bus number and for the student to queue up according to the bus that they will be taking. Once all are accounted for, the bus driver will personally lead the students to the bus for their trip home.</p>
-<h4><strong>Q7: Do students have to pay for the single trip charge when they stay in school in the afternoons for school activities?</strong></h4>
+<h5><strong>Q7: Do students have to pay for the single trip charge when they stay in school in the afternoons for school activities?</strong></h5>
 <p>Answer:&nbsp;Yes, students staying back in school for CCA and other school activities taking the 4pm late trip home will need to pay the single trip charge when they board the bus. Alternatively parents can opt to pay the bus driver on a monthly basis. Please refer to the table (Bus Fare Structure ) for details.</p>
