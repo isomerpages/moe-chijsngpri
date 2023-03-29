@@ -3,6 +3,8 @@ title: Science
 permalink: /primary/learning-at-st-nicks/science/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
+
 ##### **Vision**
   
 Every pupil is able to apply scientific knowledge and skills to appreciate and care for the natural world.  
