@@ -14,9 +14,8 @@ Through the process of tinkering and overcoming mistakes, pupils will learn to t
 
  ##### **PROGRAMME & ACTIVITIES**
 *   Hands-on activities and projects that include design making 
-    
-##### **BENEFITS**
 
+##### **BENEFITS**
 *   Unleash and showcase their creativity.
     
 *   Encouragement to reflect and learn from mistakes.
