@@ -4,19 +4,20 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/table-tennis/
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong>Aims and objectives</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>Aims and objectives</strong></h5>
 <p>Our table tennis school teams are actively involved in both the zonal and national competitions. The objectives are to nurture and develop resilience, confidence and perseverance among our members, and promote the values of sportsmanship and teamwork.&nbsp;</p>
-<h4><strong>Character Development</strong></h4>
+<h5><strong>Character Development</strong></h5>
 <ul>
 <li>Perseverance, fair play and sportsmanship&nbsp;</li>
 <li>Leadership training</li>
 </ul>
-<h4><strong>Programmes/Activities</strong></h4>
+<h5><strong>Programmes/Activities</strong></h5>
 <ul>
 <li>Our members will be introduced to play techniques such as stroke play, footwork, ball control, serve, defence and attack strategies. There will be drills to enable our members to achieve dexterity, leg and arm strength, speed, power and agility.&nbsp;</li>
 <li>In addition, sparring matches are incorporated during training&nbsp;to increase members&rsquo; cooperation, competitiveness and readiness.&nbsp;</li>
 </ul>
-<h4><strong>Benefits</strong></h4>
+<h5><strong>Benefits</strong></h5>
 <ul>
 <li>Train pupils to be resilient</li>
 <li>Foster team spirit</li>
@@ -37,7 +38,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>Teachers-in-charge</strong></h4>
+<h5><strong>Teachers-in-charge</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -62,7 +63,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Schedule</strong></h4>
+<h5><strong>CCA Schedule</strong></h5>
 <table>
 <tbody>
 <tr>
