@@ -25,29 +25,20 @@ third_nav_title: Visual & Performing Arts
 <table>
 <tbody>
 <tr>
-<th style="text-align: center;">Level</th>
 <th style="text-align: center;">Teacher-in-charge</th>
 <th style="text-align: center;">Email</th>
 </tr>
 <tr>
-<td style="text-align: center;">P3 and P4</td>
-<td style="text-align: center;">Mrs Phoebe Peer</td>
-<td style="text-align: center;">lee_hui_lin_phoebe@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">P5 and P6</td>
 <td style="text-align: center;">Ms Xuanie Chin</td>
 <td style="text-align: center;">chin_yi_xuan@schools.gov.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">P5 and P6</td>
 <td style="text-align: center;">Miss Candy Gan&nbsp;</td>
 <td style="text-align: center;">gan_xin_lin_candy@schools.gov.sg&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">P5 and P6</td>
-<td style="text-align: center;">Mrs Wong Pih Foung&nbsp;</td>
-<td style="text-align: center;">wong_pih_foung@schools.gov.sg&nbsp;</td>
+<td style="text-align: center;">Miss Chim Shu Min&nbsp;</td>
+<td style="text-align: center;">chim_shu_min@schools.gov.sg&nbsp;</td>
 </tr>
 </tbody>
 </table>
@@ -73,20 +64,7 @@ third_nav_title: Visual & Performing Arts
 </table>
 <p><strong>Additional information<br /></strong>Students who wish to purchase their own personal instruments can contact the CCA teachers in-charge. The school will assist to source for affordable second hand instruments.</p>
 <h4><strong>CCA Highlights</strong></h4>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 18%; text-align: center;">SYF Arts Presentation 2018</td>
-<td style="width: 82%;"><img src="/images/guz1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 18%; text-align: center;">Chinese New Year Performance 2019</td>
-<td style="width: 82%;"><img src="/images/guz2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 18%; text-align: center;">Guzheng Exchange with Ai Tong School 2019</td>
-<td style="width: 82%;"><img src="/images/guz3.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: right;"><em>Last updated: 12 Mar 2020</em></p>
+
+![](/images/04%20CCAs/Guzheng01.jpg)
+
+![](/images/04%20CCAs/Guzheng02.jpg)
