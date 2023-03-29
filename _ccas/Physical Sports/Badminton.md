@@ -4,13 +4,14 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong>Aims &amp; Objectives</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>Aims &amp; Objectives</strong></h5>
 <ul>
 <li>To instil resilience and confidence in our players</li>
 <li>To promote sportsmanship and teamwork</li>
 <li>To groom potential and promising young players</li>
 </ul>
-<h4><strong>Character Development&nbsp;</strong></h4>
+<h5><strong>Character Development&nbsp;</strong></h5>
 <ul>
 <li><strong>Values:</strong></li>
 </ul>
@@ -25,20 +26,20 @@ third_nav_title: Physical Sports
 <li>develop cooperative skills to promote harmony and inclusiveness in the group</li>
 <li>develop good sportsmanship</li>
 </ul>
-<h4><strong>Programmes /Activities</strong></h4>
+<h5><strong>Programmes /Activities</strong></h5>
 <ul>
 <li>Warming-up exercises: such as footwork, stretching and running.</li>
 <li>Drills and skill practices to improve the players&rsquo; strength and abilities.<br />e.g. Backhand, forehand, pair-practice shots etc.</li>
 <li>Sparring matches during trainings to increase the players&rsquo; cooperation, competiveness and readiness.</li>
 <li>Friendly matches, cooling down exercises and games help to promote the love for the sport and camaraderie among our players.</li>
 </ul>
-<h4><strong>Benefits</strong></h4>
+<h5><strong>Benefits</strong></h5>
 <ul>
 <li>Train pupils to be resilient</li>
 <li>Foster team spirit</li>
 <li>Improve health and fitness</li>
 </ul>
-<h4><strong>Teachers-in-charge</strong></h4>
+<h5><strong>Teachers-in-charge</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -59,7 +60,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Schedule</strong></h4>
+<h5><strong>CCA Schedule</strong></h5>
 <table>
 <tbody>
 <tr>
