@@ -34,13 +34,15 @@ Love for Chinese Culture, Love for Chinese Language 
 
 身为特选学校的学生，应对于华人的主要传统节日有所认识。因此，我们在不同的节日，进行一些活动，让学生通过参加活动的当儿，除了知道节日的来源，也能学习到传统文化所承载的正确道德观。
 
-**Dumpling Festival 端午节**
-| ![Picture 5.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%205.png) | ![Picture 6.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%206.png) | ![Picture 7.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%207.png) | ![Picture 8.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%208.png) |  
+<div style="text-align:center"><a><b>Dumpling Festival 端午节</a></div>
+
+| ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png) |  
 | --- | --- | --- | --- |
 | Dragon Boat Race | Making of Potpurri | Dumping Wrapping |  What's in Dumplings |
-
-**Mid-Autumn Festival 中秋节**
-| ![Picture 9.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%209.png) | ![Picture 10.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%2010.png) | ![Picture 11.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%2011.png) | ![Picture 12.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%2012.png) |
+<br>
+<div style="text-align:center"><a><b>Mid-Autumn Festival 中秋节</a></div>
+	
+| ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png) |
 | --- | --- | --- | --- |
 | Lantern Designing | Pomelo Peeling Competition | Making Mooncake |  Solving Riddles |
 
@@ -54,9 +56,9 @@ Love for Chinese Culture, Love for Chinese Language 
 2.  创意讲故事比赛 Creative story telling competition for P3-P5 levels (via video submission)
 3.  阅读大使工作坊 Chinese Language Story books Ambassador Workshop
 
-![Picture 13.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%2013.png)![Picture 14.png](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/SAP/Picture%2014.png)  
+![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2013.png)<br>![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2014.png)
 
-**SAP Flagship Quality Peak Programmes 旗舰活动的深化课程**
+##### **SAP Flagship Quality Peak Programmes 旗舰活动的深化课程**
 
 **Chinese Cultural & Language Club (CCLC) 华文才艺俱乐部**
 
@@ -69,4 +71,3 @@ Love for Chinese Culture, Love for Chinese Language 
 **母语双周**
 
 圣尼各拉的母语双周定于每年第一学段的第十周和第二学段的第一周。今年也不例外。由于今年三月还处于冠病措施还未开放周期，因此部门就安排了一系列网上的活动其中有：一、二年级同学的“动物园上线咯”之熊猫宝宝饲养员；三、四年级的“动物园上线咯”之到脆弱森林去和五、六年级的兴趣课如棒偶、香囊、团扇画、中国结及泥塑制作课。除此，华文科代表也在课堂上和同学玩她们准备的语文游戏，希望和班上同学一起从玩游戏中加强华文、华语的学习。
-
