@@ -37,7 +37,7 @@ By categorising these thinking routines, students can quickly learn to apply to 
 | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%203.jpg) |
 | --- | --- | --- |
 
-<div style="text-align:center"><a><b>P3 Learning Centres </a></div><br>
+<div style="text-align:center"><a><b>P3 Learning Centres </b></a></div><br>
 
 **WOW- Week of Wonder**  
 At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense of wonder and passion to understand the world around them. During lessons, pupils instinctively ask questions, observe, and try out solutions - all important parts of thinking scientifically. Pupils are taught to wonder, discover and explore through play and making scientific discoveries. Learning Science through discovery and play help pupils in the following ways:  
@@ -50,7 +50,8 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 |![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%203.jpg) |
 | --- | --- |
 
-<div style="text-align:center"><a><b>A sample of the projects presented at Week of Wonder</a></div><br>
+<div style="text-align:center"><a><b>A sample of the projects presented at Week of Wonder</b></a></div>
+
 **Inquiry-based Learning using SPARKLE Science Kits**  
 Developed by the Ministry of Education (MOE) and Science Centre Singapore, the kits encourage pupils to explore and test their Science ideas through lots of “hands-on, minds-on” activities accompanied with questions and discussion.  
 
