@@ -4,6 +4,7 @@ permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/clcc-mass-co
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
 #### **SAP Quality Peak Program 特选旗舰计划之深化项目**
 
 <b>AIMS & OBJECTIVES
