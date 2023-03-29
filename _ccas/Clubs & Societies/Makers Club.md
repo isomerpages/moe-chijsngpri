@@ -13,7 +13,8 @@ Makers Club provides the opportunity for pupils who are passionate and have an i
 Through the process of tinkering and overcoming mistakes, pupils will learn to think of solutions when they encounter problems and build their resilience in problem solving. Through frequent group projects, they learn to work collaboratively and communicate effectively with one another. The pupils will also have a chance to display their leadership qualities when they carry out group projects. 
 
  ##### **PROGRAMME & ACTIVITIES**
-*   Hands-on activities and projects that include design making 
+*   Hands-on activities and projects that include design making</b>
+
 
 ##### **BENEFITS**
 *   Unleash and showcase their creativity.
