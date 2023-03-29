@@ -3,6 +3,8 @@ title: SAP Programme
 permalink: /learning-at-st-nicks/sap-programme/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
+
 ##### **Vision 愿景**
 
 培育善用华文华语、乐学中华文化的学生。
