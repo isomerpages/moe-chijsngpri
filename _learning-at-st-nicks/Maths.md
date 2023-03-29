@@ -30,6 +30,12 @@ A series of activities are planned for Primary Three and Four pupils. Through th
 
 
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%202.jpg) | 
 | -------- | -------- | 
 
