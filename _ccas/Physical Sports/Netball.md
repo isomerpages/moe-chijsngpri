@@ -31,9 +31,24 @@ Netball provides a unique opportunity for both physical and moral development an
 
 
 <table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: none; width: 773px; height: 203px;" width="601" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 152px; border: 1pt solid black;" valign="top" width="109"><h4 style="margin: 0in 0px 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;" lang="EN-SG">School Team</span></h4></td><td style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 620px; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none;" valign="top" width="492"><h4 style="margin: 0in 0px 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;" lang="EN-SG">Year 3 – 4 (P5 &amp; 6)</span></u></h4><h4 style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; text-indent: -0.25in;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 14pt; font-family: Symbol; color: black; font-weight: normal;" lang="EN-SG">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;" lang="EN-SG">School Teams (Junior and Senior) train at least twice a week</span></h4><p style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;" lang="EN-SG">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;" lang="EN-SG">They undergo rigorous physical training to further develop netball skills and learn fine strategy planning</span></p><p style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;" lang="EN-SG">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;" lang="EN-SG">They play in the annual North Zone &amp; National Primary Schools Netball Championships</span></p></td></tr></tbody></table>
+<br>
 
+### Benefits
 
+*   General athletic development
+*   Acquisition of basic motor skills
+*   Development of ball and movement skills
+*   Introduced to the sport of netball
+*   Mental skills training
+*   Character building in line with the school’s vision & mission
 
+### Teachers-in-charge
 
-
+| Teacher-in-charge |                                                                               Email |
+| --- | --- |
+| Mrs Christina Loh (Overall teacher in-charge) | chee\_mei\_lan\_christina@moe.edu.sg |
+| Mdm Noelle Lee | llee\_meiting\_noelle\_francesca@moe.edu.sg  
+ |
+|  Mrs Ruth Quek | [](mailto:tan_wee_siew_ruth@schools.gov.sg)[](mailto:tan_wee_siew_ruth@schools.gov.sg)tan\_wee\_siew\_ruth@schools.gov.sg  |
+|  Miss Eileen Low  |
 
