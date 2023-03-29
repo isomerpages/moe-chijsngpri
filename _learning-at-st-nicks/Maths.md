@@ -30,19 +30,24 @@ A series of activities are planned for Primary Three and Four pupils. Through th
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%202.jpg) |
 | --- | --- |
-<div style="text-align:center"><a><b>Exploring through inquiry-based activities</a></div><br>
+
+<div style="text-align:center"><a><b>Exploring through inquiry-based activities</b></a></div><br>
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%203.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%204.jpg) |
 | --- | --- |
-<div style="text-align:center"><a><b>Enriching and engaging activities with the use of technology</a></div>
+
+<div style="text-align:center"><a><b>Enriching and engaging activities with the use of technology</b></a></div>
+<br>
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%205.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%206.jpg) |
 | --- | --- |
-<div style="text-align:center"><a><b>Fun math activities during Week of Wonder</a></div><br>
 
-| <img src= "/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%207.jpg" style= "width: 40%; margin-centre:5px;" align ="centre"><br>*ALP - sharing of P4 project work during Week of Wonder* |
+<div style="text-align:center"><a><b>Fun math activities during Week of Wonder</b></a></div><br>
+
+| <img src= "/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%207.jpg" style= "width: 40%; margin-centre:5px;" align ="centre"><br>ALP - sharing of P4 project work during Week of Wonder |
 | --- | 
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%208.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%209.jpg) |
 | --- | --- |
-<div style="text-align:center"><a><b>P3 Passion pursuit programmes</a></div>
+
+<div style="text-align:center"><a><b>P3 Passion pursuit programmes</b></a></div>
