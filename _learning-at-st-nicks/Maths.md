@@ -29,18 +29,20 @@ Through our ALP, we seek to nurture in our pupils:
 A series of activities are planned for Primary Three and Four pupils. Through the hands-on activities, pupils learn to design their dream gardens and dream bedrooms, making use of the mathematical concepts and skills which they have learnt. The skills are further enhanced during the P3 Passion Pursuit programmes where pupils learn to work collaboratively and think critically and creatively to solve a given scenario. The P4 pupils also learn about the importance of sustainability when they make use of recycled materials to build their dream gardens. Through discussions and experimentation, pupils develop a mindset of growth and learn to constantly seek improvement in their work.  
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%202.jpg) |
-
-Exploring through inquiry-based activities
-
-
-| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%203.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%204.jpg)<br>*Enriching and engaging activities with the use of technology* |
 | --- | --- |
+<div style="text-align:center"><a><b>Exploring through inquiry-based activities</a></div><br>
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%205.jpg)<br>*Fun math activities during Week of Wonder* | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%206.jpg) |
+| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%203.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%204.jpg) |
 | --- | --- |
+<div style="text-align:center"><a><b>Enriching and engaging activities with the use of technology</a></div>
+
+| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%205.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%206.jpg) |
+| --- | --- |
+<div style="text-align:center"><a><b>Fun math activities during Week of Wonder</a></div><br>
 
 | <img src= "/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%207.jpg" style= "width: 40%; margin-centre:5px;" align ="centre"><br>*ALP - sharing of P4 project work during Week of Wonder* |
 | --- | 
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%208.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%209.jpg)<br>*P3 Passion pursuit programmes* |
+| ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%208.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/02%20Maths/Picture%209.jpg) |
 | --- | --- |
+<div style="text-align:center"><a><b>P3 Passion pursuit programmes</a></div>
