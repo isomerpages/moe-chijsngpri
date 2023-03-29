@@ -48,14 +48,14 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">&nbsp;</td>
 <td style="text-align: center; width: 136px;">ISH (Pri)</td>
 <td style="text-align: center; width: 120px;">ISH (Pri)</td>
-<td style="text-align: center; width: 146px;">Mdm Toh Poh Yen (OIC)<br />Mrs Justine Hum (2IC)<br />Mr Phoon Chee Weng<br />Mdm Denise Jung</td>
+<td style="text-align: center; width: 146px;">Mdm Toh Poh Yen (OIC)<br />Mrs Justine Hum (2IC)<br />Mr Phoon Chee Weng<br />
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/track-and-field" target="">TRACK AND FIELD</a></td>
 <td style="text-align: center; width: 120px;">&nbsp;</td>
 <td style="text-align: center; width: 136px;">Track</td>
 <td style="text-align: center; width: 120px;">Track</td>
-<td style="text-align: center; width: 146px;">Mr Daniel Chng (OIC)<br />Mrs Marilyn Tan&nbsp; (2IC)<br />Ms Sharon Shalini<br />Ms Loh Shihan</td>
+<td style="text-align: center; width: 146px;">Mr Daniel Chng (OIC)<br />Mrs Marilyn Tan&nbsp; (2IC)<br />Mrs Cheryl Tayi<br />Ms Loh Shihan</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/modular-cca" target="">MODULAR CCA &amp; Swim Safer 2.0</a></td>
