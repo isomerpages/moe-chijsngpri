@@ -4,6 +4,8 @@ permalink: /primary/student-development/citizenship-education/
 description: ""
 third_nav_title: Citizenship Education
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ### Citizenship Education
 The National Education and Social Studies (NESS) Committee aims to develop our pupils to become active and committed citizens.  Comprising teachers from each Instructional Programme (IP) department, NESS is committed to offer an integrated curriculum to suit the needs of the pupils.
 
