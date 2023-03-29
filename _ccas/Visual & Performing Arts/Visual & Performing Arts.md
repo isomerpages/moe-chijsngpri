@@ -10,13 +10,13 @@ third_nav_title: Visual & Performing Arts
 <tbody>
 <tr>
 <th style="text-align: center;">CCA</th>
-<th style="text-align: center;">Wednesday<br />2.15 - 4 p.m.</th>
-<th style="text-align: center;">Friday<br />2.15 - 4 p.m.</th>
+<th style="text-align: center;">Wednesday<br />2 - 4 p.m.</th>
+<th style="text-align: center;">Friday<br />2 - 4 p.m.</th>
 <th style="text-align: center;">Teachers in charge</th>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/performing-arts/chinese-dance" target="">Chinese Dance</a></td>
-<td style="text-align: center;">Dev: Dance Studio (Pri)<br />Sch Team: Dance Studio (Sec)</td>
+<td style="text-align: center;">Dev: PAL Room<br />Sch Team: Dance Studio (Sec)</td>
 <td style="text-align: center;">Sch Team: Dance Studio (Sec)</td>
 <td style="text-align: center;">
 <div>Ms Catherine Boswell (OIC)</div>
@@ -29,8 +29,8 @@ third_nav_title: Visual & Performing Arts
 <td style="text-align: center;">Music Room 1</td>
 <td style="text-align: center;">Music Room 1</td>
 <td style="text-align: center;">
-<div>Ms Geraldine Koh (OIC)</div>
-<div>Mrs Sng Suelynn&nbsp;(2IC)</div>
+<div>Mrs Sng Suelynn (OIC)</div>
+<div>Mdm Denise Jung&nbsp;(2IC)</div>
 </td>
 </tr>
 <tr>
