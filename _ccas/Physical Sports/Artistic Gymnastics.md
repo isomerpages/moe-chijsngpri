@@ -4,9 +4,10 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/artistic-gymna
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong>AIMS &amp; OBJECTIVES</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
 <p>Artistic Gymnastics develops the gymnast&rsquo;s kinesthetic awareness, balance, flexibility, strength and coordination. This sport requires the gymnast to practise each routine to artistic perfection, leading to character building. In addition, it also provides opportunity for gymnasts to socialise and bond with one another.</p>
-<h4><strong>CHARACTER DEVELOPMENT</strong></h4>
+<h5><strong>CHARACTER DEVELOPMENT</strong></h5>
 <p>We hope to develop the following values through Artistic Gymnastics:-</p>
 <ul>
 <li>Self-respect</li>
@@ -16,9 +17,9 @@ third_nav_title: Physical Sports
 <li>Respect for others</li>
 </ul>
 <p>Gymnastics also lends itself as a platform to develop communication skills and team building. Besides regular training sessions, gymnasts may be invited to attend and lead in the CCA Camp and Leadership Camp. Gymnasts learn to treat fellow gymnasts with respect. All these values prepare them to be effective leaders in the future.</p>
-<h4><strong>PROGRAMME &amp; ACTIVITIES</strong></h4>
+<h5><strong>PROGRAMME &amp; ACTIVITIES</strong></h5>
 <p>Artistic Gymnastics is a discipline of gymnastics where athletes perform short routines on different apparatuses. There are mainly four events for females &ndash; vault, single bar, balance beam and floor exercise. It requires gymnasts to display exceptional strength, balance and flexibility with much artistry and grace while doing somersaults, flips and other acrobatic moves. Due to the nature of the sport, it is best learnt at a young age. Commitment through regular practices is required. Besides, maintaining a reasonable or slightly lighter than normal body mass is advantageous.</p>
-<h4><strong>Selection and Trial Training Module at Primary One</strong></h4>
+<h5><strong>Selection and Trial Training Module at Primary One</strong></h5>
 <p>How Do I Qualify for the CCA Programme?</p>
 <ol>
 <li>Pupils with potential will be identified during Physical Education lessons at Primary One while pupils of other levels have to wait for the CCA recruitment drive or selection test by invitation only.</li>
@@ -27,13 +28,13 @@ third_nav_title: Physical Sports
 <li>Via consent forms issued by the school, the pupil will officially join the CCA.</li>
 </ol>
 <p><em>Note: Only shortlisted pupils will receive consent forms issued by the school.</em></p>
-<h4><strong>BENEFITS</strong></h4>
+<h5><strong>BENEFITS</strong></h5>
 <ul>
 <li>Develops kinesthetic awareness, balance, flexibility, strength and coordination</li>
 <li>Builds posture, confidence and resilience</li>
 <li>Contributes to the expansion of an individual&rsquo;s basic sport culture</li>
 </ul>
-<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<h5><strong>TEACHERS IN-CHARGE</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -60,7 +61,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA SCHEDULE</strong></h4>
+<h5><strong>CCA SCHEDULE</strong></h5>
 <table>
 <tbody>
 <tr>
