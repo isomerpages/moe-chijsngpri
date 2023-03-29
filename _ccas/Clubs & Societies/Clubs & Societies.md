@@ -25,15 +25,7 @@ third_nav_title: Clubs & Societies
 
 </td>
 </tr>
-<tr>
-<td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/library" target="">MEDIA RESOURCE LIBRARY</a></td>
-<td style="text-align: center;">Library&nbsp;</td>
-<td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">
-<div>Mdm Li Qi Ning (CL)</div>
-<div>Mrs Laura Lim (EL)</div>
-</td>
-</tr>
+
 <tr>
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/makers-club" target="">MAKERS CLUB</a></td>
 <td style="text-align: center;">Computer Lab 1</td>
