@@ -4,7 +4,8 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong>Aims and Objectives</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>Aims and Objectives</strong></h5>
 <p>Netball is a fast-paced sport that fosters teamwork and trains agility, balance, endurance, speed and perseverance. In SNGS, we aim to develop every player to the best of her potential through active participation and good strong foundation of Netball basic skills &ndash; and have fun in the process!</p>
 <p>Specifically, we aim to</p>
 <ul>
@@ -14,11 +15,11 @@ third_nav_title: Physical Sports
 <li>develop each player to their fullest potential</li>
 <li>generate a lifelong enjoyment of sport and physical activity for our members</li>
 </ul>
-<h4><strong>Character Development</strong></h4>
+<h5><strong>Character Development</strong></h5>
 <p>Netball provides a unique opportunity for both physical and moral development and character building. Through the pursuit of continuous improvement of their physical, psychological and social skills, our girls adopt an attitude of fair play and good sportsmanship.</p>
 <p>Valuing effort, attitude and technique over outcomes, our training programme develops players who are able to think independently and have the confidence to express their opinions and try alternatives in order to learn.</p>
 <p>Our girls are also given the opportunity to hone and sharpen their leadership skills through a variety of platforms thereby nurturing players of character so as to become Girls of Grace, Women of Strength and Leaders with Heart.</p>
-<h4><strong>Programmes/Activities</strong></h4>
+<h5><strong>Programmes/Activities</strong></h5>
 <p><strong>Year 1 (P3)</strong></p>
 <ul>
 <li>The pupils train once a week&nbsp;</li>
@@ -45,7 +46,7 @@ third_nav_title: Physical Sports
 <li>They learn to play the modified and full game of Netball.&nbsp;</li>
 <li>They play in non-competitive Netball carnival or friendly games.&nbsp;</li>
 </ul>
-<h4><strong>Benefits</strong></h4>
+<h5><strong>Benefits</strong></h5>
 <ul>
 <li>General athletic development</li>
 <li>Acquisition of basic motor skills</li>
@@ -54,7 +55,7 @@ third_nav_title: Physical Sports
 <li>Mental skills training</li>
 <li>Character building in line with the school&rsquo;s vision &amp; mission</li>
 </ul>
-<h4><strong>Teachers-in-charge</strong></h4>
+<h5><strong>Teachers-in-charge</strong></h5>
 <table>
 <tbody>
 <tr>
@@ -84,7 +85,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA Schedule</strong></h4>
+<h5><strong>CCA Schedule</strong></h5>
 <table>
 <tbody>
 <tr>
