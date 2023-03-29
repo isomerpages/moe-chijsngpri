@@ -27,9 +27,8 @@ In the PE and HE curriculum, lesson design follows a spiral progression. The con
 
 Promotion of healthy living extends beyond the classroom as pupils engage in Health Education Projects to demonstrate their understanding. During the Health Awareness Week (Week of Wonder), pupils challenge each other through the participation of health quizzes, games, and sports challenges. To encourage pupils to eat more fruits and vegetables, pupils consume fruits and vegetables during snack time on Fruiti Friday.
 
-
-| ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%203.jpg) |
-| -------- | -------- | -------- |
+<img src="/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%201.jpg" style= "width: 75%" align = "center"><br><img src="/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%202.jpg" style= "width: 75%" align = "center"><br>
+<img src="/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%203.jpg" style= "width: 50%" align = "center"><br>
 
 
 **Aesthetics**
