@@ -4,15 +4,14 @@ permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/clcc-mass-co
 description: ""
 third_nav_title: Clubs & Societies
 ---
-### SAP Quality Peak Program  特选旗舰计划之深化项目
+#### **SAP Quality Peak Program 特选旗舰计划之深化项目**
 
-AIMS & OBJECTIVES
+<b>AIMS & OBJECTIVES
 
 *   To develop 21st century skills whereby pupils will be able to speak confidently, participate actively and work collaboratively.
     
 *   To provide a platform for pupils to showcase competencies as performing artistes and broadcasters.
     
-  
 CHARACTER DEVELOPMENT 
 
 *   Love: Pupils learn to be thoughtful and display sisterly love to their fellow friends during CCA activities, e.g. to always extend a helping hand to help or guide weaker friends.
