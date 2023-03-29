@@ -4,6 +4,8 @@ permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/makers-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
+
 AIMS & OBJECTIVES 
 
 Makers Club provides the opportunity for pupils who are passionate and have an interest in the joy of making. Members are encouraged to explore, design, create and learn through mistakes.   
@@ -18,8 +20,6 @@ PROGRAMME & ACTIVITIES 
 
 *   Hands-on activities and projects that include design making 
     
- 
-
 BENEFITS 
 
 *   Unleash and showcase their creativity.
