@@ -3,6 +3,8 @@ title: STEM Programme
 permalink: /learning-at-st-nicks/stem-programme/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
+
 ##### **STEM-based Applied Learning Programme (ALP)**<br>**Environmental Science and Sustainability**
   
 ##### **Approach**
