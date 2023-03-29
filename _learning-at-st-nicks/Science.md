@@ -34,10 +34,14 @@ Part of the ALP also involves implementing **Visible Thinking Routines** to ex
 
 By categorising these thinking routines, students can quickly learn to apply to different context on a daily basis.
 
-| ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%201.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/P3%20Learning%20Centres%20Picture%203.jpg) |
+  
+
+| ![P3 Learning Centres Picture 1.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%201.jpg) | ![P3 Learning Centres Picture 2.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%202.jpg) | ![P3 Learning Centres Picture 3.jpg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Pri%20Learning%20at%20St%20Nicks/Science/P3%20Learning%20Centres%20Picture%203.jpg) |
 | --- | --- | --- |
 
-<div style="text-align:center"><a><b>P3 Learning Centres </b></a></div><br>
+
+<div style="text-align:center"><b>P3 Learning Centres</b></div>
+  
 
 **WOW- Week of Wonder**  
 At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense of wonder and passion to understand the world around them. During lessons, pupils instinctively ask questions, observe, and try out solutions - all important parts of thinking scientifically. Pupils are taught to wonder, discover and explore through play and making scientific discoveries. Learning Science through discovery and play help pupils in the following ways:  
@@ -47,9 +51,12 @@ At SNGS, we celebrate Week of Wonder with a bang! Pupils are born with a sense o
 3. It supports the development of other skills and attributes.
 4. Science allows young children to develop life skills.
 
-|![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%203.jpg) |
+
+
+| ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%201.jpg)<br>![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/03%20Science/WOW%20Picture%203.jpg) |
 | --- | --- |
 
+  
 <div style="text-align:center"><a><b>A sample of the projects presented at Week of Wonder</b></a></div>
 
 **Inquiry-based Learning using SPARKLE Science Kits**  
