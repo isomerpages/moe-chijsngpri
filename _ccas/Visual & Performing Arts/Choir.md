@@ -4,81 +4,65 @@ permalink: /primary/co-curricular-activities-ccas/performing-arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-![](/images/01%20Banner%20Photos/cca.jpg)
+### Aims and objectives
 
-<h5><strong>Aims and objectives</strong></h5>
-<p>Choir aims to develop individual choral skills and maximizes the girls&rsquo; potential in choral singing. Choral routine strives to promote acute listening, cultivating a lively imagination and creativity from the girls.</p>
-<h5><strong>Character Development</strong></h5>
-<p>Choral singing builds confidence in the girls and strengthens their ability to function as a responsible and committed member of the choir. Our girls induct new members and exhibit sisterly love by buddying them in learning new music. The seniors in choir conduct warmup practices and assist other members in mastering singing techniques.</p>
-<h5><strong>Programmes/Activities</strong></h5>
-<ul>
-<li>2018 Singapore Youth Festival (Arts Presentation)</li>
-<li>Choir Concert for Parents</li>
-</ul>
-<h5><strong>Benefits</strong></h5>
-<ul>
-<li>Platform for the choir girls to showcase their talent and opportunities for them to hone their showmanship skills</li>
-<li>Expose graduating choir girls to organization of concert preparation and show gratitude towards parents who have supported them in their choral journey</li>
-</ul>
-<h5><strong>CCA Highlights</strong></h5>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 18%; text-align: center;">2018 Singapore Youth Festival&nbsp;<br />(Arts Presentation)</td>
-<td style="width: 82%;"><img src="/images/cho1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 18%; text-align: center;">Jubilate XII</td>
-<td style="width: 82%;"><img src="/images/cho2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 18%; text-align: center;">Choir Concert for Parents</td>
-<td style="width: 82%;"><img src="/images/cho3.jpg"></td>
-</tr>
-</tbody>
-</table>
-<h5><strong>Teachers-in-charge</strong></h5>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="113"><strong>Level</strong></td>
-<td style="text-align: center;" width="198"><strong>Teacher-in-charge</strong></td>
-<td style="text-align: center;" width="293"><strong>Email</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="113">P3</td>
-<td style="text-align: center;" width="198">Mrs Jane Teo</td>
-<td style="text-align: center;" width="293">cheong_fong_teng@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="113">P4</td>
-<td style="text-align: center;" width="198">Mrs Chay Jiawei</td>
-<td style="text-align: center;" width="293">guo_jiawei@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="113">P5 &ndash; P6</td>
-<td style="text-align: center;" width="198">Ms Koh Yi Min Geraldine</td>
-<td style="text-align: center;" width="293">koh_yi_min_geraldine@schools.gov.sg</td>
-</tr>
-</tbody>
-</table>
-<h5><strong>CCA Schedule</strong></h5>
-<table>
-<tbody>
-<tr>
-<td style="text-align: center;" width="184"><strong>Day</strong></td>
-<td style="text-align: center;" width="184"><strong>Time</strong></td>
-<td style="text-align: center;" width="184"><strong>Venue</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="184">Wednesday</td>
-<td style="text-align: center;" width="184">2 p.m. &ndash; 4 p.m.</td>
-<td style="text-align: center;" width="184">Music Room 1</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="184">Friday</td>
-<td style="text-align: center;" width="184">2 p.m. &ndash; 4 p.m.</td>
-<td style="text-align: center;" width="184">Music Room 1</td>
-</tr>
-</tbody>
-</table>
+Choir aims to develop individual choral skills and maximise the girls’ potential in choral singing. Choral routine strives to promote acute listening, cultivating a lively imagination and creativity from the girls
+
+  
+
+Character Development  
+
+Choral singing builds confidence in the girls and strengthens their ability to function as a responsible and committed member of the choir. Our girls induct new members and exhibit sisterly love by buddying them in learning new music. The seniors in choir conduct warmup practices and assist other members in mastering singing techniques.
+
+  
+
+Programmes/Activities  
+
+*   Score-reading and vocalisation
+    
+*   Part-singing
+    
+*   Performances in school
+    
+*   Performances at external events
+    
+
+  
+
+### Benefits
+
+*   Achieve harmony in singing
+    
+*   Cultivate sense of camaraderie
+    
+*   Work with teammates to achieve a common goal
+    
+
+  
+
+Teachers-in-charge  
+
+  
+
+<table class="ive_eobj_center" style="margin: auto; outline: 0px; padding: 0px; clear: both; border-collapse: collapse; border: none; width: 845px; height: 100px;"><colgroup style="margin: 0px; outline: 0px; padding: 0px;"><col width="222" style="margin: 0px; outline: 0px; padding: 0px;"><col width="292" style="margin: 0px; outline: 0px; padding: 0px;"></colgroup><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 0pt 5.75pt; border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word; width: 429px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Mrs Sing Suelynn</span></p><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">(Overall teacher in-charge)</span></p></td><td style="margin: 0px; outline: 0px; padding: 0pt 5.75pt; border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word; width: 415px;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: justify;"><span id="docs-internal-guid-6a7b30ac-7fff-c1cb-de9c-e17f83413aa3" style="margin: 0px; outline: 0px; padding: 0px;"><a href="mailto:tan_suelynn@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(178, 151, 109); text-decoration: none;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;"><font color="#444444" style="margin: 0px; outline: 0px; padding: 0px;">tan_suelynn@schools.gov.sg</font></span></a></span><br style="margin: 0px; outline: 0px; padding: 0px;"></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 7.6pt;"><td style="margin: 0px; outline: 0px; padding: 0pt 5.75pt; border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Mrs Jane Lee&nbsp;</span></p></td><td style="margin: 0px; outline: 0px; padding: 0pt 5.75pt; border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: justify;"><a href="mailto:chua_jie_ying_jane@schools.gov.sg" style="margin: 0px; outline: 0px; padding: 0px; color: rgb(178, 151, 109); text-decoration: none;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;"><font color="#444444" style="margin: 0px; outline: 0px; padding: 0px;">chua_jie_ying_jane@schools.gov.sg</font></span></a></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 0pt;"><td style="margin: 0px; outline: 0px; padding: 0pt 5.75pt; border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Mdm Denise Jung</span></p></td><td style="margin: 0px; outline: 0px; padding: 0pt 5.75pt; border-width: 0.5pt; border-style: solid; border-color: rgb(0, 0, 0); vertical-align: top; overflow: hidden; overflow-wrap: break-word;"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-align: justify;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;"><font color="#444444" style="margin: 0px; outline: 0px; padding: 0px;">jung_gee_ting@schools.gov.sg</font></span></p></td></tr></tbody></table>
+
+   
+
+### CCA Schedule
+
+<table border="1" cellspacing="0" cellpadding="0" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; width: 850px; height: 98px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="184" style="margin: 0px; outline: 0px; padding: 0px; width: 286px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Day</span></p></td><td width="184" style="margin: 0px; outline: 0px; padding: 0px; width: 281px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Time</span></p></td><td width="184" style="margin: 0px; outline: 0px; padding: 0px; width: 282px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Venue</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="184" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Wednesday</span></p></td><td width="184" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">2 p.m. – 4 p.m.</span></p></td><td width="184" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Music Room 1</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="184" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Friday</span></p></td><td width="184" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">2 p.m. – 4 p.m.</span></p></td><td width="184" style="margin: 0px; outline: 0px; padding: 0px;"><p align="center" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;">Music Room 1</span></p></td></tr></tbody></table>
+
+\*eCCA (if applicable) is from 3 to 4 pm  
+
+  
+
+### CCA Highlights
+
+  
+
+![Choir2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Choir/Choir2023_01.jpg)  
+
+  
+  
+
+![Choir2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Choir/Choir2023_02.jpg)
