@@ -4,23 +4,24 @@ permalink: /primary/co-curricular-activities-ccas/physical-sports/track-and-fiel
 description: ""
 third_nav_title: Physical Sports
 ---
-<h4><strong>AIMS &amp; OBJECTIVES</strong></h4>
+![](/images/01%20Banner%20Photos/cca.jpg)
+<h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
 <p>Track and field is a sport comprising various competitive athletic events based on running, jumping, and throwing. The events in track include individual events such as 100m, 200m, 300m, 600m, 60m hurdles, 80m hurdles, and team events such as 4 x 100m and 4 x 300m. Field events include high jump, long jump and shot put.</p>
 <p>Track and field as a CCA is an effective way to increase pupils&rsquo; cardiovascular fitness as well as maintain a healthy weight. It promotes competition and encourages pupils to improve their running ability while promoting teamwork. As pupils play, train and compete together, friendships are formed as members persevere and strive through training sessions together. This bond promotes camaraderie and makes the team stronger.</p>
-<h4><strong>CHARACTER DEVELOPMENT</strong></h4>
+<h5><strong>CHARACTER DEVELOPMENT</strong></h5>
 <p>We aim to nurture and develop pupils who have a keen interest in track and field events. Through the sports, we hope to develop sportsmanship&nbsp;towards teammates and competitors. In Track and Field, we provide opportunities for leadership development.</p>
-<h4><strong>PROGRAMME/ACTIVITIES</strong></h4>
+<h5><strong>PROGRAMME/ACTIVITIES</strong></h5>
 <ul>
 <li>To participate in invitational relays and National Inter-school Championships</li>
 <li>To attend CCA camps</li>
 </ul>
-<h4><strong>BENEFITS</strong></h4>
+<h5><strong>BENEFITS</strong></h5>
 <ul>
 <li>Develop the resilience of pupils</li>
 <li>Increase pupils&rsquo; cardiovascular fitness</li>
 <li>Help to maintain a healthy weight for pupils</li>
 </ul>
-<h4><strong>TEACHERS IN-CHARGE</strong></h4>
+<h5><strong>TEACHERS IN-CHARGE</strong></h5>
 <table width="619">
 <tbody>
 <tr>
@@ -49,7 +50,7 @@ third_nav_title: Physical Sports
 </tr>
 </tbody>
 </table>
-<h4><strong>CCA SCHEDULE</strong></h4>
+<h5><strong>CCA SCHEDULE</strong></h5>
 <table>
 <tbody>
 <tr>
