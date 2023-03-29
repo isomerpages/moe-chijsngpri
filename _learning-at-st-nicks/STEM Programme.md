@@ -37,7 +37,8 @@ Examples of the activities include:
 |![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20DIY%20Science%20Toys%20Try%20it.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20We%20are%20amazed%20by%20the%20Maze%20game.jpg) | 
 | --- | --- |
 
-<div style="text-align:center"><a><b>Toy-making project using recyclables</b></a></div><br>
+<div style="text-align:center"><a><b>Toy-making project using recyclables</b></a></div>
+<br>
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20P4%20Project%20on%20Black%20Soldier%20Fly.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%206%20Lets%20take%20a%20look%20at%20the%20life%20cycle%20of%20the%20Black%20Soldier%20Fly.jpg) | 
 | --- | --- |
