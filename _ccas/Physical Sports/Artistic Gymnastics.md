@@ -6,34 +6,34 @@ third_nav_title: Physical Sports
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 <h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
-<p>Artistic Gymnastics develops the gymnast&rsquo;s kinesthetic awareness, balance, flexibility, strength and coordination. This sport requires the gymnast to practise each routine to artistic perfection, leading to character building. In addition, it also provides opportunity for gymnasts to socialise and bond with one another.</p>
+<p>Artistic Gymnastics is a discipline of gymnastics which aims to condition the body while enhancing the cognitive aspects as well as the physical and coordination skills of the gymnast. In addition, the sport also develops the gymnast psychologically and socially while interacting and working with other gymnasts.</p>
+
 <h5><strong>CHARACTER DEVELOPMENT</strong></h5>
-<p>We hope to develop the following values through Artistic Gymnastics:-</p>
-<ul>
-<li>Self-respect</li>
-<li>Self-discipline</li>
-<li>Self-confidence</li>
-<li>Resilience</li>
-<li>Respect for others</li>
-</ul>
-<p>Gymnastics also lends itself as a platform to develop communication skills and team building. Besides regular training sessions, gymnasts may be invited to attend and lead in the CCA Camp and Leadership Camp. Gymnasts learn to treat fellow gymnasts with respect. All these values prepare them to be effective leaders in the future.</p>
+<p>Through gymnastics, our young athletes learn the importance of teamwork, sportsmanship, and fair play. Gymnastics is difficult to perform, and it requires a lot of dedication and time for our gymnasts to attain mastery of the fundamental skills. As our gymnasts work towards their goals, they develop patience and perseverance.</p>
+
 <h5><strong>PROGRAMME &amp; ACTIVITIES</strong></h5>
-<p>Artistic Gymnastics is a discipline of gymnastics where athletes perform short routines on different apparatuses. There are mainly four events for females &ndash; vault, single bar, balance beam and floor exercise. It requires gymnasts to display exceptional strength, balance and flexibility with much artistry and grace while doing somersaults, flips and other acrobatic moves. Due to the nature of the sport, it is best learnt at a young age. Commitment through regular practices is required. Besides, maintaining a reasonable or slightly lighter than normal body mass is advantageous.</p>
+<p><p>Artistic Gymnastics is a dynamic sport where gymnasts complete short routines on equipment specially designed for the sport. The game is known for its artistry and grace, requiring gymnasts to display exceptional strength, balance and flexibility while doing somersaults, flips and other acrobatic moves.  Gymnasts must possess psychological qualities such as the courage to attempt difficult moves and the discipline to practise a routine many times. The three events we compete in include Uneven Bars, Balance Beam and Floor Exercise. This is a competitive sport CCA. Attendance, commitment, and sustained performance are required from all CCA members.</p>
+
 <h5><strong>Selection and Trial Training Module at Primary One</strong></h5>
-<p>How Do I Qualify for the CCA Programme?</p>
-<ol>
-<li>Pupils with potential will be identified during Physical Education lessons at Primary One while pupils of other levels have to wait for the CCA recruitment drive or selection test by invitation only.</li>
-<li>Identified pupils will be invited to attend the gymnastics trial.</li>
-<li>There are 2 phases during the trial. During Phase I, pupils have the opportunity to experience both rhythmic gymnastics and artistic gymnastics. For pupils who are successful in the Phase I trial, they will move onto Phase II, which consists of sessions in either of the disciplines of gymnastics.</li>
-<li>Via consent forms issued by the school, the pupil will officially join the CCA.</li>
-</ol>
-<p><em>Note: Only shortlisted pupils will receive consent forms issued by the school.</em></p>
-<h5><strong>BENEFITS</strong></h5>
+
+How Do I Qualify for the CCA Programme?
+
+*   Pupils with potential will be identified during one of the Physical Education lessons at Primary One while pupils of other levels (P3-P4) will have to wait for the CCA recruitment drive (at P3) or transfer period in January.
+    
+*   Identified pupils will be invited to attend a two week gymnastics trial.
+    
+*   Upon confirmation, the pupil will officially join the gymnastics team as a CCA and has to stay committed to the sports.</li>
+
+<p><em>Note: Shortlisted pupils will receive consent forms issued through Parent Gateway.</em></p>
+
+<h5><strong>Competitions and Performances*</strong></h5>
 <ul>
-<li>Develops kinesthetic awareness, balance, flexibility, strength and coordination</li>
-<li>Builds posture, confidence and resilience</li>
-<li>Contributes to the expansion of an individual&rsquo;s basic sport culture</li>
+<li>National Championship</li>
+<li>National School Games Artistic Gymnastics Championships</li>
+<li>Singapore Gymnastics Open Championships</li>
+<li>SNG In-House Competition</li>	
 </ul>
+
 <h5><strong>TEACHERS IN-CHARGE</strong></h5>
 <table>
 <tbody>
