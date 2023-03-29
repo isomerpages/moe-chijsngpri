@@ -44,11 +44,11 @@ BENEFITS 
 
 | TEACHER IN-CHARGE | EMAIL |
 | --- | --- |
-| Ms Catherine Boswell (OIC) | boswell\_catherine@schools.gov.sg |
-| Mdm Lai Siew Lian | lai\_siew\_lian@schools.gov.sg |
-| Mrs Chew (Tan) Lee Ching | tan\_lee\_ching@schools.gov.sg  
+| Ms Catherine Boswell (OIC) | boswell_catherine@schools.gov.sg |
+| Mdm Lai Siew Lian | lai_siew_lian@schools.gov.sg |
+| Mrs Chew (Tan) Lee Ching | tan_lee_ching@schools.gov.sg  
  |
-| Mdm Jia Yangyang  |                                                       [jia\_yangyang@schools.gov.sg](mailto:jia_yangyang@schools.gov.sg) |
+| Mdm Jia Yangyang  |                                                       [jia_yangyang@schools.gov.sg](mailto:jia_yangyang@schools.gov.sg) |
 
 
 ### **CCA Schedule**
