@@ -4,6 +4,8 @@ permalink: /primary/co-curricular-activities-ccas/performing-arts/guzheng/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
+
 <h4><strong>Aims and objectives</strong></h4>
 <p>The Guzheng CCA aims to cultivate pupils&rsquo; interest and passion for Chinese culture and values through the learning of a traditional Chinese instrument. Through the various platforms available to perform, our pupils are well-exposed and are given opportunities to showcase their talents.</p>
 <h4><strong>Character Development</strong></h4>
