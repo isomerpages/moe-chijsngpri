@@ -62,7 +62,7 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">&nbsp;</td>
 <td style="text-align: center; width: 136px;">&nbsp;</td>
 <td style="text-align: center; width: 120px;">&nbsp;</td>
-<td style="text-align: center; width: 146px;">Mrs Toh Wan Ting (OIC)<br />Mrs Wong Pih Foung (2IC)<br />Miss Elizabeth Mohan<br />Mrs Cheryl Tay</td>
+<td style="text-align: center; width: 146px;">Mrs Toh Wan Ting (OIC)<br />Mdm Chia Yi Ling<br />
 </tr>
 </tbody>
 </table>
