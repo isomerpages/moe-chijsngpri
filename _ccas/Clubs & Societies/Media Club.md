@@ -4,6 +4,7 @@ permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/media-club/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+![](/images/01%20Banner%20Photos/cca.jpg)
 <h4><strong>AIMS &amp; OBJECTIVES</strong></h4>
 <ul>
 <li>To inculcate and develop relevant skills and competencies in using Audio-Visual equipment.</li>
