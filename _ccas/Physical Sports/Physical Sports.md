@@ -34,7 +34,7 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">&nbsp;</td>
 <td style="text-align: center; width: 136px;">Dev: ISH (Pri)<br />Sch Team: Hall&nbsp;</td>
 <td style="text-align: center; width: 120px;">Dev: ISH (Pri)<br />Sch Team: Hall</td>
-<td style="text-align: center; width: 146px;">Ms He Fang (OIC)<br />Mr Chen Guan (2IC)<br />Ms Juay Chiew Joo<br />Mr Ng Junyuan</td>
+<td style="text-align: center; width: 146px;">Ms He Fang (OIC)<br />Ms Juay Chiew Jo (2IC)<br />Mr Ng Junyuan<br />Mdm Wong Pih Foung</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/netball" target="">NETBALL</a></td>
