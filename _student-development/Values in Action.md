@@ -3,6 +3,8 @@ title: Values in Action
 permalink: /primary/student-development/values-in-action/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ### Overview:  
 
 Values In Action (VIA) at St Nicks aims to nurture the pupils to become socially responsible citizens and to help them understand that every citizen has a role in enhancing the well-being of the community and the country.  
