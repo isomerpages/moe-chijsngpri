@@ -50,11 +50,14 @@ Pupils learn Ceramics, Digital Art and Seal Carving. Passion Pursuit is a talent
 
 To extend the pupils’ experiences, Artsation Week (Week of Wonder) encourages pupils to participate in new activities and engage in performances in class and during recess.
 
+
 | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%204.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%205.jpg) |
-| --- | --- |
+| -------- | -------- |
+
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%206.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/05%20PE%20and%20Aesthetics/Picture%207.jpg) |
-| --- | --- |
+| -------- | -------- |
+
 
 **Enrichment Curriculum**  
 
