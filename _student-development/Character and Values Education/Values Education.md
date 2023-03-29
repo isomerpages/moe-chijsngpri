@@ -4,6 +4,8 @@ permalink: /primary/student-development/cce-framework/values-education/
 description: ""
 third_nav_title: Character and Values Education
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ##### **Overview**
 
 Values are at the core of one’s character. Being an IJ school, we are guided by the values of Truth, Justice, Freedom and Love and the school motto "Simple in Virtue, Steadfast in Duty" to help pupils realise the vision of being Girls of Grace, Women of Strength and Leaders with Heart. 
