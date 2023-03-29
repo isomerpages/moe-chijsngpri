@@ -86,5 +86,3 @@ their trainings and competitions. Through these interactions, our pupils will be
 </table>
 *eCCA (if applicable) is from 3 to 4 pm
 
-
-	
