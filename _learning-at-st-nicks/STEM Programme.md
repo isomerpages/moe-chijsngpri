@@ -32,5 +32,8 @@ Examples of the activities include:
 | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%203%20P3%20Project%20Work-%20Animal%20Diorama.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%203%20Yay%20Great%20teamwork.jpg) | 
 | -------- | -------- |
 
-P3 Science Project: Animal Diorama using recycables
+<div style="text-align:center"><a>P3 Science Project: Animal Diorama using recyclables</a></div><br>
+
+|![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20DIY%20Science%20Toys%20Try%20it.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/06%20STEM%20Programme/ALP%205%20We%20are%20amazed%20by%20the%20Maze%20game.jpg)<br><div style="text-align:center"><a>Toy-making project using recyclables</a></div> | 
+| -------- | -------- |
 
