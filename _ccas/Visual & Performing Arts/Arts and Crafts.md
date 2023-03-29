@@ -77,3 +77,6 @@ SNGS Visual Art Club provides opportunity for art enthusiasts to:
 
 ### **CCA Highlights**
 
+![](/images/04%20CCAs/Arts%20and%20Craft_Pic01.jpg)
+
+![](/images/04%20CCAs/Arts%20and%20Craft_Pic02.jpg)
