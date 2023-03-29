@@ -3,6 +3,8 @@ title: Environmental Education
 permalink: /student-development/environmental-education/
 description: ""
 ---
+![](/images/01%20Banner%20Photos/student-development.jpg)
+
 ### Overview:
 Environmental education @ St Nicks is integrated into multiple subjects taught at the various levels. For example, pupils learn about conservation, and the negative impact of pollution, global warming, and deforestation on the environment and living things in Science. In Social Studies, pupils learn about Singapore’s physical environment and the importance of using resources responsibly. They also apply their knowledge of the 3Rs: Reduce, Reuse and Recycle in their daily lives as “Environment Champions” through the school-initiated programme.
 
