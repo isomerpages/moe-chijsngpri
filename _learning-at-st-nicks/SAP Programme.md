@@ -34,14 +34,14 @@ Love for Chinese Culture, Love for Chinese Language 
 
 身为特选学校的学生，应对于华人的主要传统节日有所认识。因此，我们在不同的节日，进行一些活动，让学生通过参加活动的当儿，除了知道节日的来源，也能学习到传统文化所承载的正确道德观。
 
-<div style="text-align:center"><a><b>Dumpling Festival 端午节</a></div>
+<div style="text-align:center"><a><b>Dumpling Festival 端午节</b></a></div>
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png) |
 | --- | --- | --- | --- |
 | Dragon Boat Race | Making of Potpurri | Dumping Wrapping |  What's in Dumplings |
 <br>
 
-<div style="text-align:center"><a><b>Mid-Autumn Festival 中秋节</a></div>
+<div style="text-align:center"><a><b>Mid-Autumn Festival 中秋节</b></a></div>
 	
 | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png) |
 | --- | --- | --- | --- |
