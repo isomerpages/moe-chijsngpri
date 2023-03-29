@@ -4,15 +4,17 @@ permalink: /primary/co-curricular-activities-ccas/performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-### Aims and objectives  
+![](/images/01%20Banner%20Photos/cca.jpg)
 
+### **Aims and objectives** 
 In Chinese Dance, pupils learn Chinese Dance techniques to develop flexibility and stamina. This CCA also allows pupils to cultivate an understanding and appreciation for Chinese Dance through exposure to stage performances.   
 
 Through the weekly training, pupils learn the importance of teamwork. With their demanding schoolwork and rigorous training, they will also develop greater self-discipline and perseverance. 
   
 Finally, with performance opportunities, pupils will build up confidence and showmansh
 
-### Character Development
+
+### **Character Development**
 This CCA cultivates pupils’ interest for Chinese Dance and culture through the teaching of dance moves. Pupils will develop the dance skills and put their artistic skills into practice. Through this CCA, pupils learn self-management, teamwork spirit, sportsmanship, and perseverance. 
 
   
@@ -38,8 +40,7 @@ BENEFITS 
     
 *   To learn the importance of teamwork and perseverance
 
-### Teachers-in-charge
-  
+### **Teachers-in-charge**  
 
 | TEACHER IN-CHARGE | EMAIL |
 | --- | --- |
@@ -49,7 +50,8 @@ BENEFITS 
  |
 | Mdm Jia Yangyang  |                                                       [jia\_yangyang@schools.gov.sg](mailto:jia_yangyang@schools.gov.sg) |
 
-### CCA Schedule
+
+### **CCA Schedule**
 
 | eam | Day | Time | Venue |
 | --- | --- | --- | --- |
@@ -58,12 +60,7 @@ BENEFITS 
 
 \*eCCA (if applicable) is from 3 to 4 pm
 
-
-
-
-
-### CCA Highlights
-
+### **CCA Highlights**
 
 ![ChinesePic01.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Chinese%20Dance/ChinesePic01.png)
 
