@@ -79,6 +79,7 @@ They play the game through a series of healthy and happy activities, which becom
 
 \*eCCA (if applicable) is from 3 to 4 pm
 
+### **Brownies**
 ![](/images/04%20CCAs/uniform2023_01.jpg)
 ![](/images/04%20CCAs/uniform2023_02.jpg)
 ![](/images/04%20CCAs/uniform2023_03.jpg)
