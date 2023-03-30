@@ -76,5 +76,4 @@ third_nav_title: Physical Sports
 \*eCCA (if applicable) is from 3 to 4 pm
 
 ### **CCA Highlights** 
-<p style="text-align: center;">If you love running, jumping and throwing, come JOIN us!</p>
-<img src="/images/tf.jpg">
+
