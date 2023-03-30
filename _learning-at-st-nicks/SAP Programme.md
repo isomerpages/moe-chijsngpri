@@ -19,8 +19,7 @@ Love for Chinese Culture, Love for Chinese Language 
 
 ##### **SAP Flagship Broadbase Programmes 旗舰活动的普及课程**
 
-**Chinese History Programme 中华历史课程**
-
+**Chinese History Programme 中华历史课程**<br>
 学生在完成八堂课后, 对中华历史有一些了解，同时从中思考中华历史如何影响我们现在的生活。  
 
 | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%201.jpg) |![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%203.jpg) |
