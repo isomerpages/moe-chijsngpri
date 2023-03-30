@@ -44,3 +44,6 @@ third_nav_title: Physical Sports
 
 ### **CCA Highlights**
 
+![](/images/04%20CCAs/Table%20Tennis2023_Pic01.jpg)
+
+![](/images/04%20CCAs/Table%20Tennis2023_Pic02.jpg)
