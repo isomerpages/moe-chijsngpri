@@ -79,4 +79,9 @@ They play the game through a series of healthy and happy activities, which becom
 
 \*eCCA (if applicable) is from 3 to 4 pm
 
-
+![](/images/04%20CCAs/uniform2023_01.jpg)
+![](/images/04%20CCAs/uniform2023_02.jpg)
+![](/images/04%20CCAs/uniform2023_03.jpg)
+![](/images/04%20CCAs/uniform2023_04.jpg)
+![](/images/04%20CCAs/uniform2023_05.jpg)
+![](/images/04%20CCAs/uniform2023_06.jpg)
