@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/student-development.jpg)
 
-### Citizenship Education
+##### **Citizenship Education**
 The National Education and Social Studies (NESS) Committee aims to develop our pupils to become active and committed citizens.  Comprising teachers from each Instructional Programme (IP) department, NESS is committed to offer an integrated curriculum to suit the needs of the pupils.
 
-### The National Education (NE) curriculum
+##### **The National Education (NE) curriculum**
 The NE curriculum is designed to engage our pupils to develop citizenship dispositions:  
 *   A Sense of Belonging
 *   A Sense of Reality
@@ -25,8 +25,9 @@ In engaging the “Hands”, pupils are actively involved in reaching out to the
  
 “SNGS Gives Back” is a school-wide initiative to encourage our pupils to contribute to meaningful causes. In addition, partnership with external organisations such as Food Bank, IJHCC and Caritas Singapore Community Council are platforms where pupils volunteer to give back to society.
 
-### The Social Studies curriculum
-In line with the Ministry of Education (MOE) guidelines, the Primary Social Studies syllabus seeks to develop the civic competence of our pupils. At the heart of SS is the preparation of our pupils to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in and appreciate the complexities of the human experience.
+##### **The Social Studies curriculum**
+
+In line with the Ministry of Education (MOE) guidelines, the Primary Social Studies (SS) syllabus seeks to develop the civic competence of our pupils. At the heart of SS is the preparation of our pupils to be effective citizens by helping them to better understand the interconnectedness of Singapore and the world they live in and appreciate the complexities of the human experience.
 
 SS aims to develop in pupils an understanding of the interconnected world they live in and evoke pupils’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences e.g. Learning Journeys to Asian Civilisation Museum, Indian Heritage Centre, Neighbourhood walk and NEWater Visitor Centre, SS helps pupils to attain relevant knowledge and understanding about Singapore’s own identity and characteristics, develop critical and reflective thinking skills, as well as appreciate and celebrate Singapore’s strengths. 
  
