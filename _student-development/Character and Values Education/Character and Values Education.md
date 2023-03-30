@@ -40,14 +40,10 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 <img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/7%20Cyber%20Wellness%20Fair_2.jpeg" style= "width: 50%" align = "center">
 <div style="text-align:center"> <b>Navigating cyberspace responsibly: Cyber Wellness Fair</b></div><br>
 
+<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/8%20ECG%20Day%20for%20P1-6.jpeg" style= "width: 50%" align = "center">
+<div style="text-align:center"> <b>Inculcating civic values such as empathy and respect: ECG Day</b></div><br>
 
-  
 
-  
-
-![8 ECG Day for P1-6.jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/8%20ECG%20Day%20for%20P1-6.jpeg)
-
-Inculcating civic values such as empathy and respect: ECG Day 
 
   
 
