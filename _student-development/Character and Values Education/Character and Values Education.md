@@ -27,10 +27,14 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 
 ##### **Programme Highlights**
 
+
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png" style= "width: 40%" align = "center">
+<div style="text-align:center"><b>Be future-ready: P6 ECG Learning Journey to Changi Airport</b></div>
+
 | ![1 ECG LJ  Changi Airport_1.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/1%20ECG%20LJ%20%20Changi%20Airport_1.jpg) | ![2 ECG LJ  Changi Airport_2.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/2%20ECG%20LJ%20%20Changi%20Airport_2.jpg) |
 | --- | --- |
 
-Be future-ready: P6 ECG Learning Journey to Changi Airport
+
   
 | ![3 Character Comes Alive Pic 1.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/3%20Character%20Comes%20Alive%20Pic%201.jpg) | ![4 Character Comes Alive Pic 2.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/4%20Character%20Comes%20Alive%20Pic%202.jpeg) | ![5 Character Comes Alive Pic 3.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/5%20Character%20Comes%20Alive%20Pic%203.jpeg) |
 | --- | --- | --- |
