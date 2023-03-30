@@ -42,10 +42,6 @@ b) Character and Citizenship Education (CCE)
 <div style="text-align:center"><b>2023 Sexuality Education Lessons in CCE 2021<br>Primary 5</b></div><br>
 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 
 | CCE (FTGP) Theme | Lesson Title / Duration | Lesson Overview | Time Period |
 | -------- | -------- | -------- | -------- |
