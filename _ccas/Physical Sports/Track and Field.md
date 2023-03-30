@@ -75,5 +75,8 @@ third_nav_title: Physical Sports
 </table>
 \*eCCA (if applicable) is from 3 to 4 pm
 
-### **CCA Highlights** 
+### **CCA Highlights**
 
+![](/images/04%20CCAs/Track%20and%20Field2023_01.jpg)
+
+![](/images/04%20CCAs/Track%20and%20Field2023_02.jpg)
