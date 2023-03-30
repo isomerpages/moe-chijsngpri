@@ -62,8 +62,8 @@ Please Note:<br>*For <u>2023</u>, the Primary 5 lesson “Did You Know?”will a
   
 **Information for Parents**  
   
-8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.  
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.  
 
-9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[here](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/2023/2023%20Opt-Out%20Form%20for%20SEd.pdf). The completed opt-out form is to be submitted by 10 February 2023.
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/2023/2023%20Opt-Out%20Form%20for%20SEd.pdf). The completed opt-out form is to be submitted by 10 February 2023.
 
-10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at&nbsp;+65&nbsp;6454 9698&nbsp;for discussion or to seek clarification about the school’s Sexuality Education programme.
+10. Parents can contact the school at +65 6454 9698 for discussion or to seek clarification about the school’s Sexuality Education programme.
