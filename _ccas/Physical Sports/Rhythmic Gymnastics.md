@@ -82,14 +82,13 @@ Compulsory for all P2 - P4 gymnasts | 2 p.m. to 4 p.m. | School Gymnasium |
 Compulsory for  school team  | 2 p.m. to 4 p.m. | School Gymnasium |
 | Friday  
 Compulsory for P2 - P6 | 2 p.m. to 4 p.m. | School Gymnasium |
-| Friday  
-Compulsory for all P2 - P6 gymnasts  
-  
- |  2 p.m. to 4 p.m. |  School Gymnasium |
+
  
  \*\*Pupils participating in competitions will be required to attend extended training near competition dates.
 
  \*eCCA (if applicable) is from 3 to 4 pm
  
  
- ### **CCA Highlights** 
+ ### **CCA Highlights**
+ 
+ 
