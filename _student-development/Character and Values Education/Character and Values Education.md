@@ -38,9 +38,9 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 
 <img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/6%20Cyber%20Wellness%20Fair_1.jpeg" style= "width: 50%" align = "center"><br>
 <img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/7%20Cyber%20Wellness%20Fair_2.jpeg" style= "width: 50%" align = "center">
-<div style="text-align:center"> <b>Navigating cyberspace responsibly: Cyber Wellness Fair</b></div><br>
+<div style="text-align:center"> <b>Navigating cyberspace responsibly: Cyber Wellness Fair</b></div><br><br>
 
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/8%20ECG%20Day%20for%20P1-6.jpeg" style= "width: 50%" align = "center">
+<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/8%20ECG%20Day%20for%20P1-6.jpeg" style= "width: 50%" align = "center"><br>
 <div style="text-align:center"> <b>Inculcating civic values such as empathy and respect: ECG Day</b></div><br>
 
 
