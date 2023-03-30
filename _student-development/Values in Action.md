@@ -25,20 +25,14 @@ The school’s VIA is designed to start our pupils with service to their immedia
 
 **P3 VIA**: Little Champs @ NKF - Primary 3 pupils learn the importance of having healthy kidneys and how to care for them. They also express their empathy towards patients at NKF and gratitude to healthcare officers. 
 
-P4 VIA: P1 Buddy Programme and P4 St Luke's ElderCare Visit 
+**P4 VIA**: P1 Buddy Programme and P4 St Luke's ElderCare Visit 
 
 1) Primary 4 pupils lead and serve as buddies for the Primary 1 pupils during Primary 1 Orientation in Term 1. 
 
 2) Primary 4 pupils participate in befriending programme for the elderly of St Luke's ElderCare and put up an array of meaningful activities such as skit, art and craft, and games to engage them meaningfully.
 
-  
+**P5 VIA**: Food of Love Project - Primary 5 pupils champion a food drive to call for non-perishable food items for the needy families and individuals in our community.
 
-P5 VIA: Food of Love Project - Primary 5 pupils champion a food drive to call for non-perishable food items for the needy families and individuals in our community.
-
-  
-
-P6 VIA: Save Our Earth (Water Conservation) - Primary 6 pupils will be directly involved in doing their part for the environment. They learn how to monitor water usage and implement water-saving campaign at home. 
-
-  
+**P6 VIA**: Save Our Earth (Water Conservation) - Primary 6 pupils will be directly involved in doing their part for the environment. They learn how to monitor water usage and implement water-saving campaign at home. 
 
 In addition, Student Leaders and CCA members also organise VIA activities to give back to society.
