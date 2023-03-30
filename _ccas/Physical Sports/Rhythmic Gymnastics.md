@@ -91,4 +91,6 @@ Compulsory for P2 - P6 | 2 p.m. to 4 p.m. | School Gymnasium |
  
  ### **CCA Highlights**
  
+ ![](/images/04%20CCAs/DGym2023_01.jpg)
  
+ ![](/images/04%20CCAs/DGym2023_02.jpg)
