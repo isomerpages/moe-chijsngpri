@@ -2,7 +2,6 @@ collections:
   learning-at-st-nicks:
     output: true
     order:
-      - Citizenship Education.md
       - English.md
       - Mathematics.md
       - Science.md
