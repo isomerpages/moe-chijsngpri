@@ -54,5 +54,5 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 <img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/13%20Penning%20Down%20Gratitude%20Notes%20for%20the%20Heros%20in%20our%20community_1.jpg" style="width: 50%" align="center"><br>
 <img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/14%20Penning%20down%20the%20learning%20points%20on%20ECG%20Day%20in%20ALPS%20Reflection%20Journals.jpeg" style="width: 50%" align="center">
 <div style="text-align:center"><b>Commitment to the common good:  
-Gratitude notes written to external agencies</b></div><br>
+Gratitude notes written to external agencies</b></div>
   
