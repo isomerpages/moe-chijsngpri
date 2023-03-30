@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - Citizenship Education.md
       - Character and Values Education/.keep
       - Character and Values Education/Character and Values Education.md
       - Character and Values Education/Sexuality Education.md
