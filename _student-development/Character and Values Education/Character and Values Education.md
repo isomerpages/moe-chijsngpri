@@ -36,15 +36,10 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 <img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/5%20Character%20Comes%20Alive%20Pic%203.jpeg" style= "width: 50%" align = "center">
 <div style="text-align:center"><b>Developing a caring disposition through perspective-taking: Character Comes Alive</b></div><br>
 
+<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/6%20Cyber%20Wellness%20Fair_1.jpeg" style= "width: 50%" align = "center"><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/7%20Cyber%20Wellness%20Fair_2.jpeg" style= "width: 50%" align = "center">
+<div style="text-align:center"> <b>Navigating cyberspace responsibly: Cyber Wellness Fair</b></div><br>
 
-
-  
-  
-
-| ![6 Cyber Wellness Fair_1.jpg.jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/6%20Cyber%20Wellness%20Fair_1.jpg.jpeg) | ![7 Cyber Wellness Fair_2.jpg.jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/7%20Cyber%20Wellness%20Fair_2.jpg.jpeg) |
-| --- | --- |
-| Navigating cyberspace responsibly: Cyber Wellness Fair   
- |
 
   
 
