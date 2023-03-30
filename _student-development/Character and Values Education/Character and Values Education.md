@@ -7,9 +7,9 @@ third_nav_title: Character and Values Education
 ![](/images/01%20Banner%20Photos/student-development.jpg)
 
 ##### **CCE-FTGP Overview**
-The school believes that character building is the heart of our SNGS education. While academic achievements and outcomes provide pupils with the passport to progress in life, a strong and upright character with the right positive attitudes is fundamental for our pupils to flourish and live fulfilling lives. 
+The school believes that character building is the heart of our SNGS education. While academic achievements and outcomes provide pupils with the passport to progress in life, a strong and upright character with the right positive attitudes is fundamental for our pupils to flourish and live fulfilling lives.
 
-In our school, the CCE lessons provide the time for teachers to engage and build relationship with our pupils through discussions and effective classroom strategies. CCE lessons are used for :  
+In our school, the CCE lessons provide the time for teachers to engage and build relationship with our pupils through discussions and effective classroom strategies. CCE lessons are used for:
 
 *   explicit teaching of values and social and emotional skills to address the holistic developmental needs of pupils
     
@@ -27,21 +27,21 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 
 ##### **Programme Highlights**
 
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/1%20ECG%20LJ%20%20Changi%20Airport_1.jpg" style= "width: 40%" align = "center"><br>
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/2%20ECG%20LJ%20%20Changi%20Airport_2.jpg" style= "width: 50%" align = "center">
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/1%20ECG%20LJ%20%20Changi%20Airport_1.jpg" style="width: 40%" align="center"><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/2%20ECG%20LJ%20%20Changi%20Airport_2.jpg" style="width: 50%" align="center">
 <div style="text-align:center"><b>Be future-ready: P6 ECG Learning Journey to Changi Airport</b></div><br>
 
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/3%20Character%20Comes%20Alive%20Pic%201.jpg" style= "width: 50%" align = "center"><br>
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/4%20Character%20Comes%20Alive%20Pic%202.jpeg" style= "width: 50%" align = "center"><br>
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/5%20Character%20Comes%20Alive%20Pic%203.jpeg" style= "width: 50%" align = "center">
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/3%20Character%20Comes%20Alive%20Pic%201.jpg" style="width: 50%" align="center"><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/4%20Character%20Comes%20Alive%20Pic%202.jpeg" style="width: 50%" align="center"><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/5%20Character%20Comes%20Alive%20Pic%203.jpeg" style="width: 50%" align="center">
 <div style="text-align:center"><b>Developing a caring disposition through perspective-taking: Character Comes Alive</b></div><br>
 
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/6%20Cyber%20Wellness%20Fair_1.jpeg" style= "width: 50%" align = "center"><br>
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/7%20Cyber%20Wellness%20Fair_2.jpeg" style= "width: 50%" align = "center"><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/6%20Cyber%20Wellness%20Fair_1.jpeg" style="width: 50%" align="center"><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/7%20Cyber%20Wellness%20Fair_2.jpeg" style="width: 50%" align="center"><br>
 <div style="text-align:center"> <b>Navigating cyberspace responsibly: Cyber Wellness Fair</b></div><br><br>
 
-<img src="/images/03%20Student%20Development/01%20Character%20&%20Values%20Edn/8%20ECG%20Day%20for%20P1-6.jpeg" style= "width: 50%" align = "center"><br>
-<div style="text-align:center"> <b>Inculcating civic values such as empathy and respect: ECG Day</b></div><br>
+<img src="/images/03%20Student%20Development/01%20Character%20&amp;%20Values%20Edn/8%20ECG%20Day%20for%20P1-6.jpeg" style="width: 50%" align="center"><br>
+<div style="text-align:center"> <b>Inculcating civic values such as empathy and respect:&nbsp;ECG Day</b></div><br>
 
 
 
@@ -52,7 +52,7 @@ Being a Catholic school, our approach is aligned with the School Mission, Values
 | ![9 CQ Education - Lesson Time .jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/9%20CQ%20Education%20-%20Lesson%20Time%20.jpeg) | ![10 CQ Education in action - P4 NE Camp .jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/10%20CQ%20Education%20in%20action%20-%20P4%20NE%20Camp%20.jpeg) |
 | --- | --- |
 | ![11 CQ Education Lesson Time.jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/11%20CQ%20Education%20Lesson%20Time.jpeg) | ![12 CQ Lesson Time - Reading CQ Story .jpeg](https://chijstnicholasgirls.moe.edu.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/12%20CQ%20Lesson%20Time%20-%20Reading%20CQ%20Story%20.jpeg) |
-| Appreciating Diversity: Social Mixing / Cultural Intelligence (CQ)   
+| Appreciating Diversity: Social Mixing / Cultural Intelligence (CQ)&nbsp;  
  |
 
   
@@ -79,7 +79,7 @@ Developing a caring disposition through perspective-taking: Character Comes Aliv
 Navigating cyberspace responsibly: Cyber Wellness Fair
 
 ![8 ECG Day for P1-6.jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/8%20ECG%20Day%20for%20P1-6.jpeg)
-Inculcating civic values such as empathy and respect: ECG Day 
+Inculcating civic values such as empathy and respect:&nbsp;ECG Day&nbsp;
 
 | ![9 CQ Education - Lesson Time .jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/9%20CQ%20Education%20-%20Lesson%20Time%20.jpeg) | ![10 CQ Education in action - P4 NE Camp .jpeg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Student%20Development/CCE/CCE-FTGP/10%20CQ%20Education%20in%20action%20-%20P4%20NE%20Camp%20.jpeg) |
 | --- | --- |
