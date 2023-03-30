@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English.md
-      - Maths.md
+      - Mathematics.md
       - Science.md
       - Chinese.md
       - PE and Aesthetics.md
