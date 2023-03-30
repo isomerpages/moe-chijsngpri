@@ -34,6 +34,7 @@ Love for Chinese Culture, Love for Chinese Language 
 身为特选学校的学生，应对于华人的主要传统节日有所认识。因此，我们在不同的节日，进行一些活动，让学生通过参加活动的当儿，除了知道节日的来源，也能学习到传统文化所承载的正确道德。<br><br>
 
 <div style="text-align:center"><b>Dumpling Festival 端午节</b></div><br>
+
 <img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png" style= "width: 40%" align = "center">
 <div style="text-align:center"><b>Dragon Boat Race</b></div><br>
 
