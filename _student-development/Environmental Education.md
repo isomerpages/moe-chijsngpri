@@ -5,11 +5,11 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/student-development.jpg)
 
-### Overview:
+##### **Overview**
 Environmental education @ St Nicks is integrated into multiple subjects taught at the various levels. For example, pupils learn about conservation, and the negative impact of pollution, global warming, and deforestation on the environment and living things in Science. In Social Studies, pupils learn about Singapore’s physical environment and the importance of using resources responsibly. They also apply their knowledge of the 3Rs: Reduce, Reuse and Recycle in their daily lives as “Environment Champions” through the school-initiated programme.
 
 
-### Programme:
+##### **Programme**
 
 SNGS Go Green Campaign spans over a year, covering Green events such as Earth Hour, Earth Day, World Water Day, Biodiversity Week and Car-Lite via Student Learning Space (SLS). The programme adopts the 3Hs approach: Head, Heart and Hand to nurture an environment-loving citizen.  
 
