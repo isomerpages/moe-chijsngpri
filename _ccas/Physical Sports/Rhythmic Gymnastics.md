@@ -5,19 +5,55 @@ description: ""
 third_nav_title: Physical Sports
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
-<h5><strong>Aims and Objectives</strong></h5>
-<p>Rhythmic Gymnastics as a CCA aims to develop good body control, flexibility and coordination as well as enhances the cognitive aspects of the gymnast. As a gymnast grows, she will continue to develop, extend and refine agility, balance, coordination and flexibility which are required for higher level skills. Progressively, she will learn and develop the fundamental and higher level gymnastics skills needed for competition. Also, she will be required to handle hand apparatus, which ensures progressive participation in competitive gymnastics.</p>
-<p>Gymnastics is a sport of learning a skill and then practising it to perfection. With intentional and dedicated practice of the sport, the values of self-discipline and perseverance are developed.&nbsp;</p>
-<h5><strong>Programmes/Activities</strong></h5>
-<p><strong>1. Selection and trial training module at Primary One</strong></p>
-<p>How Do I Qualify for the CCA Programme?&nbsp;</p>
-<ol>
-<li>Pupils with potential from Primary One will be identified during Physical Education lessons while pupils from other levels (P2-P4) have to attend a selection test by invitation only.</li>
-<li>&nbsp;Upon selection, the pupil has to attend a 2 phase trial training, which is meant to be the next level of selection with higher level of gymnastics training components included.</li>
-<li>&nbsp;Upon confirmation, the pupil will officially join the gymnastics team as a CCA and has to be committed to the sports.</li>
-</ol>
-<p><em>Note: Short-listed pupils will receive consent forms issued by the school.</em></p>
-<h5><strong>Benefits</strong></h5>
+
+
+### **Introduction** 
+<p>Rhythmic Gymnastics is a sport that combines elements of ballet, gymnastics, dance, and apparatus manipulation. It develops graceful movement, flexibility, coordination, and dance moves combined with hand apparatus.  Hand apparatus include rope, hoop, ball, clubs, and ribbon. Rhythmic Gymnasts can be performed individually or in a group.</p>
+
+### **Aims and Objectives** 
+<p>Rhythmic Gymnastics as a CCA when started young, aims to prevent undesirable developments and habits related to the body structure, at the same time, enhances the cognitive aspects as well as the physical/coordination skills of the gymnast. As a gymnast grows, she will continue to develop, extend, and refine agility, balance, coordination and flexibility which are required for higher level skills. Progressively, she will learn and develop the fundamental and higher-level gymnastics skills needed for competition. Also, she will be required to handle hand apparatus, which ensures progressive participation in competitive gymnastics.   
+  
+Gymnastics is a sport of learning a skill and then practising it to perfection. With intentional and dedicated practice of the sport, the values of self-discipline and perseverance are developed.</p>
+
+### **Character Development** 
+
+We hope to develop the following values through gymnastics:  
+ 🙘 Respect  
+ 🙘 Self-discipline  
+ 🙘 Perseverance  
+ 🙘 Patience  
+ 🙘 Self-confidence  
+ 🙘 Time-management
+
+Gymnastics provides opportunities to develop skills in communication and team building. In a team, pupils learn to treat others with respect. These skills enable a pupil to function effectively as leaders, as well. Such leadership skills are further honed when they carry out pupil-initiated projects/events or lead during CCA Camp and Leadership Camp.
+
+### **Programmes/Activities** 
+
+How Do I Qualify for the CCA Programme?
+
+1\. Selection and trial training module at Primary One
+
+·       Pupils with potential will be identified during one of the Physical Education lessons at Primary One while pupils of other levels (P3-P4) will have to wait for the CCA recruitment drive (at P3) or transfer period in January.
+
+·       Identified pupils will be invited to attend a two week gymnastics trial.
+
+·       Upon confirmation, the pupil will officially join the gymnastics team as a CCA and has to stay committed to the sports.
+
+Note: Shortlisted pupils will receive consent forms issued through Parent Gateway. 
+
+2\. Competitions and Performances\*
+
+·       National Championships
+
+·       National Primary Schools Rhythmic Gymnastics Championships
+
+·       VIVA
+
+·       SNG In-House Competition
+
+\*Participants for competitions and performances are selected by the Teachers in-charge and coaches.
+
+### **Benefits** 
 <ul>
 <li>Reduced risks of injuries as exercises are varied and can be adapted to fit the age&nbsp;</li>
 <li>The sport does not depend upon weather, hence can be practised both indoors and outdoors (with proper mat in use)&nbsp;</li>
@@ -25,90 +61,35 @@ third_nav_title: Physical Sports
 <li>Cognitive and psycho/socio development&nbsp;</li>
 <li>Contributes to the expansion of an individual&rsquo;s basic sport culture</li>
 </ul>
-<h5><strong>Teachers-in-charge</strong></h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Level</th>
-<th style="text-align: center;">Teacher-in-charge</th>
-<th style="text-align: center;">Email</th>
-</tr>
-<tr>
-<td style="text-align: center;">P2</td>
-<td style="text-align: center;">Mdm Wang Ying</td>
-<td style="text-align: right;">wang_ying@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">P3</td>
-<td style="text-align: center;">Ms Chen Pei Jin</td>
-<td style="text-align: right;">chen_peijin@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">P4</td>
-<td style="text-align: center;">Ms Chen Pei Jin</td>
-<td style="text-align: right;">chen_peijin@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">P5</td>
-<td style="text-align: center;">Ms Patricia Koh&nbsp;</td>
-<td style="text-align: right;">koh_yi_guan_patricia@schools.gov.sg</td>
-</tr>
-<tr>
-<td style="text-align: center;">P6</td>
-<td style="text-align: center;">Mrs Sheon Wee</td>
-<td style="text-align: right;">lee_sze_yuin@schools.gov.sg</td>
-</tr>
-</tbody>
-</table>
+
+### **Teachers-in-charge** 
+
+| Teacher-in-charge | Email |
+| --- | --- |
+| Ms Patricia Koh (Overall teacher in-charge) | koh\_yi\_guan\_patricia@schools.gov.sg |
+| Mrs Rachel Tan  | lee\_kim\_lin\_rachel@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
+| Mrs Sheon Wee |  lee\_sze\_yuin@schools.gov.sg |
+| Mdm Wang Ying | wang\_ying@schools.gov.sg  
+ |
+ 
 <h5><strong>CCA Schedule</strong></h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;">Day</th>
-<th style="text-align: center;">Time</th>
-<th style="text-align: center;">Venue</th>
-</tr>
-<tr>
-<td style="text-align: center;">Monday</td>
-<td style="text-align: center;">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;">School Gymnasium</td>
-</tr>
-<tr>
-<td style="text-align: center;">Wednesday</td>
-<td style="text-align: center;">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;">School Gymnasium</td>
-</tr>
-<tr>
-<td style="text-align: center;">Friday</td>
-<td style="text-align: center;">2 p.m. to 4 p.m.</td>
-<td style="text-align: center;">School Gymnasium</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Additional Information</strong></p>
-<p>All students are required to wear black tank top and gym shorts for all training sessions. Girls with long hair will need to tie their hair nearly. Students who are selected to participate in competitions will be required to attend extended training near competition dates.</p>
-<table style="border-collapse: collapse; width: 100%;" border="1">
-<tbody>
-<tr>
-<td style="width: 30%; text-align: center;">National Primary Schools Rhythmic Gymnastics Championships 2019</td>
-<td style="width: 70%;"><img src="/images/rg1.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">National Primary Schools Rhythmic Gymnastics Championships 2019</td>
-<td style="width: 70%;"><img src="/images/rg2.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">National Primary Schools Rhythmic Gymnastics Championships 2019</td>
-<td style="width: 70%;"><img src="/images/rg3.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">Daily Training-Warm Up</td>
-<td style="width: 70%;"><img src="/images/rg4.jpg"></td>
-</tr>
-<tr>
-<td style="width: 30%; text-align: center;">Daily Training-Warm Up</td>
-<td style="width: 70%;"><img src="/images/rg5.jpg"></td>
-</tr>
-</tbody>
-</table>
-<p style="text-align: right;"><em>Last updated on: 27 Feb 2020</em></p>
+
+| Day | Time | Venue |
+| --- | --- | --- |
+| Monday  
+Compulsory for all P2 - P4 gymnasts | 2 p.m. to 4 p.m. | School Gymnasium |
+| Wednesday 
+Compulsory for  school team  | 2 p.m. to 4 p.m. | School Gymnasium |
+| Friday  
+Compulsory for P2 - P6 | 2 p.m. to 4 p.m. | School Gymnasium |
+| Friday  
+Compulsory for all P2 - P6 gymnasts  
+  
+ |  2 p.m. to 4 p.m. |  School Gymnasium |
+ 
+ \*\*Pupils participating in competitions will be required to attend extended training near competition dates.
+
+ \*eCCA (if applicable) is from 3 to 4 pm
+ 
+ 
+ ### **CCA Highlights** 
