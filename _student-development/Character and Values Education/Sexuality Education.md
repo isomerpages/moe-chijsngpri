@@ -21,21 +21,18 @@ c) To help students develop a moral compass, respect for themselves and for othe
 
 3.&nbsp;&nbsp; &nbsp;The&nbsp;**Key Messages**&nbsp;of Sexuality Education are:  
 
-(a)&nbsp;&nbsp; &nbsp;Love and respect yourself as you love and respect others;
+a)&nbsp;&nbsp; &nbsp;Love and respect yourself as you love and respect others;
 
-(b)&nbsp;&nbsp; &nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
+b)&nbsp;&nbsp; &nbsp;Build positive relationships based on love and respect (which are the foundation for strong families);
 
-(c)&nbsp;&nbsp; &nbsp;Make responsible decisions for yourself, your family and society; and
+c)&nbsp;&nbsp; &nbsp;Make responsible decisions for yourself, your family and society; and
 
-(d)&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; sex can harm and hurt you and your loved ones.
+d)&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education)&nbsp;for more information on MOE's Sexuality Education.
 
   
-
 **Overview of CHIJ St Nicholas Girls' School (Primary Section) SEXUALITY EDUCATION Programme for 2023**
-
-  
 
 4.&nbsp;&nbsp;&nbsp;Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp;You may click&nbsp;[here](https://go.gov.sg/moe-sexuality-education-scope)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
