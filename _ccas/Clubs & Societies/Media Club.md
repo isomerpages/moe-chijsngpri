@@ -42,7 +42,6 @@ third_nav_title: Clubs &amp; Societies
 ##### CCA SCHEDULE
 
 
-
 | DAY | TIME | VENUE |
 | -------- | -------- | -------- |
 | Wednesday | 2 to 4 p.m. | Primary Computer Lab 3|
