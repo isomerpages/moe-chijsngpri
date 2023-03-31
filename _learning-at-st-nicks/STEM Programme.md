@@ -25,7 +25,7 @@ Examples of the activities include:
 *   Performance Based Tasks ( “Madagascar Rescue!” and “Let there be light!” etc )
 *   Toy-making project using recyclables
 *   Waste Management and Food Sustainability ( The Study of Black Soldier Fly )
-*   P5 Coding ( Renewable Energy Sources )
+*   P5 Coding ( Sustainability )
 *   P4 My Eco-garden (Maths)
 *   P3 My Dream Room (Maths)
 
