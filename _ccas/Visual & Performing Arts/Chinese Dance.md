@@ -46,8 +46,7 @@ BENEFITS 
 | --- | --- |
 | Ms Catherine Boswell (OIC) | boswell_catherine@schools.gov.sg |
 | Mdm Lai Siew Lian | lai_siew_lian@schools.gov.sg |
-| Mrs Chew (Tan) Lee Ching | tan_lee_ching@schools.gov.sg  
- |
+| Mrs Chew (Tan) Lee Ching | tan_lee_ching@schools.gov.sg |
 | Mdm Jia Yangyang  |                                                       [jia_yangyang@schools.gov.sg](mailto:jia_yangyang@schools.gov.sg) |
 
 
