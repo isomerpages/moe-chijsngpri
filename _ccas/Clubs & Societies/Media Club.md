@@ -39,6 +39,18 @@ third_nav_title: Clubs &amp; Societies
 
 <br>
 
+##### CCA SCHEDULE
+
+
+
+| DAY | TIME | VENUE |
+| -------- | -------- | -------- |
+| Wednesday | 2 to 4 p.m. | Primary Computer Lab 3|
+*eCCA (if applicable) is from 3 to 4 pm
+
+
+<br>
+
 
 ![Media2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Media%20Club/Media2023_01.jpg)<br>
 
