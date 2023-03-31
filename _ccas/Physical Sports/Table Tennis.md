@@ -29,12 +29,17 @@ third_nav_title: Physical Sports
 </ul>
 
 ### Teachers-in-charge
-| Teacher-in-charge&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email |
-| --- | --- |
-| Mdm Toh Poh Yen&nbsp;(Overall teacher in-charge)  | toh\_poh\_yen@moe.edu.sg  |
-| Mrs Justine Hum  | &nbsp;choo\_hui\_kian@moe.edu.sg |
-| Mr Phoon Chee Weng | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;phoon\_chee\_weng@moe.edu.sg&nbsp; |
-|
+
+
+
+| Teacher-in-charge | Email |
+| -------- | -------- | 
+| Mdm Toh Poh Yen&nbsp;(Overall teacher in-charge) | toh\_poh\_yen@moe.edu.sg |
+| Mrs Justine Hum | choo\_hui\_kian@moe.edu.sg |
+| Mr Phoon Chee Weng | phoon\_chee\_weng@moe.edu.sg |
+
+
+<br>
 
 
 ### CCA Schedule
