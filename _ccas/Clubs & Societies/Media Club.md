@@ -2,7 +2,7 @@
 title: Media Club
 permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/media-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 <h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
@@ -25,33 +25,21 @@ third_nav_title: Clubs & Societies
 <p><strong>Coding</strong>:</p>
 <p>Members will be able to gain exposure in basic coding and develop computational thinking skills. Using apps like Thunkable, members will learn to code simple and useful programs via iPad / laptop.</p>
 <h5><strong>BENEFITS</strong></h5>
-<p>Members will have the opportunity to develop both hard and soft skills. They will get a chance to hone their technical skills and at the same time interact and develop bonds with members from other classes or levels.</p>
-<h5><strong>TEACHERS IN-CHARGE</strong></h5>
-<table>
-<tbody>
-<tr>
+<p>Members will have the opportunity to develop both hard and soft skills. They will get a chance to hone their technical skills and at the same time interact and develop bonds with members from other classes or levels.</p><br>
 
-| TEACHER-IN-CHARGE | EMAIL | 
+##### TEACHERS IN-CHARGE
+
+
+
+| TEACHERS-IN-CHARGE| EMAIL | 
 | -------- | -------- | 
-| Mr Muhammad Azahar Bin Rosli <BR>(Overall Teacher in-charge)    | [muhammad\_azahar\_rosli@moe.edu.sg](mailto:muhammad_azahar_rosli@moe.edu.sg) | 
-| Mdm Tan Choon Pei |  [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) | 
+| Mr Muhammad Azahar Bin Rosli<br>(Overall Teacher in-charge)| [muhammad\_azahar\_rosli@moe.edu.sg](mailto:muhammad_azahar_rosli@moe.edu.sg) |
+| Mdm Tan Choon Pei  | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
 
-<h5><strong>CCA SCHEDULE</strong></h5>
-<table>
-<tbody>
-<tr>
-<th style="text-align: center;"><strong>DAY</strong></th>
-<th style="text-align: center;"><strong>TIME</strong></th>
-<th style="text-align: center;"><strong>VENUE</strong></th>
-</tr>
-<tr>
-<td style="text-align: center;" width="205">Wednesday</td>
-<td style="text-align: center;" width="205">2.00 to 4.00 p.m.</td>
-<td style="text-align: center;" width="205">Primary Computer Lab 3</td>
-</tr>
-</tbody>
-</table>
 
-![](/images/04%20CCAs/mc1.jpg)
+<br>
 
-![](/images/04%20CCAs/mc2.jpg)
+
+![Media2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Media%20Club/Media2023_01.jpg)<br>
+
+![Media2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Media%20Club/Media2023_02.jpg)
