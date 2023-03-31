@@ -5,61 +5,65 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
-## **Brownies** 
+## **Brownies**&nbsp;
 
-### **Aims & Objectives**
-Brownies is a uniformed group CCA for young girls in the Primary Schools. It is under Girl Guides, an educational youth movement.  Girl Guides Singapore aims to develop young women’s fullest potential as responsible citizens of the world.  It is open to all girls without distinction of creed, race, nationality, or any other circumstance.
+### **Aims &amp; Objectives**
+Brownies is a uniformed group CCA for young girls in the Primary Schools. It is under Girl Guides, an educational youth movement.&nbsp; Girl Guides Singapore aims to develop young women’s fullest potential as responsible citizens of the world.&nbsp; It is open to all girls without distinction of creed, race, nationality, or any other circumstance.
 
 ### **Character Development**
 
-●    Values:
+●&nbsp;&nbsp;&nbsp;&nbsp;Values:
 
-For Brownies, Guiding is a _game_ of adventure, of observation, of general knowledge and of ideas.  The Brownie Law encourages every brownie to :
+For Brownies, Guiding is a&nbsp;_game_&nbsp;of adventure, of observation, of general knowledge and of ideas.&nbsp; The Brownie Law encourages every brownie to :
 
-●      obey and respect her elders
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obey and respect her elders
 
-●      think of others before herself
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;think of others before herself
 
-●      tell the truth
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tell the truth
 
-●      be neat and tidy
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be neat and tidy
 
-●      be thrifty
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be thrifty
 
-●      play and work cheerfully
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;play and work cheerfully
 
-●    Leadership Training:
+●&nbsp;&nbsp;&nbsp;&nbsp;Leadership Training:
 
 As Brownies, the girls are nurtured through a 5-Point Programme, a non-formal educational programme to develop leadership, decision-making as well as life skills, in these broad areas:
 
-●      Personal and Social Development
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal and Social Development
 
-●      Home
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home
 
-●      Outdoors
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Outdoors
 
-●      Community
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Community
 
-●      International
+●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;International
 
-### **Programme & Activities**
+### **Programme &amp; Activities**
 
 As a Brownie in Guiding, she will  
-●    wear a smart uniform, work, and play in a group of her own (Six / Pack),  
-●    make a promise and try to live up to it and find happiness in helping others.
+●&nbsp;&nbsp;&nbsp; wear a smart uniform, work, and play in a group of her own (Six / Pack),  
+●&nbsp;&nbsp;&nbsp; make a promise and try to live up to it and find happiness in helping others.
 
 ### **Benefits**
 
 They play the game through a series of healthy and happy activities, which becomes an educational course that teaches them how to lead a useful life.
 
 ### **Teachers In-Charge**
-| TEACHER IN-CHARGE-   |                               EMAIL |
-| --- | --- |
-| Miss Rebecca Lim (Overall teacher in-charge) | lim\_mei\_li@moe.edu.sg|
-| Miss Chantel Cheong  | cheong\_wen\_yee\_chantel@moe.edu.sg | 
-|  Mrs Angie Choong |                  chong\_sou\_foong@schools.gov.sg[](mailto:chong_sou_foong@schools.gov.sg) |
-|  Miss Elizabeth Mohan  |                           elizabeth\_rathi\_mohan@schools.gov.sg |
-|
+
+
+| TEACHER IN-CHARGE | EMAIL |
+| -------- | -------- |
+| Miss Rebecca Lim (Overall teacher in-charge) | lim\_mei\_li@moe.edu.sg |
+| Miss Chantel Cheong | cheong\_wen\_yee\_chantel@moe.edu.sg |
+| Mrs Angie Choong | chong\_sou\_foong@schools.gov.sg |
+| Miss Elizabeth Mohan | elizabeth\_rathi\_mohan@schools.gov.sg |
+
+
+<br>
 
 ### **CCA Schedule**
 <table>
@@ -71,7 +75,7 @@ They play the game through a series of healthy and happy activities, which becom
 </tr>
 <tr>
 <td style="text-align: center;">Wednesdays</td>
-<td style="text-align: center;">2 p.m. &ndash; 4 p.m.</td>
+<td style="text-align: center;">2 p.m. – 4 p.m.</td>
 <td style="text-align: center;">MPR 2</td>
 </tr>
 </tbody>
