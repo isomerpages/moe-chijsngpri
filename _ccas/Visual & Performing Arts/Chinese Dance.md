@@ -11,7 +11,7 @@ In Chinese Dance, pupils learn Chinese Dance techniques to develop flexibility a
 
 Through the weekly training, pupils learn the importance of teamwork. With their demanding schoolwork and rigorous training, they will also develop greater self-discipline and perseverance. 
   
-Finally, with performance opportunities, pupils will build up confidence and showmansh
+Finally, with performance opportunities, pupils will build up confidence and showmanship.
 
 
 ### **Character Development**
