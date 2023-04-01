@@ -41,10 +41,10 @@ third_nav_title: Clubs &amp; Societies
 
 ##### CCA SCHEDULE
 
-
 | DAY | TIME | VENUE |
 | -------- | -------- | -------- |
 | Wednesday | 2 to 4 p.m. | Primary Computer Lab 3|
+
 *eCCA (if applicable) is from 3 to 4 pm
 
 
