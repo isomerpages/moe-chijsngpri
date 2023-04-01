@@ -19,7 +19,7 @@ third_nav_title: Clubs &amp; Societies
     
 *   Truth/Justice: Teachers will set a good example not to be judgemental and embrace teachable moments to ensure a fair disciplinary order.
     
- ##### LEADERSHIP DEVELOPMENT
+##### LEADERSHIP DEVELOPMENT		
 *   Leadership development begins at P4. Pupils take up roles to lead and serve in their CCA.&nbsp;&nbsp;&nbsp;
     
 *   At P5 and P6, pupils form the CCA Exco consisting of President, Vice-President and Exco members.&nbsp;
