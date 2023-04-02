@@ -1,0 +1,11 @@
+collections:
+  learning-at-st-nicks:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Chinese.md
+      - PE and Aesthetics.md
+      - STEM Programme.md
+      - SAP Programme.md

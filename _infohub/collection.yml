@@ -1,0 +1,12 @@
+collections:
+  infohub:
+    output: true
+    order:
+      - Admissions.md
+      - Books and Uniform.md
+      - Bus Services.md
+      - Forms.md
+      - Pupil Services.md
+      - School Calendar.md
+      - School Fees.md
+      - SN Home Based Learning Infosite.md
