@@ -34,7 +34,6 @@ Through the process of tinkering and overcoming mistakes, pupils will learn to t
 
 \*eCCA (if applicable) is from 3 to 4 pm&nbsp;
 
-![Markerclub2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Marker%20Club/Markerclub2023_02.jpg)&nbsp;  
-    
+![](/images/maker%20club%202023_01.jpeg)
  
-![Markerclub2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Marker%20Club/Markerclub2023_01.jpg)
+![](/images/maker%20club%202023_02.jpeg)
