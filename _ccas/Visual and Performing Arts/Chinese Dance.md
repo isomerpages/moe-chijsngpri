@@ -61,6 +61,3 @@ BENEFITS 
 
 ### **CCA Highlights**
 
-![ChinesePic01.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Chinese%20Dance/ChinesePic01.png)
-
-![ChinesePic02.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Chinese%20Dance/ChinesePic02.png)
