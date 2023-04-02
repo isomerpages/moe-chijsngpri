@@ -51,6 +51,6 @@ third_nav_title: Clubs &amp; Societies
 <br>
 
 
-![Media2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Media%20Club/Media2023_01.jpg)<br>
+![](/images/media%20club%202023_01.jpeg)<br>
 
-![Media2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/Media%20Club/Media2023_02.jpg)
+![](/images/media%20club%202023_02.jpeg)
