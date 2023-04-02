@@ -73,8 +73,5 @@ How Do I Qualify for the CCA Programme?
 <h4><strong>CCA Highlights</strong></h4>
 <br>
 
-![Agym2023_01.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Sports%20&amp;%20Games/Artistic%20gym/Agym2023_01.png)
-
-<br>
-
-![Agym2023_02.png](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Sports%20&amp;%20Games/Artistic%20gym/Agym2023_02.png)
+![](/images/04%20CCAs/Agym2023_01.png)<br>
+![](/images/04%20CCAs/Agym2023_02.png)
