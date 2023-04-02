@@ -2,7 +2,6 @@ collections:
   ccas:
     output: true
     order:
-      - Visual and Performing Arts/.keep
       - Clubs & Societies/.keep
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Chinese Culture and Language Club.md
@@ -18,6 +17,7 @@ collections:
       - Physical Sports/Table Tennis.md
       - Physical Sports/Track and Field.md
       - Uniformed Groups.md
+      - Visual and Performing Arts/.keep
       - Visual and Performing Arts 2/.keep
       - Visual and Performing Arts 2/Visual and Performing Arts.md
       - Visual and Performing Arts 2/Arts and Crafts.md
