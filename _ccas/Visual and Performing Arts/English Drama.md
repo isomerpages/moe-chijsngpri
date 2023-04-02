@@ -52,10 +52,3 @@ An English Drama member is someone who displays sisterly love and works collabor
 
 ### **CCA Highlights**
 
-  
-![English Drama2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/English%20Drama/English%20Drama2023_01.jpg)  
-  
-  
-  
-
-![English Drama2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/English%20Drama/English%20Drama2023_02.jpg)
