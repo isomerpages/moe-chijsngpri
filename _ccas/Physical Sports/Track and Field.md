@@ -6,9 +6,9 @@ third_nav_title: Physical Sports
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
-### **Aims & Objectives**
+### **Aims &amp; Objectives**
 <p>Track and field is a sport comprising various competitive athletic events based on running, jumping, and throwing. The events in track include individual events such as 100m, 200m, 300m, 600m, 60m hurdles, 80m hurdles, and team events such as 4 x 100m and 4 x 300m. Field events include high jump, long jump and shot put.</p>
-<p>Track and field as a CCA is an effective way to increase pupils&rsquo; cardiovascular fitness as well as maintain a healthy weight. It promotes competition and encourages pupils to improve their running ability while promoting teamwork. As pupils play, train and compete together, friendships are formed as members persevere and strive through training sessions together. This bond promotes camaraderie and makes the team stronger.</p>
+<p>Track and field as a CCA is an effective way to increase pupils’ cardiovascular fitness as well as maintain a healthy weight. It promotes competition and encourages pupils to improve their running ability while promoting teamwork. As pupils play, train and compete together, friendships are formed as members persevere and strive through training sessions together. This bond promotes camaraderie and makes the team stronger.</p>
 
 ### **Character Development**
 <p>We aim to nurture and develop pupils who have a keen interest in track and field events. Through the sports, we hope to develop sportsmanship&nbsp;towards teammates and competitors. In Track and Field, we provide opportunities for leadership development.</p>
@@ -22,11 +22,11 @@ third_nav_title: Physical Sports
 ### **Benefits**
 <ul>
 <li>Develop the resilience of pupils</li>
-<li>Increase pupils&rsquo; cardiovascular fitness</li>
+<li>Increase pupils’ cardiovascular fitness</li>
 <li>Help to maintain a healthy weight for pupils</li>
 </ul>
 
-### **Teachers In-Charge** 
+### **Teachers In-Charge**&nbsp;
 <table width="619">
 <tbody>
 <tr>
@@ -53,7 +53,7 @@ third_nav_title: Physical Sports
 </tbody>
 </table>
 
-### **CCA Schedule** 
+### **CCA Schedule**&nbsp;
 <table>
 <tbody>
 <tr>
@@ -77,6 +77,5 @@ third_nav_title: Physical Sports
 
 ### **CCA Highlights**
 
-![](/images/04%20CCAs/Track%20and%20Field2023_01.jpg)
-
+![](/images/04%20CCAs/Track%20and%20Field2023_01.jpg)<br>
 ![](/images/04%20CCAs/Track%20and%20Field2023_02.jpg)
