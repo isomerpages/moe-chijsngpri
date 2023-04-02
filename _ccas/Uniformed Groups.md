@@ -5,9 +5,10 @@ description: ""
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
-## **Brownies**&nbsp;
+### **Brownies**
 
-### **Aims &amp; Objectives**
+### **Aims and  Objectives**
+
 Brownies is a uniformed group CCA for young girls in the Primary Schools. It is under Girl Guides, an educational youth movement.&nbsp; Girl Guides Singapore aims to develop young women’s fullest potential as responsible citizens of the world.&nbsp; It is open to all girls without distinction of creed, race, nationality, or any other circumstance.
 
 ### **Character Development**
@@ -57,15 +58,15 @@ They play the game through a series of healthy and happy activities, which becom
 
 | TEACHER IN-CHARGE | EMAIL |
 | -------- | -------- |
-| Miss Rebecca Lim (Overall teacher in-charge) | lim\_mei\_li@moe.edu.sg |
-| Miss Chantel Cheong | cheong\_wen\_yee\_chantel@moe.edu.sg |
-| Mrs Angie Choong | chong\_sou\_foong@schools.gov.sg |
-| Miss Elizabeth Mohan | elizabeth\_rathi\_mohan@schools.gov.sg |
+| Miss Rebecca Lim (Overall teacher in-charge) | lim_mei_li@moe.edu.sg |
+| Miss Chantel Cheong | cheong_wen_yee_chantel@moe.edu.sg |
+| Mrs Angie Choong | chong_sou_foong@schools.gov.sg |
+| Miss Elizabeth Mohan | elizabeth_rathi_mohan@schools.gov.sg |
 
 
 <br>
 
-### **CCA Schedule**
+#### **CCA Schedule**
 <table>
 <tbody>
 <tr>
@@ -83,10 +84,10 @@ They play the game through a series of healthy and happy activities, which becom
 
 \*eCCA (if applicable) is from 3 to 4 pm
 
-### **Brownies**
-![](/images/04%20CCAs/uniform2023_01.jpg)
-![](/images/04%20CCAs/uniform2023_02.jpg)
-![](/images/04%20CCAs/uniform2023_03.jpg)
-![](/images/04%20CCAs/uniform2023_04.jpg)
-![](/images/04%20CCAs/uniform2023_05.jpg)
-![](/images/04%20CCAs/uniform2023_06.jpg)
+#### **Brownies**
+![](/images/04%20CCAs/uniform2023_01.jpg)<br>
+![](/images/04%20CCAs/uniform2023_02.jpg)<br>
+![](/images/04%20CCAs/uniform2023_03.jpg)<br>
+![](/images/04%20CCAs/uniform2023_04.jpg)<br>
+![](/images/04%20CCAs/uniform2023_05.jpg)<br>
+![](/images/04%20CCAs/uniform2023_06.jpg)<br>
