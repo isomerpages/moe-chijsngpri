@@ -85,9 +85,10 @@ They play the game through a series of healthy and happy activities, which becom
 \*eCCA (if applicable) is from 3 to 4 pm
 
 #### **Brownies**
-![](/images/04%20CCAs/uniform2023_01.jpg)<br>
-![](/images/04%20CCAs/uniform2023_02.jpg)<br>
-![](/images/04%20CCAs/uniform2023_03.jpg)<br>
-![](/images/04%20CCAs/uniform2023_04.jpg)<br>
-![](/images/04%20CCAs/uniform2023_05.jpg)<br>
-![](/images/04%20CCAs/uniform2023_06.jpg)<br>
+
+<img src="/images/04%20CCAs/uniform2023_01.jpg" style="width: 75%" align="center"><br>
+<img src="/images/04%20CCAs/uniform2023_02.jpg" style="width: 75%" align="center"><br>
+<img src="/images/04%20CCAs/uniform2023_03.jpg" style="width: 75%" align="center"><br>
+<img src="/images/04%20CCAs/uniform2023_04.jpg" style="width: 75%" align="center"><br>
+<img src="/images/04%20CCAs/uniform2023_05.jpg" style="width: 75%" align="center"><br>
+<img src="/images/04%20CCAs/uniform2023_06.jpg" style="width: 75%" align="center">
