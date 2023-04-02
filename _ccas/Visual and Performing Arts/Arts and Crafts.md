@@ -71,6 +71,6 @@ SNGS Visual Art Club provides opportunity for art enthusiasts to:
 
 
 ### CCA Highlights
-![Arts and Craft_Pic01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Arts%20and%20Craft/Arts%20and%20Craft_Pic01.jpg)
 
-![Arts and Craft_Pic02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Performing%20Arts/Arts%20and%20Craft/Arts%20and%20Craft_Pic02.jpg)
+![](/images/04%20CCAs/Arts%20and%20Craft_Pic01.jpg)<br>
+![](/images/04%20CCAs/Arts%20and%20Craft_Pic02.jpg)
