@@ -60,7 +60,6 @@ Netball provides a unique opportunity for both physical and moral development an
 <br>
 
 ### **CCA Highlights**
-![Netball2023_Pic01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Sports%20&amp;%20Games/Netball/Netball2023_Pic01.jpg)
-<br>
 
-![Netball2023_Pic02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Sports%20&amp;%20Games/Netball/Netball2023_Pic02.jpg)
+![](/images/04%20CCAs/netball%2001.jpeg)<br>
+![](/images/04%20CCAs/netball%2002.jpeg)
