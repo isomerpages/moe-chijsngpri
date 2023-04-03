@@ -6,3 +6,5 @@ description: ""
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
 
 [Click here to view the calendar](https://online.fliphtml5.com/nmauk/rowq/)
+
+[Click here to download the school calendar](/files/InfoHub/2023%20school%20calendar.pdf)
