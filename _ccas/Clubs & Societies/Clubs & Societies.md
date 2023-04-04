@@ -15,7 +15,7 @@ third_nav_title: Clubs &amp; Societies
 <th style="text-align: center;">Teachers in charge</th>
 </tr>
 <tr>
-<td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/clcc-performing-arts">CHINESE CULTURE AND LANGUAGE CLUB</a></td>
+<td style="text-align: center;"><a href="https://staging.d6ffahuouz5lv.amplifyapp.com/primary/co-curricular-activities-ccas/clubs-n-societies/clcc-mass-communication/">CHINESE CULTURE AND LANGUAGE CLUB</a></td>
 <td style="text-align: center;">&nbsp;</td>
 <td style="text-align: center;">Library (Level 4)<br>PAL Room (Level 5)</td>
 <td style="text-align: center;">
