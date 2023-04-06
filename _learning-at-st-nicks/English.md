@@ -7,7 +7,7 @@ description: ""
 
 ##### **Vision**
 
-The EL Department strive to nurture girls who are empathetic communicators, discerning readers and creative inquirers.
+The EL Department strives to nurture girls who are empathetic communicators, discerning readers and creative inquirers.
 
 ##### **Approach**
 The department adopts the whole-language approach in English learning. Our girls develop their love for English in an environment that is rich in quality children’s literature. The girls also have many opportunities to think about what they have read or viewed, and they are encouraged to express themselves confidently.
