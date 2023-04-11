@@ -58,7 +58,7 @@ SNGS Visual Art Club provides opportunity for art enthusiasts to:
 | Teacher-in-charge | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email |
 | --- | --- |
 | Miss Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee\_hui\_yi@schools.gov.sg |
-| Miss Siti Nurzaifah Bte Zaini | siti\_nurzaifah@schools.gov.sg |
+| Ms Siti Nurzaifah Bte Zaini | siti\_nurzaifah@schools.gov.sg |
 
 
 ### CCA Schedule
