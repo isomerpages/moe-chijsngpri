@@ -46,11 +46,11 @@ their trainings and competitions. Through these interactions, our pupils will be
 <td width="256" style="text-align: center;"><strong>Email</strong></td>
 </tr>
 <tr>
-	<td width="187" style="text-align: center;">Ms He Fang (Overall teacher in-charge</td>
+	<td width="187" style="text-align: center;">Ms He Fang <br>(Overall teacher-in-charge)</td>
 <td width="256" style="text-align: center;"><a href="mailto:he_fang@schools.gov.sg">he_fang@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td width="187" style="text-align: center;">Ms Juay Chiew Joo</td>
+<td width="187" style="text-align: center;">Ms Juay Chiew Joo (2IC)</td>
 <td width="256" style="text-align: center;"><a href="mailto:juay_chiew_joo@schools.gov.sg">juay_chiew_joo@schools.gov.sg</a></td>
 </tr>
 <tr>
