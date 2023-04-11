@@ -1,5 +1,5 @@
 ---
-title: Arts and Crafts
+title: Art and Craft
 permalink: /ccas/visual-and-performing-arts/permalink/
 description: ""
 third_nav_title: Visual and Performing Arts
@@ -15,7 +15,7 @@ Our young artists will learn the art of observation which is fundamental for any
 The Art and Craft Club provides a platform for Art enthusiasts to take part in activities that extend beyond the formal Art curriculum and aims to instil interest through exploring, expressing and appreciating the different Art forms. Last but not least, Art and Craft Club aims to create a fun, enjoyable, safe and friendly environment for all members.
 
 ### Character Development
-The Arts and Craft Club plans to develop our young artists in:
+The Art and Craft Club plans to develop our young artists in:
 
 ●&nbsp;&nbsp;&nbsp;personal responsibility
 
@@ -58,7 +58,9 @@ SNGS Visual Art Club provides opportunity for art enthusiasts to:
 | Teacher-in-charge | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email |
 | --- | --- |
 | Miss Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee\_hui\_yi@schools.gov.sg |
-| Miss Siti Nurzaifah Bte Zaini | siti\_nurzaifah@schools.gov.sg |
+| Ms Siti Nurzaifah Bte Zaini | siti\_nurzaifah@schools.gov.sg |
+| Mrs Jane Lee | Chua_jie_ying_jand@schools.gov.sg |
+
 
 
 ### CCA Schedule

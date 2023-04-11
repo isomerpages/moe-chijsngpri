@@ -29,7 +29,7 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">Music Room 1</td>
 <td style="text-align: center;">Music Room 1</td>
 <td style="text-align: center;">
-<div>Mrs Sng Suelynn (OIC)</div>
+<div>Mrs Suelynn Sing (OIC)</div>
 <div>Mdm Denise Jung&nbsp;(2IC)</div>
 </td>
 </tr>
@@ -48,8 +48,8 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">MPR 1&nbsp;</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">
-<div>Mdm Suelsa Zainuddin (OIC)</div>
-<div>Mrs Balinda Salleh (2IC)</div>
+<div>Mdm Suelsa Zainudin (OIC)</div>
+<div>Mrs Balinda Sudin (2IC)</div>
 </td>
 </tr>
 <tr>
@@ -59,7 +59,7 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">
 <div>Ms Lee Hui Yi (OIC)</div>
 <div>Ms Jane Lee</div>
-<div>Ms Siti Nurfaizah</div>
+<div>Ms Siti Nurzaifah</div>
 </td>
 </tr>
 </tbody>

@@ -45,8 +45,9 @@ third_nav_title: Clubs &amp; Societies
 \*eCCA (if applicable) is from 3 to 4 pm&nbsp;
 
   
-![Chinese Culture2023_01.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/CLCC/Chinese%20Culture2023_01.jpg)&nbsp;
+![](/images/04%20CCAs/chinese%20culture2023_01.jpg)	
+	
+	
+	
 
-  
-
-![Chinese Culture2023_02.jpg](https://chijstnicholasgirls-moe-edu-sg-admin.cwp.sg/qql/slot/u569/Primary/CCAs/Clubs%20&amp;%20Societies/CLCC/Chinese%20Culture2023_02.jpg)
+![](/images/04%20CCAs/chinese%20culture2023_02.jpg)
