@@ -35,20 +35,20 @@ third_nav_title: Physical Sports
 </tr>
 <tr>
 <td style="text-align: center;" width="309">Mr Daniel Chng</td>
-<td style="text-align: center;" width="309">chng_chye_thiam@moe.edu.sg</td>
+<td style="text-align: center;" width="309">chng_chye_thiam@schools.gov.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="309">Mrs Marilyn Tan</td>
-<td style="text-align: center;" width="309">teo_hong_ling_marilyn@moe.edu.sg</td>
+<td style="text-align: center;" width="309">teo_hong_ling_marilyn@schools.gov.sg</td>
 </tr>
 
 <tr>
 <td style="text-align: center;" width="309">Ms Loh Shihan</td>
-<td style="text-align: center;" width="309">loh_shihan@moe.edu.sg</td>
+<td style="text-align: center;" width="309">loh_shihan@schools.gov.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="309">Mrs Cheryl Tay</td>
-<td style="text-align: center;" width="309">kang_liwen_cheryl_ann@moe.edu.sg</td>
+<td style="text-align: center;" width="309">kang_liwen_cheryl_ann@schools.gov.sg</td>
 </tr>
 </tbody>
 </table>
