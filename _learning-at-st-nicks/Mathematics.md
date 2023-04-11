@@ -3,7 +3,6 @@ title: Mathematics
 permalink: /primary/learning-at-st-nicks/maths/
 description: ""
 ---
-
 ![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
 
 ##### **Vision**
@@ -18,7 +17,7 @@ Develop every St Nick girl to be a self-directed learner, to be able to think cr
 
 **RICE (Reasoning, Inquiry, Communication and Engagement)**  
 
-To develop our pupils to be skillful communicators and learners with effective problem solving skills, the department has different inquiry-based activities for P1 – P6 pupils. Through these activities, our pupils learn to explore, be more self-directed in their learning as well as to work collaboratively with others. This also gives our pupils the opportunity to develop their reasoning and communication skills.
+To develop our pupils to be skilful communicators and learners with effective problem solving skills, the department has different inquiry-based activities for P1 – P6 pupils. Through these activities, our pupils learn to explore, be more self-directed in their learning as well as to work collaboratively with others. This also gives our pupils the opportunity to develop their reasoning and communication skills.
 
 **Applied Learning Programme (ALP)**  
 
