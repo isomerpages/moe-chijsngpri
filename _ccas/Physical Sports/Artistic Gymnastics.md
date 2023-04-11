@@ -43,7 +43,7 @@ How Do I Qualify for the CCA Programme?
 </tr>
 <tr>
 <td style="text-align: center;" width="223">Ms Lee Hwee Ing</td>
-<td style="text-align: right;" width="269">lee_hwee_ing@moe.edu.sg</td>
+<td style="text-align: right;" width="269">lee_hwee_ing@schools.gov.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="223">Ms Brenda Wong</td>
