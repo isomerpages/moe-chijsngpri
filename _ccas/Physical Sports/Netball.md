@@ -48,7 +48,7 @@ Netball provides a unique opportunity for both physical and moral development an
 | Mrs Christina Loh (Overall teacher in-charge) | chee_mei_lan_christina@moe.edu.sg |
 | Mdm Noelle Lee | llee_meiting_noelle_francesca@moe.edu.sg |
 | Mrs Ruth Quek | tan_wee_siew_ruth@schools.gov.sg |
-| Miss Eileen Low | |
+| Miss Eileen Low | low_wei_ling_eileen@schools.gov.sg |
 
 <br>
 
