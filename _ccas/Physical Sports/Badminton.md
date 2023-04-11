@@ -74,7 +74,7 @@ their trainings and competitions. Through these interactions, our pupils will be
 </tr>
 <tr>
 <td width="205" style="text-align: center;">Wednesday</td>
-<td width="205" style="text-align: center;">2 pm – pm</td>
+<td width="205" style="text-align: center;">2 pm – 4 pm</td>
 <td width="205" style="text-align: center;">School Hall / Primary ISH</td>
 </tr>
 <tr>
