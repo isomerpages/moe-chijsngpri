@@ -9,15 +9,15 @@ description: ""
 
 培育善用华文华语、乐学中华文化的学生。
 
-##### **Approach 教学方向** 
+##### **Approach 教学方向**&nbsp;
 
 我们致力于提高学生对华文、华语的掌握、中华文化的了解及传统价值观的认识。通过各种课程，我们让学生使用华文、华语进行创作及表演，增强她们的沟通能力。我们也安排多姿多彩的活动，鼓励学生寻根溯源，认识华族传统节日、游戏、籍贯、文学与艺术。此外，我们还利用经典、经句，向学生灌输优良的传统价值观与美德，培育她们成为品德良善的孩子。
 
 ##### **SAP Flagship Programmes 特选项目旗舰活动**  
-Love for Chinese Culture, Love for Chinese Language   
+Love for Chinese Culture, Love for Chinese Language&nbsp;  
 《化语同行. 乐在圣尼各拉》
 
-##### **SAP Flagship Broadbase Programmes 旗舰活动的普及课程**
+##### **SAP Flagship Broad-base Programmes 旗舰活动的普及课程**
 
 **Chinese History Programme 中华历史课程**<br>
 学生在完成八堂课后, 对中华历史有一些了解，同时从中思考中华历史如何影响我们现在的生活。  
@@ -26,7 +26,7 @@ Love for Chinese Culture, Love for Chinese Language 
 | --- | --- |
 | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%202.jpg) | ![](/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%204.png) |
 
-**Cultural Arts & Language Arts Programmes 文化艺术和语言艺术课程**<br>
+**Cultural Arts &amp; Language Arts Programmes 文化艺术和语言艺术课程**<br>
 文化艺术和语言艺术课程除了让学生更能自信地用华语、欣赏和鉴赏中华文化外，也能让学生掌握21世纪的技能。
 
 **Celebrating Chinese Festivals 普庆华文传统节日**
@@ -35,30 +35,30 @@ Love for Chinese Culture, Love for Chinese Language 
 
 <div style="text-align:center"><b>Dumpling Festival 端午节</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png" style= "width: 40%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%205.png" style="width: 40%" align="center">
 <div style="text-align:center"><b>Dragon Boat Race</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png" style= "width: 40%" align = "center">
-<div style="text-align:center"><b>Making of Potpurri</b></div><br>
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%206.png" style="width: 40%" align="center">
+<div style="text-align:center"><b>Making of Potpourri</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png" style= "width: 40%" align = "center">
-<div style="text-align:center"><b>Dumping Wrapping</b></div><br>
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%207.png" style="width: 40%" align="center">
+<div style="text-align:center"><b>Dumpling Wrapping</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png" style= "width: 40%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%208.png" style="width: 40%" align="center">
 <div style="text-align:center"><b>What's in Dumplings</b></div><br><br>
 
 <div style="text-align:center"><b>Mid-Autumn Festival 中秋节</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png" style= "width: 40%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%209.png" style="width: 40%" align="center">
 <div style="text-align:center"><b>Lantern Designing</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png" style= "width: 40%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2010.png" style="width: 40%" align="center">
 <div style="text-align:center"><b>Pomelo Peeling Competition</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png" style= "width: 40%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2011.png" style="width: 40%" align="center">
 <div style="text-align:center"><b>Making Mooncake</b></div><br>
 
-<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png" style= "width: 40%" align = "center">
+<img src="/images/02%20Learning%20@%20St%20Nicks/07%20SAP%20Programme/Picture%2012.png" style="width: 40%" align="center">
 <div style="text-align:center"><b>Solving Riddles</b></div><br><br>
 
 **Reading Programmes**
@@ -67,7 +67,7 @@ Love for Chinese Culture, Love for Chinese Language 
 
 "悦读"周的一些活动:
 
-1.  亲子讲故事比赛 Parent-child story telling competition for P1 & P2 levels (via video submission)
+1.  亲子讲故事比赛 Parent-child story telling competition for P1 &amp; P2 levels (via video submission)
 2.  创意讲故事比赛 Creative story telling competition for P3-P5 levels (via video submission)
 3.  阅读大使工作坊 Chinese Language Story books Ambassador Workshop
 
@@ -75,7 +75,7 @@ Love for Chinese Culture, Love for Chinese Language 
 
 ##### **SAP Flagship Quality Peak Programmes 旗舰活动的深化课程**
 
-**Chinese Cultural & Language Club (CCLC) 华文才艺俱乐部**
+**Chinese Cultural &amp; Language Club (CCLC) 华文才艺俱乐部**
 
 这是提供给对华文、华语有兴趣，并热爱演艺与广播的学生的平台。成员在每个星期五下午两点至四点参加这个辅助课程。
 
