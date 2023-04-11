@@ -274,4 +274,4 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p><strong><a href="http://www.moe.gov.sg/education/primary/">Link to MOE Website on Primary Education</a></strong></p>
+<p><strong></strong></p>
