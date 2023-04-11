@@ -34,7 +34,7 @@ An English Drama member is someone who displays sisterly love and works collabor
 
 | Teacher-in-charge | Email |
 | --- | --- |
-| Mdm Balinda Salleh&nbsp;(Overall teacher in-charge) | balinda_salleh@schools.gov.sg |
+| Mrs Balinda Sudin&nbsp;(Overall teacher in-charge) | balinda_salleh@schools.gov.sg |
 | Mdm Suelsa Zainudin | suelsa_zainudin@schools.gov.sg  
  |
 
