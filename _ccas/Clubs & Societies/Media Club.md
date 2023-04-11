@@ -13,7 +13,7 @@ third_nav_title: Clubs &amp; Societies
 <h5><strong>CHARACTER DEVELOPMENT</strong></h5>
 <ul>
 <li><strong>Values</strong>: Members will have the opportunity to exhibit sisterly love for younger members as they mentor and coach them through the routines in backstage management. In addition, members will learn to be resilient in the course of their duties and service to the school. Members will develop their sense of responsibilities as they take on various roles in the club.</li>
-<li><strong>Leadership training: Members will be given opportunities to try out different roles in Media Club. Based on interest and aptitud</strong>e, members will have the chance to develop leadership skills. Potential leaders will then be identified to form the EXCO group. Senior members will be engaged to guide newer or younger members throughout their journey in Media Club.</li>
+<li><strong>Leadership training: Members will be given opportunities to try out different roles in Media Club. Based on interest and aptitude.</strong> members will have the chance to develop leadership skills. Potential leaders will then be identified to form the EXCO group. Senior members will be engaged to guide newer or younger members throughout their journey in Media Club.</li>
 </ul>
 <h5><strong>PROGRAMME/ACTIVITIES</strong></h5>
 <p><strong>Backstage Management</strong>:</p>
