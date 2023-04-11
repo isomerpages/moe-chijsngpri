@@ -15,7 +15,7 @@ Our young artists will learn the art of observation which is fundamental for any
 The Art and Craft Club provides a platform for Art enthusiasts to take part in activities that extend beyond the formal Art curriculum and aims to instil interest through exploring, expressing and appreciating the different Art forms. Last but not least, Art and Craft Club aims to create a fun, enjoyable, safe and friendly environment for all members.
 
 ### Character Development
-The Arts and Craft Club plans to develop our young artists in:
+The Art and Craft Club plans to develop our young artists in:
 
 ●&nbsp;&nbsp;&nbsp;personal responsibility
 
