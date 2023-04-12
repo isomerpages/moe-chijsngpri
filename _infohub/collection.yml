@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Admissions.md
-      - Books and Uniform.md
+      - Uniform and Books.md
       - Bus Services.md
       - Forms.md
       - Pupil Services.md
