@@ -35,7 +35,7 @@ description: ""
 <p><strong>Sale Location: School Canteen </strong></p>
 <p><strong>Updated: 12 Dec&nbsp;</strong><strong>2022</strong></p>
 <p><strong><u>Retail shop at Ubi  (Tel 6747 8037)</u></strong>
-</p><p><strong>Mon-Sat: 10:00am-6:00pm</strong><br><strong>Lunch Break : 1pm to 2pm</strong><br><strong>Sunday, Public Holiday &amp; Eve of Public Holiday :Closed </strong></p><br><strong>Online Shop:</strong><br><a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
+</p><p><strong>Mon-Sat: 10:00am-6:00pm</strong><br><strong>Lunch Break : 1pm to 2pm</strong><br><strong>Sunday, Public Holiday &amp; Eve of Public Holiday :Closed </strong></p><br><strong>Online Shop</strong><br><a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
 <table cellpadding="0" cellspacing="0" width="693" border="0">
 
 </table>
