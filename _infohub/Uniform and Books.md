@@ -43,8 +43,14 @@ description: ""
 <p>Click <a href="https://www.ourlittleredbridge.com/" target="_blank" rel="noopener"><u>here</u></a> for more information</p>
 <hr>
 <h4><strong>Textbooks</strong></h4>
-<p><strong>Pacific Book Stores Pte Ltd</strong><strong><br></strong><a>Website: </a><a target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?hl=en&amp;q=https://www.pacificbookstores.com/&amp;source=gmail&amp;ust=1515224444621000&amp;usg=AFQjCNHewsSeYVYwjFyenUQ-8Zl3vA4LIA">https://www.<wbr>pacificbookstores.com</a><br>Email:&nbsp;<a href="mailto:sales@pacificbookstores.com" target="_blank" rel="noopener">sales@<wbr>pacificbookstores.com</a></p>
-<p><strong>(Online Order Facility, Payment by Credit Card)</strong></p>
+<p><strong>Pacific Book Stores Pte Ltd</strong><strong>
+	
+Website:  https://www.pacificbookstores.com<br>
+[Click here to send Email](sales@pacificbookstores.com)
+
+	
+	
+</strong></p><p><strong><strong>(Online Order Facility, Payment by Credit Card)</strong></strong></p><strong>
 <p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
 <p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays</strong>)</p>
-<p><strong>For 2023 Book lists, please click below<br></strong><a href="/files/P1.pdf" target="_blank" rel="noopener">Primary 1</a>&nbsp;||&nbsp;<a href="/files/P2.pdf" target="_blank" rel="noopener">Primary 2</a>&nbsp;||&nbsp;<a href="/files/P3.pdf" target="_blank" rel="noopener">Primary 3</a>&nbsp;||&nbsp;<a href="/files/P4%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 4</a>&nbsp;||&nbsp;<a href="/files/P5%20CL%20%20Booklist%202023.pdf" target="_blank" rel="noopener">Primary 5</a>&nbsp;||&nbsp;<a href="/files/P6%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 6</a></p>
+<p><strong>For 2023 Book lists, please click below<br></strong><a href="/files/P1.pdf" target="_blank" rel="noopener">Primary 1</a>&nbsp;||&nbsp;<a href="/files/P2.pdf" target="_blank" rel="noopener">Primary 2</a>&nbsp;||&nbsp;<a href="/files/P3.pdf" target="_blank" rel="noopener">Primary 3</a>&nbsp;||&nbsp;<a href="/files/P4%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 4</a>&nbsp;||&nbsp;<a href="/files/P5%20CL%20%20Booklist%202023.pdf" target="_blank" rel="noopener">Primary 5</a>&nbsp;||&nbsp;<a href="/files/P6%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 6</a></p></strong>
