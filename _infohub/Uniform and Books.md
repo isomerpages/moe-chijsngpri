@@ -50,11 +50,8 @@ description: ""
 <br>
 Website:  https://www.pacificbookstores.com
 <br>
-	
-[Click here to send Email](sales@pacificbookstores.com)
+	Email: sales@pacificbookstores.com
 
-	
-	
 </strong></p><p><strong><strong>(Online Order Facility, Payment by Credit Card)</strong></strong></p><strong>
 <p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
 <p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays</strong>)</p>
