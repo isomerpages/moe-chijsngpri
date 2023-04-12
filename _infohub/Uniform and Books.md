@@ -40,8 +40,11 @@ description: ""
 
 </table>
 <h4><strong>Hoodie and Cardigan:</strong></h4>
-<p>Click <a href="https://www.ourlittleredbridge.com/" target="_blank" rel="noopener"><u>here</u></a> for more information</p>
-<hr>
+
+[Click here for more information](https://www.magdalene.com.sg/chijstnicholas)
+
+
+
 <h4><strong>Textbooks</strong></h4>
 <p><strong>Pacific Book Stores Pte Ltd</strong><strong>
 	
