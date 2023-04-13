@@ -9,9 +9,7 @@ description: ""
 	
 ##### Replacement of lost/damaged SSC
 
-[Click here to view online replacement](https://www.transitlink.com.sg/eservice/econcession/app_form1.php?app_type=2)
-
-[Alternatively, click here for information on in-person replacement of SSC](https://www.transitlink.com.sg/concession-cards/?tab=pills-card-replacement-tab)
+[Click here](https://www.transitlink.com.sg/eservice/econcession/app_form1.php?app_type=2)  to view online replacement<br>[Click here](https://www.transitlink.com.sg/concession-cards/?tab=pills-card-replacement-tab)  for information on in-person replacement
 
 ##### TINKLE FRIEND
 A telephone helplines for primary school children<br>
