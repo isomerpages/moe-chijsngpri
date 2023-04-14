@@ -45,7 +45,7 @@ description: ""
 <tr>
 <td style="text-align: center;">7</td>
 <td style="text-align: center;">Application form for Leave of Absence&nbsp;</td>
-<td style="text-align: center;"><a href="https://go.gov.sg/loa-application">Download</a>&nbsp;</td>
+<td style="text-align: center;"><a href="https://go.gov.sg/loa-application">Link</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">8</td>
