@@ -39,8 +39,8 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">Guzheng Room</td>
 <td style="text-align: center;">
 <div>Ms Chin Xuanie (OIC)</div>
-<div>Miss Candy Gan (2IC)</div>
-<div>Miss Chim Shu Min&nbsp;</div>
+<div>Ms Candy Gan (2IC)</div>
+<div>Ms Chim Shu Min&nbsp;</div>
 </td>
 </tr>
 <tr>
