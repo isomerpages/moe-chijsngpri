@@ -59,7 +59,7 @@ SNGS Visual Art Club provides opportunity for art enthusiasts to:
 | --- | --- |
 | Miss Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee\_hui\_yi@schools.gov.sg |
 | Ms Siti Nurzaifah Bte Zaini | siti\_nurzaifah@schools.gov.sg |
-| Mrs Jane Lee | Chua_jie_ying_jand@schools.gov.sg |
+| Mrs Jane Lee | Chua_jie_ying_jane@schools.gov.sg |
 
 
 
