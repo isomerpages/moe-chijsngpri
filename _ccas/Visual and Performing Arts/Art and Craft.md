@@ -57,8 +57,8 @@ Art and Craft Club provides opportunity for art enthusiasts to:
 
 | Teacher-in-charge | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email |
 | --- | --- |
-| Miss Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee\_hui\_yi@schools.gov.sg |
-| Ms Siti Nurzaifah Bte Zaini | siti\_nurzaifah@schools.gov.sg |
+| Miss Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee_hui_yi@schools.gov.sg |
+| Ms Siti Nurzaifah Bte Zaini | siti_nurzaifah@schools.gov.sg |
 | Mrs Jane Lee | Chua_jie_ying_jane@schools.gov.sg |
 
 
