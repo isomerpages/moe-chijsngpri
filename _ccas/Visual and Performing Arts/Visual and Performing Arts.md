@@ -20,8 +20,8 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">Sch Team: Dance Studio (Sec)</td>
 <td style="text-align: center;">
 <div>Ms Catherine Boswell (OIC)</div>
-<div>Mdm Lai Siew Lian (2IC)</div>
-<div>Mrs Chew-Tan Lee Ching</div>
+<div>Mrs Chew-Tan Lee Ching </div>
+<div>Mdm Jia Yangyang </div>
 </td>
 </tr>
 <tr>
