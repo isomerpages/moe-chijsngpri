@@ -17,7 +17,7 @@ description: ""
 Love for Chinese Culture, Love for Chinese Language&nbsp;  
 《化语同行. 乐在圣尼各拉》
 
-##### **SAP Flagship Broad-base Programmes 旗舰活动的普及课程**
+##### **SAP Flagship Broad-based Programmes 旗舰活动的普及课程**
 
 **Chinese History Programme 中华历史课程**<br>
 学生在完成八堂课后, 对中华历史有一些了解，同时从中思考中华历史如何影响我们现在的生活。  
