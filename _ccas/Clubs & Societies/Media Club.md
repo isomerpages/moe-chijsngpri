@@ -33,7 +33,7 @@ third_nav_title: Clubs &amp; Societies
 
 | TEACHERS-IN-CHARGE| EMAIL | 
 | -------- | -------- | 
-| Mr Muhammad Azahar Bin Rosli<br>(Overall Teacher in-charge)| [muhammad\_azahar\_rosli@moe.edu.sg](mailto:muhammad_azahar_rosli@moe.edu.sg) |
+| Mr Muhammad Azahar Bin Rosli<br>(Overall Teacher in-charge)| [muhammad\_azahar\_rosli@schools.gov.sg](mailto:muhammad_azahar_rosli@moe.edu.sg) |
 | Mdm Tan Choon Pei  | [tan\_choon\_pei@schools.gov.sg](mailto:tan_choon_pei@schools.gov.sg) |
 
 
