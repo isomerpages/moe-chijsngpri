@@ -66,10 +66,10 @@ Note: Shortlisted pupils will receive consent forms issued through Parent Gatewa
 
 | Teacher-in-charge | Email |
 | --- | --- |
-| Ms Patricia Koh (Overall teacher in-charge) | koh\_yi\_guan\_patricia@schools.gov.sg |
-| Mrs Rachel Tan&nbsp; | lee\_kim\_lin\_rachel@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
-| Mrs Sheon Wee | &nbsp;lee\_sze\_yuin@schools.gov.sg |
-| Mdm Wang Ying | wang\_ying@schools.gov.sg  
+| Ms Patricia Koh (Overall teacher in-charge) | koh_yi_guan_patricia@schools.gov.sg |
+| Mrs Rachel Tan&nbsp; | lee_kim_lin_rachel@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
+| Mrs Sheon Wee | &nbsp;lee_sze_yuin@schools.gov.sg |
+| Mdm Wang Ying | wang_ying@schools.gov.sg  
  |
  
 <h5><strong>CCA Schedule</strong></h5>
