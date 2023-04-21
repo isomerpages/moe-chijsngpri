@@ -20,7 +20,7 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">Gym&nbsp;</td>
 <td style="text-align: center; width: 136px;">Gym&nbsp;</td>
 <td style="text-align: center; width: 120px;">Gym&nbsp;</td>
-<td style="text-align: center; width: 146px;">Ms Lee Hwee Ing (OIC)<br>Ms Brenda Wong (2IC)<br>Mrs Gomathi Chakz<br>Mdm Tan Pei Ting&nbsp;</td>
+<td style="text-align: center; width: 146px;">Ms Lee Hwee Ing (OIC)<br>Ms Brenda Wong (2IC)<br>Mrs Gomathi Chakz<br>Mrs Lee Pei Ting&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/rhythmic-gymnastics">RHYTHMIC GYMNASTICS</a></td>
@@ -41,7 +41,7 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">&nbsp;</td>
 <td style="text-align: center; width: 136px;">Dev: Pri Parade Sq<br>Sch Team: ISH (Sec)</td>
 <td style="text-align: center; width: 120px;">Dev: Pri Parade Sq<br>Sch Team: ISH (Sec)</td>
-<td style="text-align: center; width: 146px;">Mrs Christina Loh (OIC)<br>Mdm Noelle Lee (2IC)<br>Mrs Ruth Quek<br>Miss Eileen Low&nbsp;</td>
+<td style="text-align: center; width: 146px;">Mrs Christina Loh (OIC)<br>Mdm Noelle Lee (2IC)<br>Mrs Ruth Quek<br>Ms Eileen Low&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/table-tennis">TABLE TENNIS</a></td>
