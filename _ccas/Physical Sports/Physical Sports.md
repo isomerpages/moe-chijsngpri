@@ -20,7 +20,7 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">Gym&nbsp;</td>
 <td style="text-align: center; width: 136px;">Gym&nbsp;</td>
 <td style="text-align: center; width: 120px;">Gym&nbsp;</td>
-<td style="text-align: center; width: 146px;">Miss Lee Hwee Ing (OIC)<br>Ms Brenda Wong (2IC)<br>Mrs Gomathi Chakz<br>Mdm Tan Pei Ting&nbsp;</td>
+<td style="text-align: center; width: 146px;">Ms Lee Hwee Ing (OIC)<br>Ms Brenda Wong (2IC)<br>Mrs Gomathi Chakz<br>Mdm Tan Pei Ting&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/rhythmic-gymnastics">RHYTHMIC GYMNASTICS</a></td>
