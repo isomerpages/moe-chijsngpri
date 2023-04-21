@@ -1,8 +1,8 @@
 ---
-title: Clubs &amp; Societies
+title: Clubs & Societies
 permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
@@ -30,7 +30,7 @@ third_nav_title: Clubs &amp; Societies
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/makers-club">MAKERS CLUB</a></td>
 <td style="text-align: center;">Computer Lab 1</td>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Ms Pung Chuan Ting (OIC)<br>Mrs Carolyn Tan (2IC)<br>Mrs Joaquim Chan</td>
+<td style="text-align: center;">Ms Pung Chuan Ting (OIC)<br>Mrs Carolyn Tan (2IC)<br>Mdm Joaquim Chan</td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/media-club">MEDIA CLUB</a></td>

@@ -34,9 +34,9 @@ third_nav_title: Physical Sports
 
 | Teacher-in-charge | Email |
 | -------- | -------- | 
-| Mdm Toh Poh Yen&nbsp;(Overall teacher in-charge) | toh\_poh\_yen@schools.gov.sg |
-| Mrs Justine Hum | choo\_hui\_kian@schools.gov.sg |
-| Mr Phoon Chee Weng | phoon\_chee\_weng@schools.gov.sg |
+| Mdm Toh Poh Yen&nbsp;(Overall teacher in-charge) | toh_poh_yen@schools.gov.sg |
+| Mrs Justine Hum | choo_hui_kian@schools.gov.sg |
+| Mr Phoon Chee Weng | phoon_chee_weng@schools.gov.sg |
 
 
 <br>
