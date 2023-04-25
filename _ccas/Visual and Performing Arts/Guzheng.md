@@ -35,11 +35,11 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">chin_yi_xuan@schools.gov.sg</td>
 </tr>
 <tr>
-<td style="text-align: center;">Miss Candy Gan&nbsp;</td>
+<td style="text-align: center;">Ms Candy Gan&nbsp;</td>
 <td style="text-align: center;">gan_xin_lin_candy@schools.gov.sg&nbsp;</td>
 </tr>
 <tr>
-<td style="text-align: center;">Miss Chim Shu Min&nbsp;</td>
+<td style="text-align: center;">Ms Chim Shu Min&nbsp;</td>
 <td style="text-align: center;">chim_shu_min@schools.gov.sg&nbsp;</td>
 </tr>
 </tbody>
