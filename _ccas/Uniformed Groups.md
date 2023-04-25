@@ -58,8 +58,8 @@ They play the game through a series of healthy and happy activities, which becom
 
 | TEACHER IN-CHARGE | EMAIL |
 | -------- | -------- |
-| Ms Rebecca Lim (Overall teacher in-charge) | lim_mei_li@moe.edu.sg |
-| Ms Chantel Cheong | cheong_wen_yee_chantel@moe.edu.sg |
+| Ms Rebecca Lim (Overall teacher in-charge) | lim_mei_li@schools.gov.sg |
+| Ms Chantel Cheong | cheong_wen_yee_chantel@schools.gov.sg |
 | Mrs Angie Choong | chong_sou_foong@schools.gov.sg |
 | Ms Elizabeth Mohan | elizabeth_rathi_mohan@schools.gov.sg |
 
