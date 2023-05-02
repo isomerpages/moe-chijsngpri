@@ -30,7 +30,7 @@ description: ""
 <tr>
 <td style="text-align: center;">4</td>
 <td style="text-align: center;">GIRO Application</td>
-<td style="text-align: center;"><a href="/files/GIRO_Application_Form%20-%20revised.pdf">Download</a></td>
+<td style="text-align: center;"><a href="https://www.moe.gov.sg/-/media/files/financial-matters/giro_application_form_apr2023.ashx">Link</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">5</td>
