@@ -29,30 +29,29 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
-<td style="text-align: center;">GIRO Application</td>
-<td style="text-align: center;"><a href="https://www.moe.gov.sg/-/media/files/financial-matters/giro_application_form_apr2023.ashx">Link</a></td>
-</tr>
-<tr>
-<td style="text-align: center;">5</td>
 <td style="text-align: center;">Student Protection Plan</td>
 <td style="text-align: center;"><a href="/files/SKM_C45818011211210.pdf">Download</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">6</td>
+<td style="text-align: center;">5</td>
 <td style="text-align: center;">Application for Opportunity Fund (Of) Subsidy</td>
 <td style="text-align: center;"><a href="/files/Application_for_OF_Subsidy.pdf">Download</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">7</td>
+<td style="text-align: center;">6</td>
 <td style="text-align: center;">Insurance Plan for students claim form&nbsp;</td>
 <td style="text-align: center;"><a href="/files/Group-Personal-Accident-(GPA)-Insurance-Plan-for-Students-Claim%20form.pdf">Download</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">8</td>
+<td style="text-align: center;">7</td>
 <td style="text-align: center;">Application form for Leave of Absence&nbsp;</td>
 <td style="text-align: center;"><a href="https://go.gov.sg/loa-application">Link</a>&nbsp;</td>
 </tr>
 <tr>	
-	
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">GIRO Application</td>
+<td style="text-align: center;"><a href="https://www.moe.gov.sg/-/media/files/financial-matters/giro_application_form_apr2023.ashx">Link</a></td>	
 
 </tr></tbody></table>
