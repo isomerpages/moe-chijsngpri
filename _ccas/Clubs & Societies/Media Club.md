@@ -2,7 +2,7 @@
 title: Media Club
 permalink: /primary/co-curricular-activities-ccas/clubs-n-societies/media-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 <h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
