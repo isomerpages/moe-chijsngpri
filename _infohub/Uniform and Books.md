@@ -55,4 +55,11 @@ Website:  https://www.pacificbookstores.com
 </strong></p><p><strong><strong>(Online Order Facility, Payment by Credit Card)</strong></strong></p><strong>
 <p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
 <p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays</strong>)</p>
-<p><strong>For 2023 Book lists, please click below<br></strong><a href="/files/P1.pdf" target="_blank" rel="noopener">Primary 1</a>&nbsp;||&nbsp;<a href="/files/P2.pdf" target="_blank" rel="noopener">Primary 2</a>&nbsp;||&nbsp;<a href="/files/P3.pdf" target="_blank" rel="noopener">Primary 3</a>&nbsp;||&nbsp;<a href="/files/P4%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 4</a>&nbsp;||&nbsp;<a href="/files/P5%20CL%20%20Booklist%202023.pdf" target="_blank" rel="noopener">Primary 5</a>&nbsp;||&nbsp;<a href="/files/P6%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 6</a></p></strong>
+</strong><p><strong><strong>
+	
+For 2023 Book lists, please click below<br></strong>
+																											 
+[Pri 1](/files/P1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 2](/files/P2.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 3](/files/P3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 4](/files/P4%2010102022.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 5](/files/P5%20CL%20%20Booklist%202023.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 6](/files/P6%2010102022.pdf)
+
+	
+For 2023 Book lists, please click below<br></strong><a href="/files/P1.pdf" target="_blank" rel="noopener">Primary 1</a>&nbsp;||&nbsp;<a href="/files/P2.pdf" target="_blank" rel="noopener">Primary 2</a>&nbsp;||&nbsp;<a href="/files/P3.pdf" target="_blank" rel="noopener">Primary 3</a>&nbsp;||&nbsp;<a href="/files/P4%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 4</a>&nbsp;||&nbsp;<a href="/files/P5%20CL%20%20Booklist%202023.pdf" target="_blank" rel="noopener">Primary 5</a>&nbsp;||&nbsp;<a href="/files/P6%2010.10.2022.pdf" target="_blank" rel="noopener">Primary 6</a></p>
