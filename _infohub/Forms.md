@@ -40,7 +40,7 @@ description: ""
 <tr>
 <td style="text-align: center;">6</td>
 <td style="text-align: center;">Insurance Plan for students claim form&nbsp;</td>
-<td style="text-align: center;"><a href="/files/Group-Personal-Accident-(GPA)-Insurance-Plan-for-Students-Claim%20form.pdf">Download</a></td>
+<td style="text-align: center;"><a href="https://master.d2kyho38yqhcge.amplifyapp.com/files/06%20Infohub/Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim%20form.pdf">Download</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">7</td>
