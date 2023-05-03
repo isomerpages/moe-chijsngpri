@@ -54,7 +54,7 @@ Website:  https://www.pacificbookstores.com
 
 </strong></p><p><strong><strong>(Online Order Facility, Payment by Credit Card)</strong></strong></p><strong>
 <p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
-<p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays)
+<p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays)<br>
 	
 For 2023 Book lists, please click below<br>
 																											 
