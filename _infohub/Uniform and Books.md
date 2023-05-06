@@ -58,10 +58,15 @@ Website:  https://www.pacificbookstores.com
 	
 <br>For 2023 Book lists, please click below<br>
 
-[Primary 1](/files/P1.pdf)&nbsp;&nbsp;&nbsp;
-[Primary 2](/files/P2.pdf)&nbsp;&nbsp;&nbsp;
-[Primary 3](/files/P3.pdf)	
-[Primary 4](/files/P4%2010102022.pdf)&nbsp;&nbsp;&nbsp;
-[Primary 5](/files/P5%20CL%20%20Booklist%202023.pdf)&nbsp;&nbsp;&nbsp;
+[Primary 1](/files/P1.pdf)
+	
+[Primary 2](/files/P2.pdf)
+	
+[Primary 3](/files/P3.pdf)
+	
+[Primary 4](/files/P4%2010102022.pdf)
+	
+[Primary 5](/files/P5%20CL%20%20Booklist%202023.pdf)
+
 [Primary 6](/files/P6%2010102022.pdf)	
 </strong></p></strong>
