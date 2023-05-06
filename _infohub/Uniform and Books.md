@@ -56,6 +56,12 @@ Website:  https://www.pacificbookstores.com
 <p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
 <p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays)<br>
 	
-For 2023 Book lists, please click below<br>
-																											 
-[Pri 1](/files/P1.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 2](/files/P2.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 3](/files/P3.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 4](/files/P4%2010102022.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 5](/files/P5%20CL%20%20Booklist%202023.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Pri 6](/files/P6%2010102022.pdf)</strong></p></strong>
+<br>For 2023 Book lists, please click below<br>
+
+[Primary 1](/files/P1.pdf)&nbsp;&nbsp;&nbsp;
+[Primary 2](/files/P2.pdf)&nbsp;&nbsp;&nbsp;
+[Primary 3](/files/P3.pdf)	
+[Primary 4](/files/P4%2010102022.pdf)&nbsp;&nbsp;&nbsp;
+[Primary 5](/files/P5%20CL%20%20Booklist%202023.pdf)&nbsp;&nbsp;&nbsp;
+[Primary 6](/files/P6%2010102022.pdf)	
+</strong></p></strong>
