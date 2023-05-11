@@ -45,17 +45,14 @@ description: ""
 
 
 
-<h4><strong>Textbooks</strong></h4>
-<p><strong>Pacific Book Stores Pte Ltd</strong><strong>
-<br>
-Website:  https://www.pacificbookstores.com
-<br>
-	Email: sales@pacificbookstores.com
+#### **Textbooks**
+**Pacific Book Stores Pte Ltd**<br>
+Website:  https://www.pacificbookstores.com<br>Email: sales@pacificbookstores.com<br>
+(Online Order Facility, Payment by Credit Card)<br><br>
+**School bookshop (canteen)**<br>
+Ms Fanny (Tel: 64599860)<br><br>
+**Operating Hours:**<br>
+Mon to Fri: 8 am - 3 pm<br>(except exam season and school holidays)<br>
 
-</strong></p><p><strong><strong>(Online Order Facility, Payment by Credit Card)</strong></strong></p><strong>
-<p><strong>School bookshop (canteen)</strong><br>Ms Fanny<br>Tel: 64599860</p>
-<p><strong>Operating Hours :<br></strong>Mon to Fri&nbsp;8am - 3pm&nbsp;(<strong>except exam season and school holidays)<br><br>
-
-For 2023 Book lists, please click below<br><br>
+**For 2023 Book lists, please click below**<br><br>
 [Primary 1](/files/p1%20booklist.pdf)<br>[Primary 2](/files/p2%20booklist.pdf)<br>[Primary 3](/files/p3%20booklist.pdf)<br>[Primary 4](/files/p4%20booklist.pdf)<br>[Primary 5](/files/p5%20booklist.pdf)<br>[Primary 6](/files/p6%20booklist.pdf)
-</strong></p></strong>
