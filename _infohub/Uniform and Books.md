@@ -20,19 +20,21 @@ description: ""
 | May     | 08, 22     |
 
 **Operating Hours:**<br>9.00 am to 2.30 pm<br><br>
-**Sale Location:**<br>School Canteen<br><br> Updated: 12 Dec&nbsp;<strong>2022</strong><p></p>
-<p><strong><u>Retail shop at Ubi  (Tel 6747 8037)</u></strong>
-</p><p><strong>Mon-Sat: 10:00am-6:00pm</strong><br><strong>Lunch Break : 1pm to 2pm</strong><br><strong>Sunday, Public Holiday &amp; Eve of Public Holiday :Closed </strong></p><br><strong>Online Shop</strong><br><a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
-<table border="0" width="693" cellspacing="0" cellpadding="0">
+**Sale Location:**<br>School Canteen<br><br> Updated: 12 Dec 2022<br><br>
+<u>**Retail shop at Ubi (Tel 6747 8037)**</u><br><br>
+Mon-Sat: 10:00am-6:00pm<br>
+Lunch Break : 1pm to 2pm<br>
+Sunday, Public Holiday and Eve of Public Holiday: Closed<br><br>
+Online Shop<br>
+<a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
 
-</table>
-<h4><strong>Hoodie and Cardigan:</strong></h4>
+##### **Hoodie and Cardigan:**
 
 [Click here for more information](https://www.magdalene.com.sg/chijstnicholas)
 
 
 
-#### **Textbooks**
+##### **Textbooks**
 **Pacific Book Stores Pte Ltd**<br>
 Website:  https://www.pacificbookstores.com<br>Email: sales@pacificbookstores.com<br>
 (Online Order Facility, Payment by Credit Card)<br><br>
