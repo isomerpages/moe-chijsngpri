@@ -74,6 +74,12 @@ description: ""
 <td style="text-align: center;">11</td>
 <td style="text-align: center;">ECHA Online Nomination Form<br>(for Nomination by Parents, Relatives, Others)</td>
 <td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/vJD2Po">Link</a></td>
-
+</tr>
+<tr>	
+</tr>
+<tr>
+<td style="text-align: center;">12</td>
+<td style="text-align: center;">ECHA Online Nomination Form<br>(for Nomination by CHIJ SNGS Staff)</td>
+<td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/vWpWMJ">Link</a></td>
 	
 </tr></tbody></table>
