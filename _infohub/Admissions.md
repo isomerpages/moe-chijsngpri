@@ -30,4 +30,4 @@ description: ""
 <p>To obtain past years' examination results (PSLE / 'O' level), you may refer to the following website for more information:&nbsp;<a href="https://www.seab.gov.sg/home/services/statements-of-results">https://www.seab.gov.sg/home/services/statements-of-results</a></p>
 <p><strong>Distance Check</strong><br>You may refer to the Singapore Land Authority OneMap SchoolQuery Service to determine your home-school distance&nbsp;: <a href="https://www.onemap.gov.sg/main/v2/schoolquery">https://www.onemap.gov.sg/main/v2/schoolquery</a></p>
 <p><strong>Vacancies and balloting data</strong></p>
-For more information of the preceding year's vacancies and balloting data, please visit here: &nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data">https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data</a>
+For more information on the preceding year's vacancies and balloting data, please visit : &nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data">https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data</a>
