@@ -29,7 +29,10 @@ description: ""
 <p><strong>Documents Required</strong><br>After the submission of the online Registration form, please send a follow up email to the school at&nbsp;<a href="mailto:chijsng_pri@moe.edu.sg">chijsng_pri@moe.edu.sg</a>&nbsp;and attach the following relevant documents:<br>i. Birth certificate of the child;<br>ii. Parents’ NRICs (the back of both parents’ NRIC);<br>iii. Birth certificate and document proof of the older child (for phase 1) or document proof of the parent/graduated sibling (for phase 2A) or baptism certificate from a Catholic church (for phase 2B)<br>iv. Child’s immunisation records.<br><br>The school may contact you for other clarifications or additional documents required.</p>
 <p>To obtain past years' examination results (PSLE / 'O' level), you may refer to the following website for more information:&nbsp;<a href="https://www.seab.gov.sg/home/services/statements-of-results">https://www.seab.gov.sg/home/services/statements-of-results</a></p>
 <p><strong>Distance Check</strong><br>You may refer to the Singapore Land Authority OneMap SchoolQuery Service to determine your home-school distance&nbsp;: <a href="https://www.onemap.gov.sg/main/v2/schoolquery">https://www.onemap.gov.sg/main/v2/schoolquery</a></p>
-<p><strong>Balloting Statistics&nbsp;2020-2022</strong></p>
+<p><strong>Vacancies and balloting data</strong></p>
+
+
+
 <table width="699">
 <tbody>
 <tr>
