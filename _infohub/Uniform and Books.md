@@ -13,16 +13,16 @@ description: ""
 
 | Month | Dates |
 | -------- | -------- |
-| Jan     | 03, 09<br>**only for 9 Jan Sales date 9am to 3pm**     |
-| Feb     | 06, 20     |
-| Mar     | 06, 20     |
-| Apr     | 03, 17     |
-| May     | 08, 22     |
+| Jun     | 26     |
+| Jul     | 10    |
+| Aug     | 07, 21     |
+| Sept     | 11, 25     |
+| Oct     | 09, 23     |
 
 **Operating Hours:**<br>9.00 am to 2.30 pm<br><br>
 **Sale Location:**<br>School Canteen<br><br> Updated: 12 Dec 2022<br><br>
-**Retail shop at Ubi (Tel 6747 8037)**<br><br>
-Mon-Sat: 10:00 am - 6:00 pm<br>
+**Our Ubi Outlet  (Tel 6747 8037)**<br>
+Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
 Lunch Break: 1.00 pm to 2.00 pm<br>
 Sunday, Public Holiday and Eve of Public Holiday: Closed<br><br>
 **Online Shop**<br>
