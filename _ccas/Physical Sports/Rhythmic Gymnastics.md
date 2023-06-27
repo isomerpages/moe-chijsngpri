@@ -70,7 +70,10 @@ Note: Shortlisted pupils will receive consent forms issued through Parent Gatewa
 | Mrs Rachel Tan&nbsp; | lee_kim_lin_rachel@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
 | Mrs Sheon Wee | &nbsp;lee_sze_yuin@schools.gov.sg |
 | Mdm Wang Ying | wang_ying@schools.gov.sg  
+ | Mdm Wah Yu Yun | wah_yu_yun@schools.gov.sg  
  |
+ 
+ 
  
 <h5><strong>CCA Schedule</strong></h5>
 
