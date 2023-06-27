@@ -30,7 +30,7 @@ third_nav_title: Clubs & Societies
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/makers-club">MAKERS CLUB</a></td>
 <td style="text-align: center;">Computer Lab 1</td>
 <td style="text-align: center;">&nbsp;</td>
-<td style="text-align: center;">Ms Pung Chuan Ting (OIC)<br>Mrs Carolyn Tan (2IC)<br>Mdm Joaquim Chan</td>
+<td style="text-align: center;">Ms Pung Chuan Ting (OIC)<br>Mrs Carolyn Tan (2IC)<br>Mdm Joaquim Chan<br>Mr Darren Er</td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/clubs-n-societies/media-club">MEDIA CLUB</a></td>
