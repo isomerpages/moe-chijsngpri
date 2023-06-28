@@ -31,7 +31,8 @@ third_nav_title: Visual and Performing Arts
 <td style="text-align: center;">
 <div>Mrs Suelynn Sing (OIC)</div>
 <div>Mdm Denise Jung&nbsp;(2IC)</div>
-</td>
+<div>Mdm Cong Fang&nbsp;</div>
+	</td>
 </tr>
 <tr>
 <td style="text-align: center;"><a href="/primary/co-curricular-activities-ccas/performing-arts/guzheng" target="">Guzheng</a></td>
