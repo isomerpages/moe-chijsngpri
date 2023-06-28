@@ -27,7 +27,7 @@ third_nav_title: Physical Sports
 <td style="text-align: center; width: 120px;">Gym&nbsp;</td>
 <td style="text-align: center; width: 136px;">Gym&nbsp;</td>
 <td style="text-align: center; width: 120px;">Gym&nbsp;</td>
-<td style="text-align: center; width: 146px;">Ms Patricia Koh (OIC)<br>Mrs Rachel Tan (2IC)<br>Mrs Laura Lim<br>Mdm Wang Ying&nbsp;</td>
+<td style="text-align: center; width: 146px;">Ms Patricia Koh (OIC)<br>Mrs Rachel Tan (2IC)<br>Mrs Laura Lim<br>Mdm Wang Ying&nbsp;<br>Mdm Wah Yu Yun&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 129px;"><a href="/primary/co-curricular-activities-ccas/physical-sports/badminton">BADMINTON</a></td>
