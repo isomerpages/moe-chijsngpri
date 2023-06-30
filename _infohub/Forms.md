@@ -81,5 +81,11 @@ description: ""
 <td style="text-align: center;">12</td>
 <td style="text-align: center;">ECHA Online Nomination Form<br>(for Nomination by CHIJ SNGS Staff)</td>
 <td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/vWpWMJ">Link</a></td>
-	
+</tr>
+<tr>
+<td style="text-align: center;">13</td>
+<td style="text-align: center;">Waiting List Application Form 2024</td>
+<td style="text-align: center;"><a href="https://form.gov.sg/641bec491ee4e100126add95">Link</a></td>
+</tr>
+<tr>	
 </tr></tbody></table>
