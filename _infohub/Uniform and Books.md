@@ -16,7 +16,7 @@ description: ""
 | Jun     | 26     |
 | Jul     | 10    |
 | Aug     | 07, 21     |
-| Sept     | 11, 25     |
+| Sept     | 12, 25     |
 | Oct     | 09, 23     |
 
 **Operating Hours:**<br>9.00 am to 2.30 pm<br><br>
