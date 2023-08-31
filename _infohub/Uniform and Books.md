@@ -16,11 +16,11 @@ description: ""
 | Jun     | 26     |
 | Jul     | 10    |
 | Aug     | 07, 21     |
-| Sept     | 11, 25     |
+| Sept     | 12, 25     |
 | Oct     | 09, 23     |
 
 **Operating Hours:**<br>9.00 am to 2.30 pm<br><br>
-**Sale Location:**<br>School Canteen<br><br> Updated: 12 Dec 2022<br><br>
+**Sale Location:**<br>School Canteen<br><br> Updated: 12 Jun 2023<br><br>
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
 Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
 Lunch Break: 1.00 pm to 2.00 pm<br>
