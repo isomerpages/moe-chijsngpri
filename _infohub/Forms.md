@@ -83,9 +83,5 @@ description: ""
 <td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/vWpWMJ">Link</a></td>
 </tr>
 <tr>
-<td style="text-align: center;">13</td>
-<td style="text-align: center;">Waiting List Application Form 2024</td>
-<td style="text-align: center;"><a href="https://form.gov.sg/641bec491ee4e100126add95">Link</a></td>
-</tr>
-<tr>	
-</tr></tbody></table>
+<td style="text-align: center;">
+</td></tr></tbody></table>
