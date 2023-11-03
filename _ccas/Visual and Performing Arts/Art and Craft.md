@@ -3,6 +3,7 @@ title: Art and Craft
 permalink: /ccas/visual-and-performing-arts/permalink/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
@@ -57,7 +58,7 @@ Art and Craft Club provides opportunity for art enthusiasts to:
 
 | Teacher-in-charge | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email |
 | --- | --- |
-| Ms Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee_hui_yi@schools.gov.sg |
+| Ms Lee Hui Yi&nbsp;(Overall teacher in-charge) | lee_hui_yi_a@schools.gov.sg |
 | Ms Siti Nurzaifah Bte Zaini | siti_nurzaifah@schools.gov.sg |
 | Mrs Jane Lee | Chua_jie_ying_jane@schools.gov.sg |
 
