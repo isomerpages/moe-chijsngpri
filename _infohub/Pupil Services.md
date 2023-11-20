@@ -2,6 +2,7 @@
 title: Pupil Services
 permalink: /primary/primary-info-hub/pupil-services/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
 <h4><strong>STUDENT SMART CARD (SSC)</strong></h4>
@@ -20,8 +21,8 @@ Monday to Friday: 2.30pm - 4.30 pm
 
 ##### STUDENT CARE FORM (IJHCC)
 
-[Click here for P1 2023 Registration Link](https://docs.google.com/forms/d/1-xyEOkqdAcEggxzHaJnlyuE1DYizKQ8ufQXdb1JohHY/closedform)
+[Click here for P1 2024 Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSfPzvxibRa4vgrZcYrhIaOL6XL0yevrelC2sKAqc5bNFc-ehA/closedform)
 <br>
 
 
-[Click here for P2 - P6 Registration Link](https://docs.google.com/forms/d/1-xyEOkqdAcEggxzHaJnlyuE1DYizKQ8ufQXdb1JohHY/closedform)
+[Click here for P2 - P6 Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSduz8TLH-TmlOnSLuLz3V1oxEO17Fvr_6X5LJPaJ3oXyzDb_g/viewform)
