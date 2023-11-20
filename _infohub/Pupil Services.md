@@ -25,5 +25,4 @@ Monday to Friday: 2.30pm - 4.30 pm
 <br>
 
 
-[Click here for P2 - P6 Registration Link](https://docs.google.com/forms/d/1-xyEOkqdAcEggxzHaJnlyuE1DYizKQ8ufQXdb1JohHY/closedform)
-
+[Click here for P2 - P6 Registration Link](https://docs.google.com/forms/d/e/1FAIpQLSduz8TLH-TmlOnSLuLz3V1oxEO17Fvr_6X5LJPaJ3oXyzDb_g/viewform)
