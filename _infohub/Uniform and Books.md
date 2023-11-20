@@ -48,4 +48,4 @@ Mon to Fri: 8.00 am - 3.00 pm<br>(except exam season and school holidays)<br>
 [Primary 1](/files/p1%20booklist.pdf)<br>[Primary 2](/files/p2%20booklist.pdf)<br>[Primary 3](/files/p3%20booklist.pdf)<br>[Primary 4](/files/p4%20booklist.pdf)<br>[Primary 5](/files/p5%20booklist.pdf)<br>[Primary 6](/files/p6%20booklist.pdf)
 
 **For 2024 Book lists, please click below**<br><br>
-[Primary 1](/files/P1_2024.pdf)<br>[Primary 2]([](/files/P2_2024.pdf))<br>[Primary 3]([](/files/P3_2024.pdf))<br>[Primary 4]([](/files/P4_2024.pdf))<br>[Primary 5-Option 1]([](/files/P5_2024_Option_1.pdf))<br>[Primary 5-Option 2]([](/files/P5_2024_Option_2.pdf))<br>[Primary 6]([](/files/P6_2024.pdf))
+[Primary 1](/files/P1_2024.pdf)<br>[Primary 2](/files/P2_2024.pdf)<br>[Primary 3](/files/P3_2024.pdf)<br>[Primary 4](/files/P4_2024.pdf)<br>[Primary 5-Option 1](/files/P5_2024_Option_1.pdf)<br>[Primary 5-Option 2](/files/P5_2024_Option_2.pdf)<br>[Primary 6](/files/P6_2024.pdf)
