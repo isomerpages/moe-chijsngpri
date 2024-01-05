@@ -8,17 +8,17 @@ variant: markdown
 
 ##### **School Uniform / PE Attire Sale in School**
 
-**2023 Sales Date (SNGS)**
+**2024 Sales Date (SNGS)**
 
 
 
 | Month | Dates |
 | -------- | -------- |
-| Jun     | 26     |
-| Jul     | 10    |
-| Aug     | 07, 21     |
-| Sept     | 12, 25     |
-| Oct     | 09, 23     |
+| Jan     | 02, 15     |
+| Feb     | 05, 19    |
+| Mar     | 06(Wed), 18     |
+| Apr     | 01, 15     |
+| May     | 06, 20     |
 
 **Operating Hours:**<br>9.00 am to 2.30 pm<br><br>
 **Sale Location:**<br>School Canteen<br><br> Updated: 12 Jun 2023<br><br>
