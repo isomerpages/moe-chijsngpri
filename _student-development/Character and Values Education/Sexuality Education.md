@@ -3,12 +3,13 @@ title: Sexuality Education
 permalink: /primary/student-development/cce-framework/cce-guidance-module-n-sexuality-education/
 description: ""
 third_nav_title: Character and Values Education
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/student-development.jpg)
 
 ##### **MOE Sexuality Education in Schools**
 
-1. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
+1. Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
   
 2. The **Goals**&nbsp;of Sexuality Education are:<br><br>
