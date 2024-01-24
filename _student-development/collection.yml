@@ -1,0 +1,14 @@
+collections:
+  student-development:
+    output: true
+    order:
+      - Character and Values Education/.keep
+      - Character and Values Education/Character and Values Education.md
+      - Character and Values Education/Sexuality Education.md
+      - Character and Values Education/Programme for Active Learning (PAL).md
+      - Character and Values Education/Values Education.md
+      - Student Leadership.md
+      - Citizenship Education.md
+      - Values in Action.md
+      - Cyber Wellness.md
+      - Environmental Education.md

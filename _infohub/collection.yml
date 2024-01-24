@@ -1,0 +1,14 @@
+collections:
+  infohub:
+    output: true
+    order:
+      - Pri Parents' ICT Google Site.md
+      - Pri Pupils' ICT Google Site.md
+      - Admissions.md
+      - Uniform and Books.md
+      - Bus Services.md
+      - Forms.md
+      - Pupil Services.md
+      - School Calendar.md
+      - School Fees.md
+      - SN Home Based Learning Infosite.md

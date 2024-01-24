@@ -1,0 +1,25 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/Chinese Culture and Language Club.md
+      - Clubs & Societies/Makers Club.md
+      - Clubs & Societies/Media Club.md
+      - Physical Sports/.keep
+      - Physical Sports/Physical Sports.md
+      - Physical Sports/Artistic Gymnastics.md
+      - Physical Sports/Badminton.md
+      - Physical Sports/Netball.md
+      - Physical Sports/Rhythmic Gymnastics.md
+      - Physical Sports/Table Tennis.md
+      - Physical Sports/Track and Field.md
+      - Uniformed Groups.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Visual and Performing Arts.md
+      - Visual and Performing Arts/Art and Craft.md
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/English Drama.md
+      - Visual and Performing Arts/Guzheng.md
