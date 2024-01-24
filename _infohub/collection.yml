@@ -2,7 +2,7 @@ collections:
   infohub:
     output: true
     order:
-      - SNGSPri Pupils' ICT Google Site.md
+      - Pri Pupils' ICT Google Site.md
       - Admissions.md
       - Uniform and Books.md
       - Bus Services.md
