@@ -41,7 +41,7 @@ b) Character and Citizenship Education (CCE)
 
 **At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons will be taught in 2024:**<br><br>
 
-<div style="text-align:center"><b>2023 Sexuality Education Lessons in CCE 2021<br>Primary 5</b></div><br>
+<div style="text-align:center"><b>2024 Sexuality Education Lessons in CCE 2021<br>Primary 5</b></div><br>
 
 
 
