@@ -60,9 +60,7 @@ b) Character and Citizenship Education (CCE)
 |  | Are We More than Friends? Lesson 2 (60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other. | Term 4 Week 6 |
 |   | <br><br>|  |	
 
-Please Note:<br>*For <u>2023</u>, the Primary 5 lesson “Did You Know?”will also be conducted for the Primary 6 cohort.
 
-  
 **Information for Parents**  
   
 8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.  
