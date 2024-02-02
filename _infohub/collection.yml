@@ -2,7 +2,6 @@ collections:
   infohub:
     output: true
     order:
-      - Pri Parents' ICT Google Site.md
       - Pri Pupils' ICT Google Site.md
       - Admissions.md
       - Uniform and Books.md
