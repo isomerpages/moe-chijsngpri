@@ -20,11 +20,11 @@ variant: markdown
 | Apr     | 01, 15     |
 | May     | 06, 20     |
 
-##### **Chinese New Year Closure Notice:**
+##### **Chinese New Year Closure Notice:**<br>
 1) Online shop: 7 February 2024 to 15 February 2024<br>
 2) Retail@Ubi &amp; Office:	9 February 2024 to 18 February 2024 
 
-##### **Stock Take Closure Notice:**
+##### **Stock Take Closure Notice:**<br>
 1) Online shop: 26 February 2024 to 5 March 2024<br>
 2) Retail@Ubi &amp; Office:	28 February 2024 to 5 March 2024 
 
