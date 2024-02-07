@@ -20,6 +20,9 @@ variant: markdown
 | Apr     | 01, 15     |
 | May     | 06, 20     |
 
+**Operating Hours:**<br>9.00 am to 2.30 pm<br>
+**Sale Location:**<br>School Canteen<br>
+
 ##### **The following dates will be closed for Chinese New Year Period :**<br>
 1) Online shop: 7 February 2024 to 15 February 2024<br>
 2) Retail@Ubi &amp; Office:	9 February 2024 to 18 February 2024 
@@ -27,9 +30,7 @@ variant: markdown
 ##### **The following dates will be closed for Stock Take Period:**<br>
 1) Online shop: 26 February 2024 to 5 March 2024<br>
 2) Retail@Ubi &amp; Office:	28 February 2024 to 5 March 2024 
-
-**Operating Hours:**<br>9.00 am to 2.30 pm<br><br>
-**Sale Location:**<br>School Canteen<br><br> Updated: 02 Jan 2024<br><br>
+<br><br> Updated: 02 Jan 2024<br><br>
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
 Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
 Lunch Break: 1.00 pm to 2.00 pm<br>
