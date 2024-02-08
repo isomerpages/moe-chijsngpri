@@ -19,6 +19,10 @@ variant: markdown
 | Mar     | 06(Wed), 18     |
 | Apr     | 01, 15     |
 | May     | 06, 20     |
+| Jul     | 01, 15     |
+| Aug     | 05, 19     |
+| Sept     | 02, 16     |
+| Oct     | 07, 21     |
 
 **Operating Hours:**<br>9.00 am to 3 pm<br>
 **Sale Location:**<br>School Canteen<br>
