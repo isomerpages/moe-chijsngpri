@@ -20,7 +20,7 @@ variant: markdown
 | Apr     | 01, 15     |
 | May     | 06, 20     |
 
-**Operating Hours:**<br>9.00 am to 2.30 pm<br>
+**Operating Hours:**<br>9.00 am to 3 pm<br>
 **Sale Location:**<br>School Canteen<br>
 
 ##### **The following dates will be closed for Chinese New Year Period :**<br>
