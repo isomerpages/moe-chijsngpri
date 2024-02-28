@@ -24,12 +24,9 @@ variant: markdown
 | Sept     | 02, 16     |
 | Oct     | 07, 21     |
 
-**Operating Hours:**<br>9.00 am to 3 pm<br>
-**Sale Location:**<br>School Canteen<br>
-
-##### **The following dates will be closed for Chinese New Year Period :**<br>
-1) Online shop: 7 February 2024 to 15 February 2024<br>
-2) Retail@Ubi &amp; Office:	9 February 2024 to 18 February 2024 
+**Operating Hours:**   9.00 am to 3 pm<br>
+**Walk-in purchase:** 2 pm to 3 pm<br>
+**Sale Location:**  School Canteen<br>
 
 ##### **The following dates will be closed for Stock Take Period:**<br>
 1) Online shop: 26 February 2024 to 5 March 2024<br>
@@ -53,7 +50,7 @@ Sunday, Public Holiday and Eve of Public Holiday: Closed<br><br>
 Website:  https://www.pacificbookstores.com<br>Email: sales@pacificbookstores.com<br>
 (Online Order Facility, Payment by Credit Card)<br><br>
 **School bookshop (canteen)**<br>
-Ms Fanny  ( Tel: 64599860 )<br><br>
+Ms Fanny  ( Tel: 93654382 )<br><br>
 **Operating Hours:**<br>
 Mon to Fri: 8.00 am - 3.00 pm<br>(except exam season and school holidays)<br>
 
