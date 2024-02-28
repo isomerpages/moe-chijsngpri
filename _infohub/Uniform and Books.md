@@ -28,10 +28,6 @@ variant: markdown
 **Walk-in purchase:** 2 pm to 3 pm<br>
 **Sale Location:**  School Canteen<br>
 
-##### **The following dates will be closed for Chinese New Year Period :**<br>
-1) Online shop: 7 February 2024 to 15 February 2024<br>
-2) Retail@Ubi &amp; Office:	9 February 2024 to 18 February 2024 
-
 ##### **The following dates will be closed for Stock Take Period:**<br>
 1) Online shop: 26 February 2024 to 5 March 2024<br>
 2) Retail@Ubi &amp; Office:	28 February 2024 to 5 March 2024 
