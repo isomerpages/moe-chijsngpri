@@ -24,8 +24,9 @@ variant: markdown
 | Sept     | 02, 16     |
 | Oct     | 07, 21     |
 
-**Operating Hours:**<br>9.00 am to 3 pm<br>
-**Sale Location:**<br>School Canteen<br>
+**Operating Hours:**   9.00 am to 3 pm<br>
+**Walk-in purchase:** 2 pm to 3 pm<br>
+**Sale Location:**  School Canteen<br>
 
 ##### **The following dates will be closed for Chinese New Year Period :**<br>
 1) Online shop: 7 February 2024 to 15 February 2024<br>
