@@ -14,5 +14,5 @@ sections:
           url: https://www.chijstnicholasgirls.moe.edu.sg
         - title: SNGS Secondary
           description: ""
-          url: https://master.d2kyho38yqhcge.amplifyapp.com
+          url: https://www.chijsngsec.moe.edu.sg
 ---
