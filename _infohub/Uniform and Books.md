@@ -28,10 +28,6 @@ variant: markdown
 **Walk-in purchase:** 2 pm to 3 pm<br>
 **Sale Location:**  School Canteen<br>
 
-##### **The following dates will be closed for Stock Take Period:**<br>
-1) Online shop: 26 February 2024 to 5 March 2024<br>
-2) Retail@Ubi &amp; Office:	28 February 2024 to 5 March 2024 
-<br><br> Updated: 02 Jan 2024<br><br>
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
 Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
 Lunch Break: 1.00 pm to 2.00 pm<br>
