@@ -26,7 +26,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">3</td>
 <td style="text-align: center;">Student Protection Plan Fact Sheet</td>
-<td style="text-align: center;"><a href="/files/SKM_C45818011211210.pdf">Download</a></td>
+<td style="text-align: center;"><a href="/files/GPA__Insurance_for_students____Product_Fact_Sheet__Year_2024_May__Revised.pdf">Download</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
