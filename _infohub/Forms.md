@@ -25,8 +25,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">3</td>
-<td style="text-align: center;">Student Protection Plan</td>
-<td style="text-align: center;"><a href="/files/SKM_C45818011211210.pdf">Download</a></td>
+<td style="text-align: center;">Student Protection Plan Fact Sheet</td>
+<td style="text-align: center;"><a href="/files/GPA__Insurance_for_students____Product_Fact_Sheet__Year_2024_May__Revised.pdf">Download</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
@@ -36,7 +36,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">5</td>
 <td style="text-align: center;">Insurance Plan for students claim form&nbsp;</td>
-<td style="text-align: center;"><a href="https://master.d2kyho38yqhcge.amplifyapp.com/files/06%20Infohub/Group-Personal-Accident-GPA-Insurance-Plan-for-Students-Claim%20form.pdf">Download</a></td>
+<td style="text-align: center;"><a href="https://studentgpa.incomegroupins.com.sg">Link</a>&nbsp;</td>
 </tr>
 <tr>
 <td style="text-align: center;">6</td>
