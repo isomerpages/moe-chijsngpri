@@ -25,7 +25,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">3</td>
-<td style="text-align: center;">Student Protection Plan</td>
+<td style="text-align: center;">Student Protection Plan Fact Sheet</td>
 <td style="text-align: center;"><a href="/files/SKM_C45818011211210.pdf">Download</a></td>
 </tr>
 <tr>
