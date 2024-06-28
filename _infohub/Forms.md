@@ -75,7 +75,7 @@ variant: markdown
 </tr>
 <tr>
 	<td style="text-align: center;">11</td>
-<td style="text-align: center;">Wait List Application Form 2025</td>
+<td style="text-align: center;">Wait List Application Form 2025<br>(From 1 July to 30 September 2024)</td>
 <td style="text-align: center;"><a href="https://form.gov.sg/665d49e4eec5ce17a5459bcd">Link</a></td>
 </tr>
 <tr>	
