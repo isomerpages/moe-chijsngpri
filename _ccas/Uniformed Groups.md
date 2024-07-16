@@ -2,6 +2,7 @@
 title: Uniformed Groups
 permalink: /primary/co-curricular-activities-ccas/uniformed-groups/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
@@ -62,7 +63,7 @@ They play the game through a series of healthy and happy activities, which becom
 | Ms Chantel Cheong | cheong_wen_yee_chantel@schools.gov.sg |
 | Mrs Angie Choong | chong_sou_foong@schools.gov.sg |
 | Ms Elizabeth Mohan | elizabeth_rathi_mohan@schools.gov.sg |
-
+| Ms Tong Tsz Ching | tong_tsz_ching@schools.gov.sg |
 
 <br>
 
