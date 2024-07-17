@@ -63,7 +63,7 @@ They play the game through a series of healthy and happy activities, which becom
 | Ms Chantel Cheong | cheong_wen_yee_chantel@schools.gov.sg |
 | Mrs Angie Choong | chong_sou_foong@schools.gov.sg |
 | Ms Elizabeth Mohan | elizabeth_rathi_mohan@schools.gov.sg |
-| Ms Tong Tsz Ching | tong_tsz_ching@schools.gov.sg |
+| Mdm Tong Tsz Ching | tong_tsz_ching@schools.gov.sg |
 
 <br>
 
