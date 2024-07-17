@@ -56,8 +56,8 @@ Netball provides a unique opportunity for both physical and moral development an
 
 | Teacher-in-charge | Email |
 | --- | --- |
-| Ms Patricia Koh (Overall teacher in-charge) | koh_yi_guan_patricia@schools.gov.sg |
-| Mrs Rachel Tan&nbsp; | lee_kim_lin_rachel@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
+| Mrs Christina Loh (Overall teacher in-charge) | chee_mei_lan_christina@schools.gov.sg |
+| Mdm Noelle Lee&nbsp; | lee_meiting_noelle_francesca@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
 | Mrs Sheon Wee | &nbsp;lee_sze_yuin@schools.gov.sg |
 | Mdm Wang Ying | wang_ying@schools.gov.sg  
  | Mdm Chin Yoke Koon | chin_yoke_koon@schools.gov.sg  
