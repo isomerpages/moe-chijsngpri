@@ -51,7 +51,7 @@ Netball provides a unique opportunity for both physical and moral development an
 | Mdm Noelle Lee&nbsp; | lee_meiting_noelle_francesca@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
 | Mrs Ruth Quek | &nbsp;tan_wee_siew_ruth@schools.gov.sg |
 | Ms Eileen Low | low_wei_ling_eileen@schools.gov.sg  
- | Ms Peng Ming Ming | peng_ming_ming@schools.gov.sg  
+ | Mdm Peng Ming Ming | peng_ming_ming@schools.gov.sg  
  |
 
 ### **CCA Schedule**
