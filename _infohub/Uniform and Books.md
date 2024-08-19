@@ -21,7 +21,7 @@ variant: markdown
 | May     | 06, 17     |
 | Jul     | 02, 15     |
 | Aug     | 05, 19     |
-| Sept     | 02, 16     |
+| Sept     | 09, 23     |
 | Oct     | 07, 21     |
 
 **Operating Hours:**   9.00 am to 3 pm<br>
