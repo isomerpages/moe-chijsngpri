@@ -74,12 +74,5 @@ variant: markdown
 <tr>	
 </tr>
 <tr>
-	<td style="text-align: center;">11</td>
-<td style="text-align: center;">Application Form 2026<br>(From 1 July to 30 September 2025)</td>
-<td style="text-align: center;"><a href="https://form.gov.sg/665d49e4eec5ce17a5459bcd">Link</a></td>
-</tr>
-<tr>	
-</tr>
-<tr>
 <td style="text-align: center;">
 </td></tr></tbody></table>
