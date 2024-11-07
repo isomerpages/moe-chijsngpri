@@ -16,7 +16,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">1</td>
 <td style="text-align: center;">Application for MOE Financial Assistance Scheme</td>
-<td style="text-align: center;"><a href="/files/MOE_FAS_Application_Form_2024.pdf">Download</a></td>
+<td style="text-align: center;"><a href="/files/MOE_FAS_Application_Form_2025.pdf">Download</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">2</td>
@@ -70,6 +70,13 @@ variant: markdown
 <td style="text-align: center;">10</td>
 <td style="text-align: center;">ECHA Online Nomination Form<br>(for Nomination by Parents, Relatives, Others)</td>
 <td style="text-align: center;"><a href="https://forms.moe.edu.sg/forms/oOkGNg">Link</a></td>
+</tr>
+<tr>	
+</tr>
+<tr>
+	<td style="text-align: center;">11</td>
+<td style="text-align: center;">IJHCC Student Care service online registration form</td>
+<td style="text-align: center;"><a href="https://forms.office.com/r/m3dQJAwNAU">Link</a></td>
 </tr>
 <tr>	
 </tr>
