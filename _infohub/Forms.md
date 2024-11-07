@@ -16,7 +16,7 @@ variant: markdown
 <tr>
 <td style="text-align: center;">1</td>
 <td style="text-align: center;">Application for MOE Financial Assistance Scheme</td>
-<td style="text-align: center;"><a href="[](/files/MOE_FAS_Application_Form_2025.pdf)">Download</a></td>
+<td style="text-align: center;"><a href="/files/MOE_FAS_Application_Form_2025.pdf">Download</a></td>
 </tr>
 <tr>
 <td style="text-align: center;">2</td>
