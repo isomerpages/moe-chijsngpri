@@ -74,5 +74,12 @@ variant: markdown
 <tr>	
 </tr>
 <tr>
+	<td style="text-align: center;">11</td>
+<td style="text-align: center;">IJHCC Student Care service online registration form</td>
+<td style="text-align: center;"><a href="https://forms.office.com/r/m3dQJAwNAU">Link</a></td>
+</tr>
+<tr>	
+</tr>
+<tr>
 <td style="text-align: center;">
 </td></tr></tbody></table>
