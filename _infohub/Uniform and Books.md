@@ -8,24 +8,24 @@ variant: markdown
 
 ##### **School Uniform / PE Attire Sale in School**
 
-**2024 Sales Date (SNGS)**
+**2025 Sales Date (SNGS)**
 
 
 
 | Month | Dates |
 | -------- | -------- |
-| Jan     | 02, 15     |
-| Feb     | 05, 19    |
-| Mar     | 06(Wed), 18     |
-| Apr     | 01, 15     |
-| May     | 06, 17     |
-| Jul     | 02, 15     |
-| Aug     | 05, 19     |
-| Sept     | 09, 23     |
-| Oct     | 07, 21     |
+| Jan     | 02, 13     |
+| Feb     | 17    |
+| Mar     | 10, 24  |
+| Apr     | 07, 21     |
+| May     | 05, 19     |
+| Jul     | 07, 21     |
+| Aug     | 04, 18     |
+| Sept     | 15, 29     |
+| Oct     | 13, 27     |
 
 **Operating Hours:**   9.00 am to 3 pm<br>
-**Walk-in purchase:** 2 pm to 3 pm<br>
+**Walk-in purchase:** After 2 pm<br>
 **Sale Location:**  School Canteen<br>
 
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
@@ -46,10 +46,10 @@ Sunday, Public Holiday and Eve of Public Holiday: Closed<br><br>
 Website:  https://www.pacificbookstores.com<br>Email: sales@pacificbookstores.com<br>
 (Online Order Facility, Payment by Credit Card)<br><br>
 **School bookshop (canteen)**<br>
-Ms Fanny  (Tel: 93654382  whatsApp text only)<br><br>
+Ms Siew Chin  (Tel: 93654382  whatsApp text only)<br><br>
 **Operating Hours:**<br>
 Mon to Fri: 8.00 am - 3.00 pm<br>(except exam season and school holidays)<br>
 
 
-**For 2024 Book lists, please click below**<br><br>
-[Primary 1](/files/P1_2024.pdf)<br>[Primary 2](/files/P2_2024.pdf)<br>[Primary 3](/files/P3_2024.pdf)<br>[Primary 4](/files/P4_2024.pdf)<br>[Primary 5-Option 1](/files/P5_2024_Option_1.pdf)<br>[Primary 5-Option 2](/files/P5_2024_Option_2.pdf)<br>[Primary 6](/files/P6_2024.pdf)
+**For 2025 Book lists, please click below**<br><br>
+[Primary 1](/files/Primary_1_2025.pdf)<br>[Primary 2](/files/Primary_2_2025.pdf)<br>[Primary 3](/files/Primary_3_2025.pdf)<br>[Primary 4](/files/Primary_4_2025.pdf)<br>[Primary 5-Option 1](/files/Primary_5_2025___Option_1.pdf)<br>[Primary 5-Option 2](/files/Primary_5_2025___Option_2.pdf)<br>[Primary 6](/files/Primary_6_2025.pdf)
