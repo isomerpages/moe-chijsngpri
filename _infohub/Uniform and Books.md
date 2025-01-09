@@ -46,7 +46,7 @@ Sunday, Public Holiday and Eve of Public Holiday: Closed<br><br>
 Website:  https://www.pacificbookstores.com<br>Email: sales@pacificbookstores.com<br>
 (Online Order Facility, Payment by Credit Card)<br><br>
 **School bookshop (canteen)**<br>
-Ms Fanny  (Tel: 93654382  whatsApp text only)<br><br>
+Ms Siew Chin  (Tel: 93654382  whatsApp text only)<br><br>
 **Operating Hours:**<br>
 Mon to Fri: 8.00 am - 3.00 pm<br>(except exam season and school holidays)<br>
 
