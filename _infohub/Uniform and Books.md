@@ -25,7 +25,7 @@ variant: markdown
 | Oct     | 13, 27     |
 
 **Operating Hours:**   9.00 am to 3 pm<br>
-**Walk-in purchase:** 2 pm to 3 pm<br>
+**Walk-in purchase:** After 2 pm<br>
 **Sale Location:**  School Canteen<br>
 
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
