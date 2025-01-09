@@ -52,4 +52,4 @@ Mon to Fri: 8.00 am - 3.00 pm<br>(except exam season and school holidays)<br>
 
 
 **For 2025 Book lists, please click below**<br><br>
-[Primary 1](/files/P1_2024.pdf)<br>[Primary 2](/files/P2_2024.pdf)<br>[Primary 3](/files/P3_2024.pdf)<br>[Primary 4](/files/P4_2024.pdf)<br>[Primary 5-Option 1](/files/P5_2024_Option_1.pdf)<br>[Primary 5-Option 2](/files/P5_2024_Option_2.pdf)<br>[Primary 6](/files/P6_2024.pdf)
+[Primary 1](/files/Primary_1_2025.pdf)<br>[Primary 2](/files/Primary_2_2025.pdf)<br>[Primary 3](/files/Primary_3_2025.pdf)<br>[Primary 4](/files/Primary_4_2025.pdf)<br>[Primary 5-Option 1](/files/Primary_5_2025___Option_1.pdf)<br>[Primary 5-Option 2](/files/Primary_5_2025___Option_2.pdf)<br>[Primary 6](/files/Primary_6_2025.pdf)
