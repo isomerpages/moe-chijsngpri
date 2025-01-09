@@ -8,21 +8,21 @@ variant: markdown
 
 ##### **School Uniform / PE Attire Sale in School**
 
-**2024 Sales Date (SNGS)**
+**2025 Sales Date (SNGS)**
 
 
 
 | Month | Dates |
 | -------- | -------- |
-| Jan     | 02, 15     |
-| Feb     | 05, 19    |
-| Mar     | 06(Wed), 18     |
-| Apr     | 01, 15     |
-| May     | 06, 17     |
-| Jul     | 02, 15     |
-| Aug     | 05, 19     |
-| Sept     | 09, 23     |
-| Oct     | 07, 21     |
+| Jan     | 02, 13     |
+| Feb     | 17    |
+| Mar     | 10, 24  |
+| Apr     | 07, 21     |
+| May     | 05, 19     |
+| Jul     | 07, 21     |
+| Aug     | 04, 18     |
+| Sept     | 15, 29     |
+| Oct     | 13, 27     |
 
 **Operating Hours:**   9.00 am to 3 pm<br>
 **Walk-in purchase:** 2 pm to 3 pm<br>
