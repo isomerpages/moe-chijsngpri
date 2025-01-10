@@ -31,7 +31,7 @@ variant: markdown
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
 Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
 Lunch Break: 1.00 pm to 2.00 pm<br>
-Sunday, Public Holiday and Eve of Public Holiday: Closed<br><br>
+Sunday, Public Holiday : Closed<br><br>
 **Online Shop**<br>
 <a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
 
