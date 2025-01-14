@@ -28,11 +28,11 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
   
 ##### Overview of CHIJ St Nicholas Girls' School (Primary Section) SEXUALITY EDUCATION Programme for 2025
 
-4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
+4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br>
 
-5\. The subjects that incorporate topics on sexuality include:<br><br>
-a) Science<br>
-b) Character and Citizenship Education (CCE)
+5.	The subjects that incorporate topics on sexuality include:<br>
+a.	Science <br>
+b.	Character and Citizenship Education (CCE)
 
 **<u>Sexuality Education Lessons</u>**
 
