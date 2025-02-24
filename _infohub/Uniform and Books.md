@@ -34,6 +34,12 @@ Lunch Break: 1.00 pm to 2.00 pm<br>
 Sunday, Public Holiday : Closed<br><br>
 **Online Shop**<br>
 <a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
+##### **Note:** 
+Online shop will be temporarily closed from **25 February 2025**, 
+and our Ubi retail outlet will be closed 
+from **27 February to 5 March 2025** due to our annual stock take.
+
+Our operations will resume as usual from **6 March 2025**.
 
 ##### **Hoodie and Cardigan:**
 
