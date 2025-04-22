@@ -18,7 +18,7 @@ variant: markdown
 | Feb     | 17    |
 | Mar     | 10, 24  |
 | Apr     | 07, 21     |
-| May     | 05, 19     |
+| May     | 06 (Tue), 19     |
 | Jul     | 07, 21     |
 | Aug     | 04, 18     |
 | Sept     | 15, 29     |
@@ -27,6 +27,8 @@ variant: markdown
 **Operating Hours:**   9.00 am to 3 pm<br>
 **Walk-in purchase:** After 2 pm<br>
 **Sale Location:**  School Canteen<br>
+
+**Parent Entry timing:** After 2 pm<br>
 
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
 Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
