@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /primary/learning-at-st-nicks/maths/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/learning-at-stnicks.jpg)
 
@@ -11,7 +12,7 @@ A reflective learner, An effective problem solver, A skilful communicator
 
 ##### **Approach**
   
-Develop every St Nick girl to be a self-directed learner, to be able to think critically and solve problems creatively.  
+Develop every St Nicks girl to be a self-directed learner, to be able to think critically and solve problems creatively.  
   
 ##### **Our Signature Programmes**
 
