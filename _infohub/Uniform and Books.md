@@ -19,16 +19,16 @@ variant: markdown
 | Mar     | 10, 24  |
 | Apr     | 07, 21     |
 | May     | 06 (Tue), 19     |
-| Jul     | 07, 21     |
+| Jul     | 08, 21     |
 | Aug     | 04, 18     |
 | Sept     | 15, 29     |
 | Oct     | 13, 27     |
 
-**Operating Hours:**   9.00 am to 3 pm<br>
-**Walk-in purchase:** After 2 pm<br>
+**Operating Hours:**   9.00 am to 3.00 pm<br>
+**Walk-in purchase:** After 2.00 pm<br>
 **Sale Location:**  School Canteen<br>
 
-**Parent Entry timing:** After 2 pm<br>
+**Parent Entry timing:** After 2.00 pm<br>
 
 **Our Ubi Outlet  (Tel 6747 8037)**<br>
 Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
@@ -36,12 +36,7 @@ Lunch Break: 1.00 pm to 2.00 pm<br>
 Sunday, Public Holiday : Closed<br><br>
 **Online Shop**<br>
 <a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
-##### **Note:** 
-Online shop will be temporarily closed from **25 February 2025**, 
-and our Ubi retail outlet will be closed 
-from **27 February to 5 March 2025** due to our annual stock take.
 
-Our operations will resume as usual from **6 March 2025**.
 
 ##### **Hoodie and Cardigan:**
 
