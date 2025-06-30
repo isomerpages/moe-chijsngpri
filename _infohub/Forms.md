@@ -40,8 +40,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">6</td>
-<td style="text-align: center;">Application form for Leave of Absence&nbsp;</td>
-<td style="text-align: center;"><a href="https://go.gov.sg/loa-application">Link</a>&nbsp;</td>
+<td style="text-align: center;">Leave of Absence (LOA) Application Form link&nbsp;</td>
+<td style="text-align: center;"><a href="https://form.gov.sg/6833d9aeb9c0123c18971aaa">Link</a>&nbsp;</td>
 </tr>
 <tr>	
 </tr>
@@ -77,6 +77,13 @@ variant: markdown
 	<td style="text-align: center;">11</td>
 <td style="text-align: center;">IJHCC Student Care service online registration form</td>
 <td style="text-align: center;"><a href="https://forms.office.com/r/m3dQJAwNAU">Link</a></td>
+</tr>
+<tr>	
+</tr>
+<tr>
+		<td style="text-align: center;">12</td>
+<td style="text-align: center;">Waiting list application FormSG link</td>
+<td style="text-align: center;"><a href="https://form.gov.sg/6848fc0fee503b2115a9f2ed">Link</a></td>
 </tr>
 <tr>	
 </tr>
