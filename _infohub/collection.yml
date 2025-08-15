@@ -2,11 +2,11 @@ collections:
   infohub:
     output: true
     order:
-      - Advertisement for School Bus.md
       - Pri Pupils' and Parents' ICT Google Site.md
       - Admissions.md
       - Uniform and Books.md
       - Bus Services.md
+      - Advertisement for School Bus.md
       - Forms.md
       - Pupil Services.md
       - School Calendar.md
