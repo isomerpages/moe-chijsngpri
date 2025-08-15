@@ -2,7 +2,6 @@ collections:
   infohub:
     output: true
     order:
-      - Bus/.keep
       - Pri Pupils' and Parents' ICT Google Site.md
       - Admissions.md
       - Uniform and Books.md
