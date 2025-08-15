@@ -2,6 +2,7 @@ collections:
   infohub:
     output: true
     order:
+      - Advertisement for School Bus.md
       - Pri Pupils' and Parents' ICT Google Site.md
       - Admissions.md
       - Uniform and Books.md
