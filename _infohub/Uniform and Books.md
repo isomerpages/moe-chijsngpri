@@ -14,11 +14,11 @@ variant: markdown
 
 | Month | Dates |
 | -------- | -------- |
-| Jan     | 02, 13     |
-| Feb     | 17    |
-| Mar     | 10, 24  |
-| Apr     | 07, 21     |
-| May     | 06 (Tue), 19     |
+| Oct      | 13, 27    |
+| Nov     |  21 (P1 ONLY)    |
+| Dec   |  2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels) |
+| Dec   | 30 (All Levels) (9am – 12pm)   |
+| Jan   | 2, 15    |
 | Jul     | 08, 21     |
 | Aug     | 04, 18     |
 | Sept     | 15, 29     |
