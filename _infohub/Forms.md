@@ -30,7 +30,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="text-align: center;">4</td>
-<td style="text-align: center;">Application for Opportunity Fund (Of) Subsidy</td>
+<td style="text-align: center;">Application for Opportunity Fund (OF) Subsidy</td>
 <td style="text-align: center;"><a href="/files/Application_for_OF_Subsidy.pdf">Download</a></td>
 </tr>
 <tr>
