@@ -14,15 +14,11 @@ variant: markdown
 
 | Month | Dates |
 | -------- | -------- |
-| Jan     | 02, 13     |
-| Feb     | 17    |
-| Mar     | 10, 24  |
-| Apr     | 07, 21     |
-| May     | 06 (Tue), 19     |
-| Jul     | 08, 21     |
-| Aug     | 04, 18     |
-| Sept     | 15, 29     |
-| Oct     | 13, 27     |
+| Oct      | 13, 27    |
+| Nov     |  21 (P1 ONLY)    |
+| Dec   |  2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels) <br>30 (All Levels) (9am – 12pm) |
+| Jan   | 2, 15    |
+
 
 **Operating Hours:**   9.00 am to 3.00 pm<br>
 **Walk-in purchase:** After 2.00 pm<br>
@@ -35,8 +31,9 @@ Mon-Sat: 10:00 am-1:00 pm, 2:00 pm-5:45 pm<br>
 Lunch Break: 1.00 pm to 2.00 pm<br>
 Sunday, Public Holiday : Closed<br><br>
 **Online Shop**<br>
-<a href="http://www.shanghai-uniforms.com/">www.shanghai-uniforms.com</a>
-
+<a href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a>
+<br>You are strongly encouraged to purchase your uniform online before **15 Dec 2025** to ensure that you receive your uniform before school reopens.
+<br>Please bring your own bag for uniform purchases, should a bag be needed, 10 cents per bag will apply.
 
 ##### **Hoodie and Cardigan:**
 
