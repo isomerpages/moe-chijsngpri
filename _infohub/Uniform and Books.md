@@ -16,8 +16,7 @@ variant: markdown
 | -------- | -------- |
 | Oct      | 13, 27    |
 | Nov     |  21 (P1 ONLY)    |
-| Dec   |  2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels) |
-| Dec   | 30 (All Levels) (9am – 12pm)   |
+| Dec   |  2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels) <br>30 (All Levels) (9am – 12pm) |
 | Jan   | 2, 15    |
 
 
@@ -33,7 +32,8 @@ Lunch Break: 1.00 pm to 2.00 pm<br>
 Sunday, Public Holiday : Closed<br><br>
 **Online Shop**<br>
 <a href="https://shanghai-uniforms.sg/">https://shanghai-uniforms.sg/</a>
-
+<br>You are strongly encouraged to purchase your uniform online before **15 Dec 2025** to ensure that you receive your uniform before school reopens.
+<br>Please bring your own bag for uniform purchases, should a bag be needed, 10 cents per bag will apply.
 
 ##### **Hoodie and Cardigan:**
 
