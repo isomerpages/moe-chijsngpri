@@ -44,7 +44,7 @@ Sunday, Public Holiday : Closed<br><br>
 ##### **Textbooks**
 **Pacific Book Stores Pte Ltd**<br>
 Website:  https://www.pacificbookstores.com<br>Email: sales@pacificbookstores.com<br>
-(Online Order Facility, Payment by Credit Card)<br><br>
+(Online Order Facility, Payment by Credit Card or PayNow)<br><br>
 **School bookshop (canteen)**<br>
 Ms Siew Chin  (Tel: 93654382  whatsApp text only)<br><br>
 **Operating Hours:**<br>
