@@ -8,7 +8,7 @@ variant: markdown
 
 ##### **School Uniform / PE Attire Sale in School**
 
-**2025 Sales Date (SNGS)**
+**2025/2026 Sales Date (SNGS)**
 
 
 
