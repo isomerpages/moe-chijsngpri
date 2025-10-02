@@ -8,7 +8,7 @@ variant: markdown
 
 <h4><strong>J-LINK SERVICES</strong></h4>
 <p>Contact person : Anna Lye<br>Contact no  : 9455 0531&nbsp;<br></p>
-<h4><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE 2022</strong></h4> 
+<h4><strong>CHIJ ST NICHOLAS GIRLS' SCHOOL: BUS FARE STRUCTURE (TILL 31 DEC 2025)</strong></h4> 
 <table width="654">
 <tbody>
 <tr>
