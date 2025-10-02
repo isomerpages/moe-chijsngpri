@@ -356,10 +356,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>NEW SCHOOL BUS FARE (WITH EFFECT FROM 1 JAN 2026):</strong></h4>
-<p>A. Not to Exceed Price for sending students from their Drop-off Address,
-Pickup Address or Common Location (as the case may be) to School and vice
-versa [expected arrival time at school from 6.45am to 7.00am and expected
-departure time from school from 1.40pm to 1.50pm].</p>
+<p>A.<strong><u> </u></strong><u>Not to Exceed Price</u> for sending students
+from their Drop-off Address, Pickup Address or Common Location (as the
+case may be) to School and vice versa [expected arrival time at school
+from 6.45am to 7.00am and expected departure time from school from 1.40pm
+to 1.50pm].</p>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
@@ -456,8 +457,8 @@ departure time from school from 1.40pm to 1.50pm].</p>
 </tr>
 </tbody>
 </table>
-<p>B. Not to Exceed Price for After School Services [expected departure from
-school by 4.20pm].</p>
+<p>B.<strong> </strong><u>Not to Exceed Price</u> for After School Services
+[expected departure from school by 4.20pm].</p>
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -517,8 +518,8 @@ school by 4.20pm].</p>
 </tr>
 </tbody>
 </table>
-<p>Please submit the Request for Services form CHIJ St. Nicholas Girls' School
-Request for School Bus Services to the School Bus Operator latest by <strong>20 Dec 2025</strong>.</p>
+<p>Please submit the Request for Services form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdB5Lmdag1_hitSqa1GFtdkqGa03tA2S2BlZQE7LeggNl9X6A/viewform" rel="noopener nofollow" target="_blank">CHIJ St. Nicholas Girls' School Request for School Bus Services</a> to
+the School Bus Operator latest by <strong>20 Dec 2025</strong>.</p>
 <h4><strong>Note</strong></h4>
 <p>Monday and Thursday</p>
 <p>- Normal school hours; dismissal at 1.40pm or late trip home at 4pm.
