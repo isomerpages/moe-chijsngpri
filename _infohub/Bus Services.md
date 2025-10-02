@@ -287,7 +287,7 @@ variant: markdown
 </tbody>
 </table>
 
-NEW SCHOOL BUS FARE (WITH EFFECT FROM 1 JAN 2026):
+<h4><strong>NEW SCHOOL BUS FARE (WITH EFFECT FROM 1 JAN 2026):</strong></h4>
 
 A.	Not to Exceed Price for sending students from their Drop-off Address, Pickup Address or Common Location (as the case may be) to School and vice versa 
 [expected arrival time at school from 6.45am to 7.00am and expected departure time from school from 1.40pm to 1.50pm].
@@ -308,8 +308,6 @@ Up to 2km	$7	$6
 &gt;4 – 6km	$10	$10
 
 Please submit the Request for Services form CHIJ St. Nicholas Girls' School Request for School Bus Services to the School Bus Operator latest by 20 Dec 2025. 
-
-
 
 
 <h4><strong>Note</strong></h4>
