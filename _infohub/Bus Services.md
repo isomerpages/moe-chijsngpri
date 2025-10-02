@@ -356,11 +356,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>NEW SCHOOL BUS FARE (WITH EFFECT FROM 1 JAN 2026):</strong></h4>
-<p>A.<strong><u> Not to Exceed Price</u></strong> for sending students from
-their Drop-off Address, Pickup Address or Common Location (as the case
-may be) to School and vice versa [expected arrival time at school from
-6.45am to 7.00am and expected departure time from school from 1.40pm to
-1.50pm].</p>
+<p>A.<strong><u> </u></strong><u>Not to Exceed Price</u> for sending students
+from their Drop-off Address, Pickup Address or Common Location (as the
+case may be) to School and vice versa [expected arrival time at school
+from 6.45am to 7.00am and expected departure time from school from 1.40pm
+to 1.50pm].</p>
 <p><strong>&nbsp;</strong>
 </p>
 <table style="minWidth: 125px">
@@ -457,7 +457,7 @@ may be) to School and vice versa [expected arrival time at school from
 </tr>
 </tbody>
 </table>
-<p>B.<strong> <u>Not to Exceed Price</u></strong> for After School Services
+<p>B.<strong> </strong><u>Not to Exceed Price</u> for After School Services
 [expected departure from school by 4.20pm].</p>
 <p>&nbsp;</p>
 <table style="minWidth: 75px">
