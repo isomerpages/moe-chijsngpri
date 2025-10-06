@@ -81,12 +81,4 @@ variant: markdown
 <tr>	
 </tr>
 <tr>
-		<td style="text-align: center;">12</td>
-<td style="text-align: center;">Waiting list application Form</td>
-<td style="text-align: center;"><a href="https://form.gov.sg/6848fc0fee503b2115a9f2ed">Link</a></td>
-</tr>
-<tr>	
-</tr>
-<tr>
-<td style="text-align: center;">
-</td></tr></tbody></table>
+	</tr></tbody></table>
