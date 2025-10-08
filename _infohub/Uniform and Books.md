@@ -86,7 +86,7 @@ ensure that you receive your uniform before school reopens.
 <p>Sale Location: School Canteen</p>
 <p>Parent Entry Timing: After 2.00pm</p>
 <p>Year-End School Holiday Collection: Items available for collection is
-based on online bookings made through our website <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a> 
+based on online bookings made through our website <a href="https://www.pacificbookstores.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 </p>
 <p>(Payment can be made by Credit Card or PayNow)</p>
 <p>For enquiries, email: sales@pacificbookstores.com.</p>
