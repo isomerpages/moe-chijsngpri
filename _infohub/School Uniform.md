@@ -102,41 +102,80 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oct</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>13, 27</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Nov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>21 (P1 ONLY)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dec</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels)
-<br>30 (All Levels) (9am – 12pm)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2, 15</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6, 27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10, 24</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8, 29</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3, 24</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7, 21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sep</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3, 25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9, 23</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Operating Hours:</strong> 9.00 am to 3.00 pm
-<br><strong>Walk-in purchase:</strong> After 2.00 pm
+<br><strong>Walk-in purchase/Parent Entry timing:</strong> After 2.00 pm
 <br><strong>Sale Location:</strong> School Canteen
 <br>
 </p>
