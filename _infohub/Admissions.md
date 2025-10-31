@@ -2,6 +2,7 @@
 title: Admissions
 permalink: /primary/admissions/
 description: ""
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/info-hub.jpg)
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="margin-left: auto; margin-right: auto;">
@@ -31,3 +32,6 @@ description: ""
 <p><strong>Distance Check</strong><br>You may refer to the Singapore Land Authority OneMap SchoolQuery Service to determine your home-school distance&nbsp;: <a href="https://www.onemap.gov.sg/main/v2/schoolquery">https://www.onemap.gov.sg/main/v2/schoolquery</a></p>
 <p><strong>Vacancies and balloting data</strong></p>
 For more information on the preceding year's vacancies and balloting data, please visit : &nbsp;<a href="https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data">https://www.moe.gov.sg/primary/p1-registration/past-vacancies-and-balloting-data</a>
+
+**Wait List Application**<p></p>
+Applications open from July to September 2026 for 2027 admission.
