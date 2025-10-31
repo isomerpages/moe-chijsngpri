@@ -8,7 +8,83 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/info-hub.jpg">
 </div>
 <h5><strong>School Uniform / PE Attire Sale in School</strong></h5>
-<p><strong>2025/2026 Sales Date (SNGS)</strong>
+<p><strong>2025 Sales Date</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date(s)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13, 27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nov</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 (P1 ONLY)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dec</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2, 3, 4, 5, 9, 10, 11, 15, 16, 17, 22, 23 (All Levels)
+<br>
+<br>30 (All Levels) (9am – 12pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Operating Hours: 9:00 am – 3:00 pm</p>
+<p>(9:00 am – 12:00 pm on 30 Dec 2025)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Sale Location: School Canteen</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>2026 Sales Date (SNGS)</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
