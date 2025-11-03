@@ -14,7 +14,10 @@ collection is based on online bookings made through our website <a href="https:/
 </p>
 <p>(Payment can be made by Credit Card or PayNow)</p>
 <p>For enquiries, email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>.</p>
-<p><strong>For 2025 Book lists, please click below</strong>
+<p><strong>For 2026 Book lists, please click below</strong>
+</p>
+<p></p>
+<p>
 <br><a href="/files/Primary_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
 <br><a href="/files/Primary_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
 <br><a href="/files/Primary_3_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
@@ -22,6 +25,4 @@ collection is based on online bookings made through our website <a href="https:/
 <br><a href="/files/Primary_5_2025___Option_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5-Option 1</a>
 <br><a href="/files/Primary_5_2025___Option_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5-Option 2</a>
 <br><a href="/files/Primary_6_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
-</p>
-<p><strong>For 2025 Book lists, please click below</strong>
 </p>
