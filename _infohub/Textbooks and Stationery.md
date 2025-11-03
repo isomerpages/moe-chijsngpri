@@ -14,14 +14,36 @@ collection is based on online bookings made through our website <a href="https:/
 </p>
 <p>(Payment can be made by Credit Card or PayNow)</p>
 <p>For enquiries, email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>.</p>
-<p><strong>For 2025 Book lists, please click below</strong>
-<br><a href="/files/Primary_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1</a>
-<br><a href="/files/Primary_2_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2</a>
-<br><a href="/files/Primary_3_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3</a>
-<br><a href="/files/Primary_4_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4</a>
-<br><a href="/files/Primary_5_2025___Option_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5-Option 1</a>
-<br><a href="/files/Primary_5_2025___Option_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5-Option 2</a>
-<br><a href="/files/Primary_6_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6</a>
+<p><strong>For 2026 Book lists, please click below</strong>
 </p>
-<p><strong>For 2025 Book lists, please click below</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/P1_2026.pdf" rel="noopener nofollow" target="_blank">Primary 1</a>
 </p>
+</li>
+<li>
+<p><a href="/files/P2_2026.pdf" rel="noopener nofollow" target="_blank">Primary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P3_2026.pdf" rel="noopener nofollow" target="_blank">Primary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P4_2026.pdf" rel="noopener nofollow" target="_blank">Primary 4</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P5__Opt_1__2026.pdf" rel="noopener nofollow" target="_blank">Primary 5 - Option 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P5__Opt_2__2026.pdf" rel="noopener nofollow" target="_blank">Primary 5 - Option 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P6_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6</a>
+</p>
+</li>
+</ul>
+<p></p>
