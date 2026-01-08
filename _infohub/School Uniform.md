@@ -30,7 +30,7 @@ variant: tiptap
 <p>Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2, 15</p>
+<p>15</p>
 </td>
 </tr>
 <tr>
