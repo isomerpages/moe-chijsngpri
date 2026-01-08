@@ -177,7 +177,7 @@ to 1.50pm].</p>
 </table>
 <p>Please submit the Request for Services form <a href="https://docs.google.com/forms/d/e/1FAIpQLSdB5Lmdag1_hitSqa1GFtdkqGa03tA2S2BlZQE7LeggNl9X6A/viewform" rel="noopener nofollow" target="_blank">CHIJ St. Nicholas Girls' School Request for School Bus Services</a> to
 the School Bus Operator latest by <strong>20 Dec 2025</strong>.</p>
-<h4><strong>Note</strong></h4>
+<h4><strong>Note:</strong></h4>
 <p>Monday and Thursday</p>
 <p>- Normal school hours; dismissal at 1.40pm or late trip home at 4pm.
 <br>- Class level Supplementary or Enrichment lessons will be scheduled on
