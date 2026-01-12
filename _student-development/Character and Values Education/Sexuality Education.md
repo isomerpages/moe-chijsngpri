@@ -42,7 +42,7 @@ b.	Character and Citizenship Education (CCE)
 
 **At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons will be taught in 2026:**<br><br>
 
-<div style="text-align:center"><b>2025 Sexuality Education Lessons in CCE <br>Primary 5</b></div><br>
+<div style="text-align:center"><b>2026 Sexuality Education Lessons in CCE <br>Primary 5</b></div><br>
 
 | CCE (FTGP) Theme | Lesson Title / Duration | Lesson Overview | Time Period (e.g. Term 1 Week 2) |
 | -------- | -------- | -------- | -------- |
