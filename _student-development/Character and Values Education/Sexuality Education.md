@@ -66,4 +66,4 @@ b.	Character and Citizenship Education (CCE)
 
 9\. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also available  [here](/files/Student%20Development/ANNEX_A__parent_s_opt_out_form_2025.pdf). The completed opt-out form is to be submitted by 23 January 2026.
 
-10\. Parents can contact the school at  +65 6454 9698 for discussion or to seek clarification about the school’s Sexuality Education programme.
+10\. Parents can contact the school at at +65 6454 9698 for discussion or to seek clarification about the school’s Sexuality Education programme.
