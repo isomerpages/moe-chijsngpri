@@ -15,7 +15,7 @@ variant: markdown
 2.	The Goals of Sexuality Education are:<br>
 (a)	Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships. <br><br>
 (b)	Guide students to make wise, informed and responsible decisions on sexuality matters.<br><br>
-(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society. <br><br>
+(c)	Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.<br><br>
 
 3.	The **Key Messages** of Sexuality Education are:<br>
 (a)	Love and respect yourself as you love and respect others;<br><br>
