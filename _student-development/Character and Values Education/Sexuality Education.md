@@ -40,7 +40,7 @@ b.	Character and Citizenship Education (CCE)
 
 7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.&nbsp;
 
-**At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons will be taught in 2026:**<br><br>
+**At CHIJ St Nicholas Girls’ School (Primary Section), the following Sexuality Education lessons will be taught in 2026:**<br>
 
 <div style="text-align:center"><b>2026 Sexuality Education Lessons in CCE <br>Primary 5</b></div><br>
 
@@ -50,14 +50,14 @@ b.	Character and Citizenship Education (CCE)
 |      | Did You Know?<br>(60 min)     |This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘**Stop-Think-Do**’.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.     | Term 3 Week 8     |
 |      | Keeping Myself Safe<br>60mins     | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Term 3 Week 9     |
 
-<br><br>
+<br>
 <div style="text-align:center"><b>2026 Sexuality Education Lessons in CCE <br>Primary 6</b></div><br>
 
 | CCE (FTGP) Theme | Lesson Title / Duration | Lesson Overview | Time Period (e.g. Term 1 Week 2) |
 | -------- | -------- | -------- |-------- |
 | Growing Years| Are We More than Friends? Lesson 1 (60 min)| In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends. | Term 4 Week 4 |
 |  | Are We More than Friends? Lesson 2 (60 min) | In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other. | Term 4 Week 5 |
-|   | <br><br>|  |	
+|   | <br>|  |	
 
 
 **Information for Parents**  
