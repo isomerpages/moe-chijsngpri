@@ -51,7 +51,7 @@ b.	Character and Citizenship Education (CCE)
 |      | Keeping Myself Safe<br>60mins     | In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.  | Term 3 Week 9     |
 
 <br><br>
-<div style="text-align:center"><b>2025 Sexuality Education Lessons in CCE <br>Primary 6</b></div><br>
+<div style="text-align:center"><b>2026 Sexuality Education Lessons in CCE <br>Primary 6</b></div><br>
 
 | CCE (FTGP) Theme | Lesson Title / Duration | Lesson Overview | Time Period (e.g. Term 1 Week 2) |
 | -------- | -------- | -------- |-------- |
