@@ -70,7 +70,7 @@ variant: tiptap
 <p>Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3, 24</p>
+<p>1, 24</p>
 </td>
 </tr>
 <tr>
