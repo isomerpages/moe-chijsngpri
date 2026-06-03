@@ -30,10 +30,9 @@ How Do I Qualify for the CCA Programme?
 <ul>
 <li>National School Games Artistic Gymnastics Championships</li>
 <li>School-Based performances
-Participants are selected by the teachers-in-charge and coaches.</li>
-<li>Singapore Gymnastics Open Championships</li>
-<li>SNG In-House Competition</li>	
-</ul>
+<p><em>Participants are selected by the teachers-in-charge and coaches.</em></p>
+
+
 
 <h5><strong>TEACHERS IN-CHARGE</strong></h5>
 <table>
@@ -43,20 +42,21 @@ Participants are selected by the teachers-in-charge and coaches.</li>
 <th style="text-align: center;">EMAIL</th>
 </tr>
 <tr>
-<td style="text-align: center;" width="223">Ms Lee Hwee Ing</td>
-<td style="text-align: right;" width="269">lee_hwee_ing@schools.gov.sg</td>
+<td style="text-align: center;" width="223">Mrs Lee Pei Ting (Semester 1 overall in-charge)</td>
+<td style="text-align: right;" width="269">lee_pei_ting@schools.gov.sg</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="223">Mdm Tong Tsz Ching
+(Semester 2 overall in-charge)</td>
+<td style="text-align: right;" width="269">tong_tsz_ching@schools.gov.sg</td>
 </tr>
 <tr>
 <td style="text-align: center;" width="223">Ms Brenda Wong</td>
 <td style="text-align: right;" width="269">wong_pek_chin_brenda@schools.gov.sg</td>
 </tr>
-<tr>
-<td style="text-align: center;" width="223">Mrs Gomathi Chakz</td>
-<td style="text-align: right;" width="269">gomathi_a@schools.gov.sg</td>
-</tr>
 	<tr>
-<td style="text-align: center;" width="223">Mdm Lee Pei Ting</td>
-<td style="text-align: right;" width="269">lee_pei_ting@schools.gov.sg</td>
+<td style="text-align: center;" width="223">Mdm Chay Kit See</td>
+<td style="text-align: right;" width="269">chay_kit_see@schools.gov.sg</td>
 </tr>
 </tbody>
 </table>
@@ -75,4 +75,4 @@ Participants are selected by the teachers-in-charge and coaches.</li>
 <br>
 
 ![](/images/04%20CCAs/Agym2023_01.png)<br>
-![](/images/04%20CCAs/Agym2023_02.png)
+![](/images/04%20CCAs/Agym2023_02.png)</li></ul>
