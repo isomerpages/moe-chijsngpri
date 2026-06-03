@@ -64,7 +64,7 @@ How Do I Qualify for the CCA Programme?
 
 | DAY | TIME | VENUE |
 | --- | --- | --- |
-| Monday&nbsp;(For P2, P3, P4 and school team) | 2 p.m. to 4 p.m. | School Gymnasium |
+| Monday&nbsp;(For P1,P2, P3, P4 and school team) | 2 p.m. to 4 p.m. | School Gymnasium |
 | Wednesday&nbsp;(P3, P5, P6, school team) | 2 p.m. to 4 p.m.  | School Gymnasium |
 | Friday&nbsp;(P4, P5, P6, school team) | 2 p.m. to 4 p.m.  | School Gymnasium |
 
