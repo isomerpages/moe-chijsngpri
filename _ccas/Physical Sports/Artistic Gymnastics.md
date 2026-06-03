@@ -19,7 +19,7 @@ variant: markdown
 
 How Do I Qualify for the CCA Programme?
 
-*   Pupils with potential will be identified during one of the Physical Education lessons at Primary One while pupils of other levels (P3-P4) will have to wait for the CCA recruitment drive (at P3) or transfer period in January.
+*  Pupils with potential will be identified during one of the Physical Education lessons at Primary One, while pupils of other levels have to wait for the P3 CCA recruitment drive, or transfer period, which is from November to January.
     
 *   Identified pupils will be invited to attend a two week gymnastics trial.
     
