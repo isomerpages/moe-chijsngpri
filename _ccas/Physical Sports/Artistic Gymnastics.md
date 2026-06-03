@@ -3,6 +3,7 @@ title: Artistic Gymnastics
 permalink: /primary/co-curricular-activities-ccas/physical-sports/artistic-gymnastics/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 <h5><strong>AIMS &amp; OBJECTIVES</strong></h5>
@@ -12,9 +13,9 @@ third_nav_title: Physical Sports
 <p>Through gymnastics, our young athletes learn the importance of teamwork, sportsmanship, and fair play. Gymnastics is difficult to perform, and it requires a lot of dedication and time for our gymnasts to attain mastery of the fundamental skills. As our gymnasts work towards their goals, they develop patience and perseverance.</p>
 
 <h5><strong>PROGRAMME &amp; ACTIVITIES</strong></h5>
-<p></p><p>Artistic Gymnastics is a dynamic sport where gymnasts complete short routines on equipment specially designed for the sport. The game is known for its artistry and grace, requiring gymnasts to display exceptional strength, balance and flexibility while doing somersaults, flips and other acrobatic moves.&nbsp; Gymnasts must possess psychological qualities such as the courage to attempt difficult moves and the discipline to practise a routine many times. The three events we compete in include Uneven Bars, Balance Beam and Floor Exercise. This is a competitive sport CCA. Attendance, commitment, and sustained performance are required from all CCA members.</p>
+<p></p><p>Artistic Gymnastics is a dynamic sport where gymnasts complete short routines on equipment specially designed for the sport. The game is known for its artistry and grace, requiring gymnasts to display exceptional strength, balance and flexibility while doing somersaults, flips and other acrobatic moves.  Gymnasts must possess psychological qualities such as the courage to attempt difficult moves and the discipline to practise a routine many times. The four events we compete in include Uneven Bars, Balance Beam, Vault and Floor Exercise. This is a competitive sport CCA. Attendance, Commitment and Performance are required from all CCA members. </p>
 
-<h5><strong>Selection and Trial Training Module at Primary One</strong></h5>
+<h5><strong>SELECTION AND TRIALS</strong></h5>
 
 How Do I Qualify for the CCA Programme?
 
