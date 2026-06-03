@@ -21,16 +21,16 @@ How Do I Qualify for the CCA Programme?
 
 *  Pupils with potential will be identified during one of the Physical Education lessons at Primary One, while pupils of other levels have to wait for the P3 CCA recruitment drive, or transfer period, which is from November to January.
     
-*   Identified pupils will be invited to attend a two week gymnastics trial.
+*   Identified pupils will be invited to attend the gymnastics trial. 
     
-*   Upon confirmation, the pupil will officially join the gymnastics team as a CCA and has to stay committed to the sports.
-
-<p><em>Note: Shortlisted pupils will receive consent forms issued through Parent Gateway.</em></p>
+<p><em>
+ Note: Shortlisted pupils will receive consent forms issued by the school.</em></p>
 
 <h5><strong>Competitions and Performances*</strong></h5>
 <ul>
-<li>National Championship</li>
 <li>National School Games Artistic Gymnastics Championships</li>
+<li>School-Based performances
+Participants are selected by the teachers-in-charge and coaches.</li>
 <li>Singapore Gymnastics Open Championships</li>
 <li>SNG In-House Competition</li>	
 </ul>
