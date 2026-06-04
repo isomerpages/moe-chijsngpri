@@ -48,7 +48,7 @@ so as to become Girls of Grace, Women of Strength and Leaders with Heart.</p>
 <h4><strong>Development Squad</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong><u>Year 1 ( P3)</u></strong></h4>
+<h4><strong><u>Year 1 (P3)</u></strong></h4>
 <p></p>
 <p>● The pupils train once a week</p>
 <p>● They are taught the basic skills and rules of the game</p>
@@ -68,9 +68,7 @@ Netball carnivals &amp; friendly matches</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
