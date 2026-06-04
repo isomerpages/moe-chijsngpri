@@ -3,6 +3,7 @@ title: Badminton
 permalink: /primary/co-curricular-activities-ccas/physical-sports/badminton/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 <h5><strong>Aims &amp; Objectives</strong></h5>
@@ -46,20 +47,20 @@ their trainings and competitions. Through these interactions, our pupils will be
 <td width="256" style="text-align: center;"><strong>Email</strong></td>
 </tr>
 <tr>
-	<td width="187" style="text-align: center;">Ms He Fang <br>(Overall teacher-in-charge)</td>
+	<td width="187" style="text-align: center;">Ms He Fang  <br>(Semester 1 overall in-charge)</td>
 <td width="256" style="text-align: center;"><a href="mailto:he_fang@schools.gov.sg">he_fang@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td width="187" style="text-align: center;">Ms Juay Chiew Joo (2IC)</td>
-<td width="256" style="text-align: center;"><a href="mailto:juay_chiew_joo@schools.gov.sg">juay_chiew_joo@schools.gov.sg</a></td>
+<td width="187" style="text-align: center;">Mr Ng Junyuan <br> (Semester 2 overall in-charge)</td>
+<td width="256" style="text-align: center;"><a href="mailto:juay_chiew_joo@schools.gov.sg">ng_junyuan@schools.gov.sg</a></td>
 </tr>
 <tr>
-<td width="187" style="text-align: center;">Mr Ng Junyuan</td>
-<td width="256" style="text-align: center;"><a href="mailto:ng_junyuan@schools.gov.sg">ng_junyuan@schools.gov.sg</a>
+<td width="187" style="text-align: center;">Ms Juay Chiew Joo</td>
+<td width="256" style="text-align: center;"><a href="mailto:ng_junyuan@schools.gov.sg">juay_chiew_joo@schools.gov.sg</a>
 </td></tr>
 	<tr>
-<td width="187" style="text-align: center;">Mdm Wong Pih Foung</td>
-<td width="256" style="text-align: center;"><a width="256" href="mailto:<td style="></a><a href="mailto:">wong_pih_foung@schools.gov.sg</a></td>
+<td width="187" style="text-align: center;">Ms Linda Tan</td>
+<td width="256" style="text-align: center;"><a width="256" href="mailto:<td style="></a><a href="mailto:">tan_peck_san_linda@schools.gov.sg</a></td>
 </tr>
 </tbody>
 </table>
