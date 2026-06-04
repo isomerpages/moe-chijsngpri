@@ -45,26 +45,25 @@ so as to become Girls of Grace, Women of Strength and Leaders with Heart.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Development Team</h4>
+<h4><strong>Development Squad</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<h4><u>Year 1 ( P3 )</u></h4>
-<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pupils train once a week</h4>
-<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They are taught the basic skills and rules of the game</h4>
-<p>●&nbsp;&nbsp;&nbsp;They learn Netball in form of a fun modified game</p>
-<p>●&nbsp;&nbsp;&nbsp;They learn application of the basic skills in a game
-situation</p>
-<p>●&nbsp;&nbsp;&nbsp;building their confidence and basic Netball skills</p>
-<p><u>Year 2 (P3 &amp; P4)</u>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;The pupils train once a week</p>
-<p>●&nbsp;&nbsp;&nbsp;They sharpen their basic skills &amp; move on to game
-play and</p>
-<p>●&nbsp;&nbsp;&nbsp;apply their Netball skills in non-competitive Netball
-carnivals</p>
-<p>●&nbsp;&nbsp;&nbsp;Selection for school team for the Primary Schools Championships</p>
-<p>●&nbsp;&nbsp;&nbsp;Pupils&nbsp;who remain in the development squad for
-Year 3 – 4 will play in Netball carnivals &amp; friendly matches</p>
+<h4><strong><u>Year 1 ( P3)</u></strong></h4>
+<p></p>
+<p>● The pupils train once a week</p>
+<p>● They are taught the basic skills and rules of the game</p>
+<p>● They learn Netball skills through fun and modified games</p>
+<p>● They learn application of the basic skills in a game situation</p>
+<p>● They learn the basic Netball skills and build their confidence</p>
+<p></p>
+<h4><strong><u>Year 2 (P3 &amp; P4)</u></strong></h4>
+<p>● The pupils train once a week</p>
+<p>● They sharpen their basic skills &amp; move on to game play</p>
+<p>● They apply their Netball skills in non-competitive Netball carnivals</p>
+<p>● Selection to represent SNG in the school team for the National School
+Games</p>
+<p>● Girls who remain in the Development Squad for Year 3 – 4 will play in
+Netball carnivals &amp; friendly matches</p>
 </td>
 </tr>
 </tbody>
