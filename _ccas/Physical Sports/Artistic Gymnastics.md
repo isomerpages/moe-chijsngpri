@@ -74,6 +74,4 @@ How Do I Qualify for the CCA Programme?
 <h4><strong>CCA Highlights</strong></h4>
 <br>
 
-![](/images/04%20CCAs/Agym2023_01.png)<br>
-![](/images/04%20CCAs/Agym2023_02.png)</li></ul>
-![](/images/04%20CCAs/Picture3.png)
+![](/images/04%20CCAs/Picture3.png)</li></ul>
