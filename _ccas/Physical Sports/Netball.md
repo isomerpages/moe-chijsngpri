@@ -3,65 +3,231 @@ title: Netball
 permalink: /primary/co-curricular-activities-ccas/physical-sports/netball/
 description: ""
 third_nav_title: Physical Sports
-variant: markdown
+variant: tiptap
 ---
-![](/images/01%20Banner%20Photos/cca.jpg)
-
-### **Aims and Objectives**&nbsp;
-Netball is a fast-paced sport that fosters teamwork and trains agility, balance, endurance, speed, and perseverance. In SNGS, we aim to develop every player to the best of her potential through active participation and good strong foundation of Netball basic skills – and have fun in the process! &nbsp;&nbsp;
-
-Specifically, we aim to&nbsp;
-
-&nbsp;●&nbsp;&nbsp;&nbsp; promote the game of netball through the teaching of basic netball skills&nbsp;
-
-&nbsp;●&nbsp;&nbsp;&nbsp; provide opportunities for our pupils to develop physically, psychologically &amp; emotionally&nbsp;
-
-&nbsp;●&nbsp;&nbsp;&nbsp; provide opportunities for players to compete at a level appropriate to their abilities&nbsp;
-
-&nbsp;●&nbsp;&nbsp;&nbsp; develop each player to their fullest potential&nbsp;
-
-&nbsp;●&nbsp;&nbsp;&nbsp; generate a lifelong enjoyment of sport and physical activity for our members
- 
-### **Character Development**&nbsp;
-Netball provides a unique opportunity for both physical and moral development and character building. Through the pursuit of continuous improvement of their physical, psychological, and social skills, our pupils adopt an attitude of fair play and good sportsmanship. &nbsp; Valuing effort, attitude and technique over outcomes, our training programme develops players who are able to think independently and have the confidence to express their opinions and try alternatives in order to learn. &nbsp; Our pupils are also given the opportunity to hone and sharpen their leadership skills through a variety of platforms thereby nurturing players of character so as to become Girls of Grace, Women of Strength and Leaders with Heart.
-
-### **Programmes/Activities**&nbsp;
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="601" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: none; width: 769px; height: 504px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="111" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 163px; border: 1pt solid black;"><h4 style="margin: 0in 0px 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;">Development Team</span></h4></td><td width="490" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 605px; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none;"><h4 style="margin: 0in 0px 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;">Year 1 ( P3 )</span></u><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px;"></span></h4><h4 style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; text-indent: -0.25in;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 14pt; font-family: Symbol; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;">The pupils train once a week</span></h4><h4 style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; text-indent: -0.25in;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 14pt; font-family: Symbol; color: black; font-weight: normal;">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; font-weight: normal;">They are taught the basic skills and rules of the game</span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;"></span></h4><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">They learn Netball in form of a fun modified game</span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">They learn application of the basic skills in a game situation</span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">building their confidence and basic Netball skills</span></p><p class="MsoNormal" style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">Year 2 (P3 &amp; P4)</span></u></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The pupils train once a week</span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">They sharpen their basic skills &amp; move on to game play and</span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">apply their Netball skills in non-competitive Netball carnivals<span style="margin: 0px; outline: 0px; padding: 0px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"></span></span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Selection for school team for the Primary Schools Championships</span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Pupils<span>&nbsp;</span><span style="margin: 0px; outline: 0px; padding: 0px; color: black;">who remain in the development squad for Year 3 – 4 will play in Netball carnivals &amp; friendly matches</span></span></p></td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01%20Banner%20Photos/cca.jpg">
+</div>
+<h3><strong>Aims and Objectives</strong>&nbsp;</h3>
+<p>Netball is a fast-paced sport that fosters teamwork and trains agility,
+balance, endurance, speed, and perseverance. In SNGS, we aim to develop
+every player to the best of her potential through active participation
+and good strong foundation of Netball basic skills – and have fun in the
+process! &nbsp;&nbsp;</p>
+<p>Specifically, we aim to&nbsp;</p>
+<p>&nbsp;●&nbsp;&nbsp;&nbsp; promote the game of netball through the teaching
+of basic netball skills&nbsp;</p>
+<p>&nbsp;●&nbsp;&nbsp;&nbsp; provide opportunities for our pupils to develop
+physically, psychologically &amp; emotionally&nbsp;</p>
+<p>&nbsp;●&nbsp;&nbsp;&nbsp; provide opportunities for players to compete
+at a level appropriate to their abilities&nbsp;</p>
+<p>&nbsp;●&nbsp;&nbsp;&nbsp; develop each player to their fullest potential&nbsp;</p>
+<p>&nbsp;●&nbsp;&nbsp;&nbsp; generate a lifelong enjoyment of sport and physical
+activity for our members</p>
+<h3><strong>Character Development</strong>&nbsp;</h3>
+<p>Netball provides a unique opportunity for both physical and moral development
+and character building. Through the pursuit of continuous improvement of
+their physical, psychological and social skills, our girls adopt an attitude
+of fair play and good sportsmanship.</p>
+<p>Valuing effort, attitude and technique over outcomes, our training programme
+develops players who are able to think independently and have the confidence
+to express their opinions and try alternatives in order to learn.</p>
+<p>Our girls are also given the opportunity to hone and sharpen their leadership
+skills through a variety of platforms thereby nurturing players of character
+so as to become Girls of Grace, Women of Strength and Leaders with Heart.</p>
+<p></p>
+<h3><strong>Programmes/Activities</strong>&nbsp;</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Development Team</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4><u>Year 1 ( P3 )</u></h4>
+<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The pupils train once a week</h4>
+<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They are taught the basic skills and rules of the game</h4>
+<p>●&nbsp;&nbsp;&nbsp;They learn Netball in form of a fun modified game</p>
+<p>●&nbsp;&nbsp;&nbsp;They learn application of the basic skills in a game
+situation</p>
+<p>●&nbsp;&nbsp;&nbsp;building their confidence and basic Netball skills</p>
+<p><u>Year 2 (P3 &amp; P4)</u>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;The pupils train once a week</p>
+<p>●&nbsp;&nbsp;&nbsp;They sharpen their basic skills &amp; move on to game
+play and</p>
+<p>●&nbsp;&nbsp;&nbsp;apply their Netball skills in non-competitive Netball
+carnivals</p>
+<p>●&nbsp;&nbsp;&nbsp;Selection for school team for the Primary Schools Championships</p>
+<p>●&nbsp;&nbsp;&nbsp;Pupils&nbsp;who remain in the development squad for
+Year 3 – 4 will play in Netball carnivals &amp; friendly matches</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="601" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: none; width: 773px; height: 203px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td width="109" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 152px; border: 1pt solid black;"><h4 style="margin: 0in 0px 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;">School Team</span></h4></td><td width="492" valign="top" style="margin: 0px; outline: 0px; padding: 0in 5.4pt; width: 620px; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none;"><h4 style="margin: 0in 0px 0px; outline: 0px; padding: 0px;"><u style="margin: 0px; outline: 0px; padding: 0px;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;">Year 3 – 4 (P5 &amp; 6)</span></u></h4><h4 style="margin: 0in 0in 0.0001pt 0.5in; outline: 0px; padding: 0px; text-indent: -0.25in;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 14pt; font-family: Symbol; color: black; font-weight: normal;">·<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black; font-weight: normal;">School Teams (Junior and Senior) train at least twice a week</span></h4><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">They undergo rigorous physical training to further develop netball skills and learn fine strategy planning</span></p><p class="MsoNormal" style="margin: 0px 0px 10px 0.5in; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; text-indent: -0.25in; border: none;"><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: &quot;Noto Sans&quot;, sans-serif; color: black;">●<span style="margin: 0px; outline: 0px; padding: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;<span>&nbsp;</span></span></span><span lang="EN-SG" style="margin: 0px; outline: 0px; padding: 0px; font-size: 12pt; font-family: Arial, sans-serif; color: black;">They play in the annual North Zone &amp; National Primary Schools Netball Championships</span></p></td></tr></tbody></table>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>School Team</h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4><u>Year 3 – 4 (P5 &amp; 6)</u></h4>
+<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Teams (Junior and Senior) train at least twice a week</h4>
+<p>●&nbsp;&nbsp;&nbsp;They undergo rigorous physical training to further
+develop netball skills and learn fine strategy planning</p>
+<p>●&nbsp;&nbsp;&nbsp;They play in the annual North Zone &amp; National Primary
+Schools Netball Championships</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
-
-
-### **Benefits**&nbsp;
-*   General athletic development
-*   Acquisition of basic motor skills
-*   Development of ball and movement skills
-*   Introduced to the sport of netball
-*   Mental skills training
-*   Character building in line with the school’s vision &amp; mission
-
-
-### **Teachers-in-charge**&nbsp;
-
-| Teacher-in-charge | Email |
-| --- | --- |
-| Mrs Christina Loh (Overall teacher in-charge) | chee_mei_lan_christina@schools.gov.sg |
-| Mdm Noelle Lee&nbsp; | lee_meiting_noelle_francesca@schools.gov.sg[](mailto:lee_kim_lin_rachel@schools.gov.sg) |
-| Mrs Ruth Quek | &nbsp;tan_wee_siew_ruth@schools.gov.sg |
-| Ms Eileen Low | low_wei_ling_eileen@schools.gov.sg  
- | Mdm Peng Ming Ming | peng_ming_ming@schools.gov.sg  
- |
-
-### **CCA Schedule**
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; border: none; width: 860px; height: 324px;" width="513" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5pt; width: 328px; border: 1pt solid black;" valign="top" width="190"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Training/Meeting Venue</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; width: 531px; border-top: 1pt solid black; border-right: 1pt solid black; border-bottom: 1pt solid black; border-image: initial; border-left: none;" valign="top" width="323"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Secondary Indoor Sports Hall (School Teams)</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Primary Parade Square (Development Teams)</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 5pt; width: 142.5pt; border-right: 1pt solid black; border-bottom: 1pt solid black; border-left: 1pt solid black; border-image: initial; border-top: none;" valign="top" width="190"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Training Day / Time</span></p></td><td style="margin: 0px; outline: 0px; padding: 5pt; width: 242.25pt; border-top: none; border-left: none; border-bottom: 1pt solid black; border-right: 1pt solid black;" valign="top" width="323"><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><u style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">For School Team Training</span></u></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Wednesday, 2pm to 4pm</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Friday, 2pm to 4pm</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">&nbsp;</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><u style="margin: 0px; outline: 0px; padding: 0px;"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">For Development Team Training</span></u></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Wednesday, 2pm to 4pm (P4)</span></p><p style="margin: 0px 0px 10px; outline: 0px; padding: 0px; line-height: 24px; color: rgb(0, 18, 45); font-family: Mulish, sans-serif; font-size: 16px;" class="MsoNormal"><span style="margin: 0px; outline: 0px; padding: 0px; font-family: Arial, sans-serif;" lang="EN-SG">Friday, 2pm-4pm (P3)</span></p></td></tr></tbody></table>
-
-\*eCCA (if applicable) is from 3 to 4 pm
-
+</p>
+<h3><strong>Benefits</strong>&nbsp;</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>General athletic development</p>
+</li>
+<li>
+<p>Acquisition of basic motor skills</p>
+</li>
+<li>
+<p>Development of ball and movement skills</p>
+</li>
+<li>
+<p>Introduced to the sport of netball</p>
+</li>
+<li>
+<p>Mental skills training</p>
+</li>
+<li>
+<p>Character building in line with the school’s vision &amp; mission</p>
+</li>
+</ul>
+<h3><strong>Teachers-in-charge</strong>&nbsp;</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Christina Loh (Overall teacher in-charge)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chee_mei_lan_christina@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Noelle Lee&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_meiting_noelle_francesca@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ruth Quek</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;tan_wee_siew_ruth@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Eileen Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>low_wei_ling_eileen@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Peng Ming Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peng_ming_ming@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>CCA Schedule</strong></h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training/Meeting Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Secondary Indoor Sports Hall (School Teams)</p>
+<p>Primary Parade Square (Development Teams)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Day / Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><u>For School Team Training</u>
+</p>
+<p>Wednesday, 2pm to 4pm</p>
+<p>Friday, 2pm to 4pm</p>
+<p>&nbsp;</p>
+<p><u>For Development Team Training</u>
+</p>
+<p>Wednesday, 2pm to 4pm (P4)</p>
+<p>Friday, 2pm-4pm (P3)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*eCCA (if applicable) is from 3 to 4 pm</p>
+<p>
 <br>
-
-### **CCA Highlights**
-
-![](/images/04%20CCAs/netball%2001.jpeg)<br>
-![](/images/04%20CCAs/netball%2002.jpeg)
+</p>
+<h3><strong>CCA Highlights</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/netball%2001.jpeg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/netball%2002.jpeg">
+</div>
+<p></p>
