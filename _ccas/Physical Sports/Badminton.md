@@ -160,15 +160,16 @@ love for the sport and camaraderie among our players.</p>
 </table>
 <p>*eCCA (if applicable) is from 3 to 4 pm</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Badminton04.jpg">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Badminton_2023_Pic01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Badminton05.jpg">
 </div>
+<p></p>
+<p></p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Badminton_2023_Pic02.jpg">
-</div>
 <p></p>
