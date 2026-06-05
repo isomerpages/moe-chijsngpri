@@ -134,10 +134,22 @@ Schools Netball Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Loh (Overall teacher in-charge)</p>
+<p>Mrs Ruth Quek</p>
+<p>(Semester 1 overall in-charge)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_mei_lan_christina@schools.gov.sg</p>
+<p><a href="mailto:tan_wee_siew_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_siew_ruth@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Christina Loh</p>
+<p>(Semester 2 overall in-charge)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_mei_lan_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_mei_lan_christina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -145,15 +157,8 @@ Schools Netball Championships</p>
 <p>Mdm Noelle Lee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_meiting_noelle_francesca@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ruth Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;tan_wee_siew_ruth@schools.gov.sg</p>
+<p><a href="mailto:lee_meiting_noelle_francesca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meiting_noelle_francesca@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -161,23 +166,17 @@ Schools Netball Championships</p>
 <p>Ms Eileen Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_wei_ling_eileen@schools.gov.sg</p>
+<p><a href="mailto:low_wei_ling_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_eileen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peng Ming Ming</p>
+<p>Ms Jade Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peng_ming_ming@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_swee_chern_jade@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peng_ming_ming@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
