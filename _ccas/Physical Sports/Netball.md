@@ -77,11 +77,14 @@ Netball carnivals &amp; friendly matches</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>School Team</h4>
+<h4><strong>School Teams</strong></h4>
+<p><strong>(Junior and Senior Team)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><u>Year 3 – 4 (P5 &amp; 6)</u></h4>
-<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Teams (Junior and Senior) train at least twice a week</h4>
+<h4><strong><u>Year 3 – 4 (P5 &amp; 6)</u></strong></h4>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;School Teams (Junior and Senior) train at least
+twice a week</p>
 <p>●&nbsp;&nbsp;&nbsp;They undergo rigorous physical training to further
 develop netball skills and learn fine strategy planning</p>
 <p>●&nbsp;&nbsp;&nbsp;They play in the annual North Zone &amp; National Primary
