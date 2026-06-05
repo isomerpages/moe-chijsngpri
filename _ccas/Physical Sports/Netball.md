@@ -190,7 +190,8 @@ Schools Netball Championships</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training/Meeting Venue</p>
+<p><strong>Training/Meeting Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secondary Indoor Sports Hall (School Teams)</p>
@@ -199,15 +200,16 @@ Schools Netball Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day / Time</p>
+<p><strong>Training Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>For School Team Training</u>
+<p><strong><u>For School Team Training</u></strong>
 </p>
 <p>Wednesday, 2pm to 4pm</p>
 <p>Friday, 2pm to 4pm</p>
 <p>&nbsp;</p>
-<p><u>For Development Squad Training</u>
+<p><strong><u>For Development Squad Training</u></strong>
 </p>
 <p>Wednesday, 2pm to 4pm (P3)</p>
 <p>Friday, 2pm-4pm (P4)</p>
