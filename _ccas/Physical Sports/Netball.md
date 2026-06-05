@@ -138,7 +138,7 @@ Schools Netball Championships</p>
 <p>(Semester 1 overall in-charge)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_wee_siew_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_siew_ruth@schools.gov.sg</a> 
+<p><a href="mailto:tan_wee_siew_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_siew_ruth@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -157,7 +157,7 @@ Schools Netball Championships</p>
 <p>Mdm Noelle Lee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_meiting_noelle_francesca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meiting_noelle_francesca@schools.gov.sg</a> 
+<p><a href="mailto:lee_meiting_noelle_francesca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meiting_noelle_francesca@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -207,10 +207,10 @@ Schools Netball Championships</p>
 <p>Wednesday, 2pm to 4pm</p>
 <p>Friday, 2pm to 4pm</p>
 <p>&nbsp;</p>
-<p><u>For Development Team Training</u>
+<p><u>For Development Squad Training</u>
 </p>
-<p>Wednesday, 2pm to 4pm (P4)</p>
-<p>Friday, 2pm-4pm (P3)</p>
+<p>Wednesday, 2pm to 4pm (P3)</p>
+<p>Friday, 2pm-4pm (P4)</p>
 </td>
 </tr>
 </tbody>
