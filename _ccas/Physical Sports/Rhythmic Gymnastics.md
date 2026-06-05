@@ -179,7 +179,7 @@ of the joints&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Compulsory for all P2 - P4 gymnasts</p>
+<p>Compulsory for all P1 - P4 and P5 - P6 Non-HCL gymnasts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -223,7 +223,7 @@ of the joints&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Compulsory for P2 - P6</p>
+<p>Compulsory for all P1 - P6 gymnasts</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -234,9 +234,12 @@ of the joints&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>**Pupils participating in competitions will be required to attend extended
-training near competition dates.</p>
-<p>&nbsp;*eCCA (if applicable) is from 3 to 4 pm</p>
+<p>* Pupils participating in competitions will be required to attend extended
+training (three times a week) from February onwards up to competition dates.</p>
+<p>* Pupils identified by the school to represent the school for Stage events
+and attending RGym external training outside school will have to attend
+CCA once a week every Wednesday.</p>
+<p>** eCCA (if applicable) is from 3 pm to 4 pm</p>
 <h3><strong>CCA Highlights</strong>&nbsp;</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/DGym2023_01.jpg">
