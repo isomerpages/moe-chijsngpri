@@ -11,4 +11,4 @@ Please refer to the [MOE Website](https://www.moe.gov.sg/primary/p1-registration
 ##### **Wait List Application**
 
 Application open from July to September 2026 for 2027 admission.
-Please complete and submit the Wait List Form (link: https://form.gov.sg/6a263bb79382ef4360bf1871) latest by 30 September 2026.
+Please complete and submit the Wait List Form [Here](https://form.gov.sg/6a263bb79382ef4360bf1871) latest by 30 September 2026.
