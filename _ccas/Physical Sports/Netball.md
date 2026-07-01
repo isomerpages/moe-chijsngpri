@@ -77,11 +77,14 @@ Netball carnivals &amp; friendly matches</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>School Team</h4>
+<h4><strong>School Teams</strong></h4>
+<p><strong>(Junior and Senior Team)</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><u>Year 3 – 4 (P5 &amp; 6)</u></h4>
-<h4>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Teams (Junior and Senior) train at least twice a week</h4>
+<h4><strong><u>Year 3 – 4 (P5 &amp; 6)</u></strong></h4>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;School Teams (Junior and Senior) train at least
+twice a week</p>
 <p>●&nbsp;&nbsp;&nbsp;They undergo rigorous physical training to further
 develop netball skills and learn fine strategy planning</p>
 <p>●&nbsp;&nbsp;&nbsp;They play in the annual North Zone &amp; National Primary
@@ -131,10 +134,22 @@ Schools Netball Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Christina Loh (Overall teacher in-charge)</p>
+<p>Mrs Ruth Quek</p>
+<p>(Semester 1 overall in-charge)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chee_mei_lan_christina@schools.gov.sg</p>
+<p><a href="mailto:tan_wee_siew_ruth@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wee_siew_ruth@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Christina Loh</p>
+<p>(Semester 2 overall in-charge)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chee_mei_lan_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chee_mei_lan_christina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -142,15 +157,8 @@ Schools Netball Championships</p>
 <p>Mdm Noelle Lee&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_meiting_noelle_francesca@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ruth Quek</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;tan_wee_siew_ruth@schools.gov.sg</p>
+<p><a href="mailto:lee_meiting_noelle_francesca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_meiting_noelle_francesca@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -158,23 +166,17 @@ Schools Netball Championships</p>
 <p>Ms Eileen Low</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>low_wei_ling_eileen@schools.gov.sg</p>
+<p><a href="mailto:low_wei_ling_eileen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_wei_ling_eileen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peng Ming Ming</p>
+<p>Ms Jade Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>peng_ming_ming@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_swee_chern_jade@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">peng_ming_ming@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -188,7 +190,8 @@ Schools Netball Championships</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training/Meeting Venue</p>
+<p><strong>Training/Meeting Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secondary Indoor Sports Hall (School Teams)</p>
@@ -197,18 +200,19 @@ Schools Netball Championships</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day / Time</p>
+<p><strong>Training Day / Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>For School Team Training</u>
+<p><strong><u>For School Team Training</u></strong>
 </p>
 <p>Wednesday, 2pm to 4pm</p>
 <p>Friday, 2pm to 4pm</p>
 <p>&nbsp;</p>
-<p><u>For Development Team Training</u>
+<p><strong><u>For Development Squad Training</u></strong>
 </p>
-<p>Wednesday, 2pm to 4pm (P4)</p>
-<p>Friday, 2pm-4pm (P3)</p>
+<p>Wednesday, 2pm to 4pm (P3)</p>
+<p>Friday, 2pm-4pm (P4)</p>
 </td>
 </tr>
 </tbody>
@@ -221,10 +225,16 @@ Schools Netball Championships</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/netball%2001.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/netball%2002.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Netball03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Netball04.jpg">
 </div>
 <p></p>
