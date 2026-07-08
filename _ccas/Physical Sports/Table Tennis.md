@@ -39,7 +39,10 @@ Through regular practice and participation in competitions, the CCA encourages s
 
 | Teacher-in-charge | Email |
 | -------- | -------- | 
-| Mdm Toh Poh Yen&nbsp;(Overall teacher in-charge) | toh_poh_yen@schools.gov.sg |
+| Ms Lam Xiang Qi 
+(Semester 1 overall in-charge)&nbsp;(Overall teacher in-charge) | lam_xiang_qi@schools.gov.sg |
+| Mdm Chia Yi Ling 
+(Semester 1 overall in-charge) | chia_yi_ling@schools.gov.sg |
 | Mrs Justine Hum | choo_hui_kian@schools.gov.sg |
 | Mr Phoon Chee Weng | phoon_chee_weng@schools.gov.sg |
 
