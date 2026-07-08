@@ -178,13 +178,15 @@ increase members’ cooperation, competitiveness and readiness.&nbsp;</p>
 <p>School team players are to attend both Wednesday and Friday sessions.</p>
 <p>*eCCA (if applicable) is from 3 pm to 4 pm</p>
 <h3><strong>CCA Highlights</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Table%20Tennis2023_Pic01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our Team 1" src="/images/04 CCAs/Table_Tennis_01.jpg">
 </div>
 <p>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Table%20Tennis2023_Pic02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Our team 2" src="/images/04 CCAs/Table_Tennis_02.jpg">
 </div>
 <p></p>
