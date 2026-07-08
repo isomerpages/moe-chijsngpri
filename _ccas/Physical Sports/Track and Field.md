@@ -16,8 +16,9 @@ variant: markdown
 
 ### **Programme/Activities**
 <ul>
-<li>To participate in invitational relays and National Inter-school Championships</li>
-<li>To attend CCA camps</li>
+<li>Invitational competitions and National School Games</li>
+<li>TCCA camps</li>
+<li>VIA activities</li>
 </ul>
 
 ### **Benefits**
