@@ -325,13 +325,20 @@ enjoyable, safe and friendly environment for all members.</p>
 </table>
 <p>*eCCA (if applicable) is from 3 to 4 pm</p>
 <h3>CCA Highlights</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Arts%20and%20Craft_Pic01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Art_Club18.jpg">
 </div>
 <p>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Arts%20and%20Craft_Pic02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Art_Club_19.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Art_Club_20.jpg">
 </div>
 <p></p>
