@@ -136,9 +136,6 @@ increase members’ cooperation, competitiveness and readiness.&nbsp;</p>
 <p>Wednesday&nbsp;
 <br>
 </p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -152,9 +149,6 @@ increase members’ cooperation, competitiveness and readiness.&nbsp;</p>
 <p>Friday&nbsp;
 <br>
 </p>
-<p>
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
@@ -166,9 +160,7 @@ increase members’ cooperation, competitiveness and readiness.&nbsp;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wed and Friday&nbsp;
-<br>
-</p>
-<p>(for P4 to P6 School Team members)
+<br>(for P4 to P6 School members)
 <br>
 </p>
 </td>
@@ -183,10 +175,8 @@ increase members’ cooperation, competitiveness and readiness.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>*eCCA (if applicable) is from 3 to 4 pm</p>
-<p>DAY TIME VENUE Wednesday 2.00 p.m. to 4.00 p.m. ISH Primary Friday 2.00
-p.m. to 4.00 p.m ISH Primary Wednesday and Friday (for P4 to P6 members)
-2.00 p.m. to 4.00 p.m ISH Primary</p>
+<p>School team players are to attend both Wednesday and Friday sessions.</p>
+<p>*eCCA (if applicable) is from 3 pm to 4 pm</p>
 <h3><strong>CCA Highlights</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Table%20Tennis2023_Pic01.jpg">
