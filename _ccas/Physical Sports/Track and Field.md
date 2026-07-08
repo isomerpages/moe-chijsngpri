@@ -92,8 +92,8 @@ their leadership skills as they help guide their teammates and juniors.</p>
 <p>Mrs Marilyn Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="teo_hong_ling_marilyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan	</a>
-<a href="mailto:teo_hong_ling_marilyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hong_ling_marilyn@schools.gov.sg</a><a href="teo_hong_ling_marilyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"> </a>
+<p><a href="teo_hong_ling_marilyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan </a>
+<a href="mailto:teo_hong_ling_marilyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hong_ling_marilyn@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -150,7 +150,7 @@ their leadership skills as they help guide their teammates and juniors.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. to 4 p.m.</p>
+<p>2 p.m. to 4 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Track</p>
@@ -161,7 +161,7 @@ their leadership skills as they help guide their teammates and juniors.</p>
 <p>Friday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. to 4 p.m.</p>
+<p>2 p.m. to 4 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Track</p>
@@ -169,7 +169,8 @@ their leadership skills as they help guide their teammates and juniors.</p>
 </tr>
 </tbody>
 </table>
-<p>\*eCCA (if applicable) is from 3 to 4 pm</p>
+<p>*Pupils are strongly encouraged to commit to attending both sessions.</p>
+<p>**eCCA (if applicable) is from 3 pm to 4 pm</p>
 <h3><strong>CCA Highlights</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Track%20and%20Field2023_01.jpg">
