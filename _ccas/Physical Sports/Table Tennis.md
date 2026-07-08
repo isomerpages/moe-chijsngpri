@@ -28,8 +28,9 @@ Through regular practice and participation in competitions, the CCA encourages s
 
 ### **Benefits**&nbsp;
 <ul>
-<li>Train pupils to be resilient</li>
+<li>Train pupils to be resilient and disciplined</li>
 <li>Foster team spirit</li>
+<li>Pick up a fun sport </li>
 </ul>
 
 ### Teachers-in-charge
