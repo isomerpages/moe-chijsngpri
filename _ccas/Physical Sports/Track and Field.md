@@ -177,14 +177,16 @@ their leadership skills as they help guide their teammates and juniors.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="If you love running, jumping and throwing, come JOIN us!" src="/images/04 CCAs/Track_Field_15.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Track and Field team" src="/images/04 CCAs/Track_Field_16.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Track_Field_16.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Track and Field team 2" src="/images/04 CCAs/Track_Field_17.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Track_Field_17.jpg">
 </div>
+<p>
+<br>
+</p>
+<p></p>
 <p></p>
