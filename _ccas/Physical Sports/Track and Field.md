@@ -172,13 +172,19 @@ their leadership skills as they help guide their teammates and juniors.</p>
 <p>*Pupils are strongly encouraged to commit to attending both sessions.</p>
 <p>**eCCA (if applicable) is from 3 pm to 4 pm</p>
 <h3><strong>CCA Highlights</strong></h3>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Track%20and%20Field2023_01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="If you love running, jumping and throwing, come JOIN us!" src="/images/04 CCAs/Track_Field_15.jpg">
 </div>
 <p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04%20CCAs/Track%20and%20Field2023_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Track and Field team" src="/images/04 CCAs/Track_Field_16.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Track and Field team 2" src="/images/04 CCAs/Track_Field_17.jpg">
 </div>
 <p></p>
