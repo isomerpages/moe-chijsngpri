@@ -184,6 +184,6 @@ increase members’ cooperation, competitiveness and readiness.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Our team 2" src="/images/04 CCAs/Table_Tennis_02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04 CCAs/Table_Tennis_02.jpg">
 </div>
 <p></p>
