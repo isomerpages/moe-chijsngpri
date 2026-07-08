@@ -3,16 +3,20 @@ title: Table Tennis
 permalink: /primary/co-curricular-activities-ccas/physical-sports/table-tennis/
 description: ""
 third_nav_title: Physical Sports
+variant: markdown
 ---
 ![](/images/01%20Banner%20Photos/cca.jpg)
 
 ### **Aims and objectives**&nbsp;
 
-<p>Our table tennis school teams are actively involved in both the zonal and national competitions. The objectives are to nurture and develop resilience, confidence and perseverance among our members, and promote the values of sportsmanship and teamwork.&nbsp;</p>
+<p>The Table Tennis CCA aims to introduce students to the basic techniques and rules of table tennis while developing their physical skills such as hand-eye coordination and agility. It also seeks to foster important values like discipline, resilience, teamwork, and good sportsmanship. Our school teams are actively involved in the national competitions.  
+
+Through regular practice and participation in competitions, the CCA encourages students to adopt a healthy lifestyle, build confidence, and cultivate perseverance. Ultimately, it strives to create an enjoyable and supportive environment where every student can grow their passion and abilities in the sport.&nbsp;</p>
 
 ### **Character Development**&nbsp;
 <ul>
-<li>Perseverance, fair play and sportsmanship&nbsp;</li>
+<li>Discipline and resiliencep&nbsp;</li>
+<li>Fair play and sportsmanship</li>
 <li>Leadership training</li>
 </ul>
 
