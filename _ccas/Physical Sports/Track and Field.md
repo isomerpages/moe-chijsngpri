@@ -12,7 +12,7 @@ variant: markdown
 <p>Track and field as a CCA is an effective way to increase pupils’ cardiovascular fitness as well as maintain a healthy weight. It promotes competition and encourages pupils to improve their running ability while promoting teamwork. As pupils play, train and compete together, friendships are formed as members persevere and strive through training sessions together. This bond promotes camaraderie and makes the team stronger.</p>
 
 ### **Character Development**
-<p>We aim to nurture and develop pupils who have a keen interest in track and field events. Through the sports, we hope to develop sportsmanship&nbsp;towards teammates and competitors. In Track and Field, we provide opportunities for leadership development.</p>
+<p>We aim to nurture and develop discipline and sportsmanship in our athletes. As pupils gain more experience, they will get the opportunity to develop their leadership skills as they help guide their teammates and juniors.</p>
 
 ### **Programme/Activities**
 <ul>
