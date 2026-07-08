@@ -24,9 +24,13 @@ variant: markdown
 ### **Benefits**
 <ul>
 <li>Develop the resilience of pupils</li>
-<li>Increase pupils’ cardiovascular fitness</li>
+<li>Improves cardiovascular fitness, strength and endurance</li>
 <li>Help to maintain a healthy weight for pupils</li>
+<li>Enhances coordinating, balance and agility </li>
+<li>Fosters team spirit and a sense of belonging </li>
 </ul>
+
+
 
 ### **Teachers In-Charge**&nbsp;
 <table width="619">
